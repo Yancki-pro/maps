@@ -1,0 +1,25 @@
+{
+    "name": "Laura Williams",
+    "age": 98,
+    "address": {
+        "street": "Kirby Unions",
+        "city": "Howellside",
+        "state": "Georgia",
+        "zip": "63660"
+    },
+    "contact": {
+        "phone": "001-704-748-9665",
+        "servicePhone": "800185533"
+    },
+    "birthday": "1927-26-05",
+    "ip": "153.74.253.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview take sometimes apply front professional. Member condition minute simple. Own management cell manager nation. Certain speech front before dog put former.\nPut require her yet total president.",
+        "bio": "However artist year direction color daughter. Region brother with deal strategy. Ever need think learn enough wife sometimes ahead."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
