@@ -1,0 +1,25 @@
+{
+    "name": "Stanley Mcgee",
+    "age": 82,
+    "address": {
+        "street": "Mitchell Point",
+        "city": "Brittanychester",
+        "state": "Utah",
+        "zip": "66011"
+    },
+    "contact": {
+        "phone": "001-703-989-4515",
+        "servicePhone": "800374775"
+    },
+    "birthday": "1943-10-07",
+    "ip": "47.119.32.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight floor discussion administration. Very reveal him close dinner choice difficult item.",
+        "bio": "Expert official sense can conference watch. Believe record right none. Century because off expect decide wait reach newspaper. Two each reason personal side idea."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
