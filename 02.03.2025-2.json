@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Barton",
+    "age": 73,
+    "address": {
+        "street": "Freeman Falls",
+        "city": "Robertbury",
+        "state": "Virginia",
+        "zip": "39046"
+    },
+    "contact": {
+        "phone": "(276)302-2847x161",
+        "servicePhone": "800784901"
+    },
+    "birthday": "1952-14-01",
+    "ip": "187.255.70.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Over chair indeed bed. Cost particularly relate evidence. All billion anyone too.\nTrial each stay husband peace paper marriage challenge. Natural particularly coach instead better remain.",
+        "bio": "Hit there just coach number. Republican capital hear beautiful instead I. Standard well forget study real meet."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
