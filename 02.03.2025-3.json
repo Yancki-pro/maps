@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Blair",
+    "age": 10,
+    "address": {
+        "street": "Davis Overpass",
+        "city": "North Olivia",
+        "state": "Kentucky",
+        "zip": "11194"
+    },
+    "contact": {
+        "phone": "+1-887-947-6589x445",
+        "servicePhone": "800985528"
+    },
+    "birthday": "2015-30-09",
+    "ip": "157.47.121.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind tree generation interesting but resource bring. Somebody image tend dream.\nThan on experience. Prevent benefit make appear.",
+        "bio": "Enter week give compare successful interesting nor. Poor wall protect road size job.\nOffer test court best employee. Peace community speak issue that run account."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
