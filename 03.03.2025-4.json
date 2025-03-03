@@ -1,0 +1,25 @@
+{
+    "name": "Darius Curtis",
+    "age": 11,
+    "address": {
+        "street": "Taylor Mountain",
+        "city": "Hendersonburgh",
+        "state": "Alaska",
+        "zip": "43121"
+    },
+    "contact": {
+        "phone": "(293)597-5260x5586",
+        "servicePhone": "800082839"
+    },
+    "birthday": "2014-01-10",
+    "ip": "84.205.249.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern walk finish the line music each. Voice forget support lose specific.\nMessage style early drive. Behind political professional town security. Partner charge worry it. Step network walk agree.",
+        "bio": "Eat probably respond budget area social employee. Region project both gas marriage the source capital. Region until exactly meeting direction blue receive four. Year card soon past."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
