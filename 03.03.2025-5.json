@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Klein",
+    "age": 19,
+    "address": {
+        "street": "John Street",
+        "city": "East Sarah",
+        "state": "Washington",
+        "zip": "99515"
+    },
+    "contact": {
+        "phone": "344-991-6499",
+        "servicePhone": "800948531"
+    },
+    "birthday": "2006-19-09",
+    "ip": "39.125.100.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat meeting exist face. Concern perform himself give up hold. Value impact worker enjoy water involve.",
+        "bio": "Pass agent style dark. Bring cup I soldier suggest blood remain. Unit east big must major read these one."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
