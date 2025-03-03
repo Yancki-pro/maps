@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Orr",
+    "age": 42,
+    "address": {
+        "street": "Paul Greens",
+        "city": "Christophermouth",
+        "state": "Wyoming",
+        "zip": "10331"
+    },
+    "contact": {
+        "phone": "9247409656",
+        "servicePhone": "800401240"
+    },
+    "birthday": "1983-07-03",
+    "ip": "153.114.30.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover walk member little. Know high else animal message store factor teach. Happen strong major land where interest establish.",
+        "bio": "Recently investment black song eight take accept data. Bring try allow show medical onto how.\nUsually everyone media deep their. Minute understand image. Two already four possible act impact song."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
