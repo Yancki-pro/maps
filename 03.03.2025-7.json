@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Cooper",
+    "age": 75,
+    "address": {
+        "street": "Jose Ferry",
+        "city": "West Austin",
+        "state": "Maryland",
+        "zip": "83293"
+    },
+    "contact": {
+        "phone": "+1-287-791-0724x22204",
+        "servicePhone": "800626929"
+    },
+    "birthday": "1950-18-02",
+    "ip": "210.30.46.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Different far western law change. Company detail art.",
+        "bio": "Appear natural Democrat could value. Book anyone receive bring within. Actually whom record power.\nAdult as cold go by represent administration. Data call forward ability."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
