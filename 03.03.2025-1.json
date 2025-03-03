@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Kelly Yang",
+    "age": 48,
+    "address": {
+        "street": "Bell Underpass",
+        "city": "Port Levi",
+        "state": "Delaware",
+        "zip": "76413"
+    },
+    "contact": {
+        "phone": "(872)581-1465x12494",
+        "servicePhone": "800761637"
+    },
+    "birthday": "1977-31-05",
+    "ip": "157.123.23.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish bit structure news close. Husband art someone really party. Late sense box reflect body begin.\nMost about plan according alone. Reduce partner hard maybe authority.",
+        "bio": "Away grow approach operation call learn.\nStreet prove great. Until usually read range itself image glass. Development camera me."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
