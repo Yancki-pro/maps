@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Franco",
+    "age": 5,
+    "address": {
+        "street": "Hernandez Fields",
+        "city": "Port Jenniferburgh",
+        "state": "Illinois",
+        "zip": "33458"
+    },
+    "contact": {
+        "phone": "728-806-5324",
+        "servicePhone": "800300316"
+    },
+    "birthday": "2020-23-05",
+    "ip": "165.175.226.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Result method fast. So four million water question although thousand vote.",
+        "bio": "Section style image back according.\nWeight speech prove boy easy. Various management ten safe across. Close find gas father street.\nSave purpose garden newspaper ready. Investment step kid well."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
