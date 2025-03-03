@@ -1,0 +1,25 @@
+{
+    "name": "Jared Smith",
+    "age": 71,
+    "address": {
+        "street": "Nicole Ville",
+        "city": "Phillipsville",
+        "state": "New York",
+        "zip": "74440"
+    },
+    "contact": {
+        "phone": "(330)804-3992x6077",
+        "servicePhone": "800940976"
+    },
+    "birthday": "1954-01-09",
+    "ip": "148.56.223.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Issue election teach wish. Election individual who account week. Operation place his although unit avoid how.\nTrial husband food figure.",
+        "bio": "Our radio never policy. Minute new pick argue always mention. However nearly ask administration open sign leg."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
