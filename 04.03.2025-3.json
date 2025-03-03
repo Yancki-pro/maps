@@ -1,0 +1,25 @@
+{
+    "name": "Sean Green",
+    "age": 64,
+    "address": {
+        "street": "Turner Creek",
+        "city": "Brownfurt",
+        "state": "Alabama",
+        "zip": "64106"
+    },
+    "contact": {
+        "phone": "728-827-4951x77906",
+        "servicePhone": "800406217"
+    },
+    "birthday": "1961-24-06",
+    "ip": "153.83.47.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Least with traditional respond everything policy skin. Nature rise blue. Subject minute state impact senior line should.\nExpert tax senior. Dream player including city born.",
+        "bio": "Once author store how wrong generation. Cause environment nor collection. Trade wait three town far.\nThough former industry without everybody final. Hotel outside head guess."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
