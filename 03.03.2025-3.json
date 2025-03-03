@@ -1,0 +1,25 @@
+{
+    "name": "Jack Young",
+    "age": 110,
+    "address": {
+        "street": "Joshua Place",
+        "city": "Carmentown",
+        "state": "Nebraska",
+        "zip": "73208"
+    },
+    "contact": {
+        "phone": "001-343-528-1041",
+        "servicePhone": "800035285"
+    },
+    "birthday": "1915-20-03",
+    "ip": "149.112.253.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic last per. Him available term have development cut check. Feeling defense follow difference no record.",
+        "bio": "Responsibility must phone wear here official.\nList member have modern.\nArgue she development. So at doctor husband catch billion sea. Painting imagine process author. Visit dark environment."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
