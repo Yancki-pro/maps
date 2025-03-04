@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Campbell",
+    "age": 54,
+    "address": {
+        "street": "Wilson Locks",
+        "city": "Josephborough",
+        "state": "Vermont",
+        "zip": "36871"
+    },
+    "contact": {
+        "phone": "001-665-832-5377x3861",
+        "servicePhone": "800699711"
+    },
+    "birthday": "1971-01-01",
+    "ip": "59.51.31.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Early why lose goal reflect. Exactly with change strong difficult former.",
+        "bio": "Citizen meet myself military game. Job maintain beyond international nor heavy western. Sea learn character skill similar character behavior."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
