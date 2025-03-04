@@ -1,0 +1,25 @@
+{
+    "name": "Chad Moore Jr.",
+    "age": 30,
+    "address": {
+        "street": "Valenzuela Land",
+        "city": "New Jamesland",
+        "state": "West Virginia",
+        "zip": "66364"
+    },
+    "contact": {
+        "phone": "363.786.5417",
+        "servicePhone": "800385286"
+    },
+    "birthday": "1995-23-05",
+    "ip": "180.199.200.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Business region he his few radio room. Summer anything white try. Room indicate head Republican form room.",
+        "bio": "Church doctor subject lawyer do organization. Treat nice real amount information own with. May role three seven population once find. Card machine step."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
