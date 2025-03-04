@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Todd",
+    "age": 97,
+    "address": {
+        "street": "Carter Points",
+        "city": "South Markside",
+        "state": "North Dakota",
+        "zip": "71083"
+    },
+    "contact": {
+        "phone": "(663)806-0320",
+        "servicePhone": "800116564"
+    },
+    "birthday": "1928-23-11",
+    "ip": "196.237.225.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Have final money attention hundred ahead. Happen scientist protect stay general door choose surface. Story teacher fly wonder ground could. Parent matter participant.",
+        "bio": "Policy decision focus capital land series. Film ground everyone floor table.\nAnother over level. Majority mind return purpose rise. Pay generation require design."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
