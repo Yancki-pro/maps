@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Woods DDS",
+    "age": 14,
+    "address": {
+        "street": "Miguel Flat",
+        "city": "Tylerfort",
+        "state": "Kentucky",
+        "zip": "76944"
+    },
+    "contact": {
+        "phone": "001-710-409-5159x297",
+        "servicePhone": "800995292"
+    },
+    "birthday": "2011-29-01",
+    "ip": "189.70.237.4",
+    "foo": "bar",
+    "profile": {
+        "about": "College face stay important. Song whole attack here activity large listen. Group worry add yard three letter.\nPoint southern born onto news care person candidate. Able thank end unit stop well kind.",
+        "bio": "Simply have participant represent. Road walk around grow pretty. Dog join effort it while.\nDemocrat take need interesting. Power series leg will. Seat as fill always material."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
