@@ -1,0 +1,25 @@
+{
+    "name": "Linda Rangel",
+    "age": 80,
+    "address": {
+        "street": "Carolyn Wells",
+        "city": "East Patricia",
+        "state": "South Carolina",
+        "zip": "05996"
+    },
+    "contact": {
+        "phone": "001-272-500-8348",
+        "servicePhone": "800148820"
+    },
+    "birthday": "1945-16-03",
+    "ip": "189.160.0.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Table real box item. Else direction lay involve. Focus nothing billion affect sure beautiful.\nHim artist him across. Old step mind.\nRespond me share him. Debate process even take.",
+        "bio": "Meet up recently week view growth. Almost meet help. Though similar mission should stand size occur. Hope crime treatment mention ten drop carry."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
