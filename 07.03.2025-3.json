@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Jennings",
+    "age": 7,
+    "address": {
+        "street": "Michael Plains",
+        "city": "Lake Joseph",
+        "state": "California",
+        "zip": "77188"
+    },
+    "contact": {
+        "phone": "(916)270-1771x18601",
+        "servicePhone": "800818169"
+    },
+    "birthday": "2018-03-06",
+    "ip": "83.180.62.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Final fight east establish sit develop. Dinner model until range positive.\nJob fight interest section. Cost realize feeling agent war.",
+        "bio": "Tonight past leader night learn account. Available purpose then.\nDebate upon such. Range reality simple bill special policy note trip."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
