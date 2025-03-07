@@ -1,0 +1,25 @@
+{
+    "name": "Mary Fritz",
+    "age": 57,
+    "address": {
+        "street": "Daugherty Crossing",
+        "city": "Hursttown",
+        "state": "Utah",
+        "zip": "85119"
+    },
+    "contact": {
+        "phone": "215-327-7131",
+        "servicePhone": "800055632"
+    },
+    "birthday": "1968-20-01",
+    "ip": "42.246.183.62",
+    "foo": "bar",
+    "profile": {
+        "about": "This plant charge follow. Election understand be religious current from enough.\nConcern radio large senior respond fund. Ask government provide night. Because box begin wait yes.",
+        "bio": "Remain opportunity much everything smile.\nSouth share mention option baby network heart. Economic feel language watch. Spend recently either service yes."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
