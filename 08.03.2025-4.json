@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Morgan",
+    "age": 115,
+    "address": {
+        "street": "Cherry Pines",
+        "city": "New Kristin",
+        "state": "North Dakota",
+        "zip": "10677"
+    },
+    "contact": {
+        "phone": "663.780.6341x9131",
+        "servicePhone": "800736375"
+    },
+    "birthday": "1910-25-06",
+    "ip": "148.208.146.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire but draw onto. Outside draw population production their. Morning organization near purpose try community space tonight. Product statement must control shoulder back age brother.",
+        "bio": "Style herself exactly about source. Car to fact fill report number doctor.\nSociety wear admit little agent clearly. Old stop race low."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
