@@ -1,0 +1,25 @@
+{
+    "name": "David Williams",
+    "age": 36,
+    "address": {
+        "street": "Gabriel Mount",
+        "city": "New Kristen",
+        "state": "Tennessee",
+        "zip": "63216"
+    },
+    "contact": {
+        "phone": "(735)533-1847x71602",
+        "servicePhone": "800557873"
+    },
+    "birthday": "1989-02-08",
+    "ip": "55.213.55.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly save social early. Significant seem natural stop. Yes on raise particularly local someone.",
+        "bio": "Civil material bed general. Apply cut tell seven task. Community game answer face. Research party condition both."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
