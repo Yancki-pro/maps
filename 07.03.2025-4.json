@@ -1,0 +1,25 @@
+{
+    "name": "James Brown",
+    "age": 38,
+    "address": {
+        "street": "Woods Ranch",
+        "city": "Mathewfort",
+        "state": "Alabama",
+        "zip": "55933"
+    },
+    "contact": {
+        "phone": "+1-699-942-3144x7536",
+        "servicePhone": "800574052"
+    },
+    "birthday": "1987-07-12",
+    "ip": "157.153.96.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Network company building deal evidence have without. Push spring actually order mouth individual coach. Campaign fund true item student author.",
+        "bio": "Watch matter team. Either fall offer from simple unit discussion."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
