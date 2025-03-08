@@ -1,0 +1,25 @@
+{
+    "name": "David Everett",
+    "age": 25,
+    "address": {
+        "street": "Vasquez Brook",
+        "city": "Torresfurt",
+        "state": "West Virginia",
+        "zip": "13732"
+    },
+    "contact": {
+        "phone": "(402)944-2123x673",
+        "servicePhone": "800858740"
+    },
+    "birthday": "2000-31-01",
+    "ip": "151.35.42.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Education network property lawyer spring perhaps.\nAlmost international want others nice door. Daughter herself thought six control process task. Shake government while.",
+        "bio": "Event need house responsibility. Late mean well edge difference relationship former. Peace work language more."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
