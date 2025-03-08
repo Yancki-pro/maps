@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Sheri Salinas MD",
+    "age": 94,
+    "address": {
+        "street": "Woodward Tunnel",
+        "city": "West Jeffrey",
+        "state": "Maine",
+        "zip": "58068"
+    },
+    "contact": {
+        "phone": "001-388-310-3643x188",
+        "servicePhone": "800657650"
+    },
+    "birthday": "1931-02-02",
+    "ip": "196.132.157.87",
+    "foo": "bar",
+    "profile": {
+        "about": "They letter possible bank call PM doctor another. From business up themselves she pull purpose. Country goal simple including.\nBuy cell together politics city animal support.",
+        "bio": "Since mention huge half and high society many. Leg meet in be green expert behavior. Collection notice commercial not receive put marriage site."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
