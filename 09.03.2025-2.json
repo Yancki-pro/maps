@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Lee",
+    "age": 14,
+    "address": {
+        "street": "Taylor Mountains",
+        "city": "South Marybury",
+        "state": "Georgia",
+        "zip": "75607"
+    },
+    "contact": {
+        "phone": "001-532-836-8198",
+        "servicePhone": "800828017"
+    },
+    "birthday": "2011-14-01",
+    "ip": "223.129.21.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest effect at alone. Organization eye cup summer section.\nFinish mother candidate clearly edge. Someone position drop early its.",
+        "bio": "Area medical so save rock hot onto. Even until almost character realize check trial. Reveal scene last become entire true make."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
