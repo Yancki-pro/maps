@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Patterson",
+    "age": 63,
+    "address": {
+        "street": "Patterson Shores",
+        "city": "Bonnieville",
+        "state": "Georgia",
+        "zip": "86312"
+    },
+    "contact": {
+        "phone": "560-433-8556x870",
+        "servicePhone": "800945441"
+    },
+    "birthday": "1962-06-11",
+    "ip": "185.44.68.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment live experience language walk.\nTake staff go one remain. Drop above guy source floor man.\nCultural evidence would apply tell. Start student even investment.",
+        "bio": "They may business research very positive trial. Far medical report contain. Change property window however economic."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
