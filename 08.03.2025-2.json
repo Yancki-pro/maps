@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Irwin",
+    "age": 0,
+    "address": {
+        "street": "Dawn Dale",
+        "city": "Mckinneymouth",
+        "state": "Missouri",
+        "zip": "79195"
+    },
+    "contact": {
+        "phone": "+1-654-211-5922x1462",
+        "servicePhone": "800308213"
+    },
+    "birthday": "2025-12-05",
+    "ip": "41.172.134.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Power close view point. Travel doctor measure available second out bar.\nCar detail weight only. Generation management ask bag. Fish simple information job major.",
+        "bio": "Professor guess various lawyer us. Head hot make inside six. Mrs position child than computer so.\nBe sound wind. Major significant husband ask party order wrong. Keep their allow game remain at."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
