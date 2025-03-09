@@ -1,0 +1,25 @@
+{
+    "name": "Tyrone Brown",
+    "age": 73,
+    "address": {
+        "street": "Zimmerman Centers",
+        "city": "South Kimberlymouth",
+        "state": "Utah",
+        "zip": "44779"
+    },
+    "contact": {
+        "phone": "4213792788",
+        "servicePhone": "800642008"
+    },
+    "birthday": "1952-01-11",
+    "ip": "141.175.102.178",
+    "foo": "bar",
+    "profile": {
+        "about": "World experience individual wait order statement people. Million head view general cell identify bar. Evening practice carry me think reveal. Whole feel vote foreign clear matter.",
+        "bio": "Beyond fish quickly security special. Gun example evidence fund just though know.\nTeam once pull moment.\nKitchen simple discussion school direction. Get provide and charge look pay use."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
