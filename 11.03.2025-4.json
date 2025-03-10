@@ -1,0 +1,25 @@
+{
+    "name": "Amber Davis",
+    "age": 59,
+    "address": {
+        "street": "Amanda Drive",
+        "city": "Bryanshire",
+        "state": "South Dakota",
+        "zip": "02114"
+    },
+    "contact": {
+        "phone": "+1-737-678-6407",
+        "servicePhone": "800975629"
+    },
+    "birthday": "1966-18-12",
+    "ip": "85.159.16.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide training drive part.\nSomebody cover these mother song. Fill between likely money rock.\nPoint none risk peace common hospital. Bar would put bad themselves.",
+        "bio": "Me hair grow chance lay hundred sure. Bad customer attorney most.\nSafe behavior protect politics seem. Memory make despite manager. Nice recent blood some however book."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
