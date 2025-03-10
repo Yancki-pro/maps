@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Becker",
+    "age": 58,
+    "address": {
+        "street": "Pope Course",
+        "city": "Ericfurt",
+        "state": "Illinois",
+        "zip": "12402"
+    },
+    "contact": {
+        "phone": "727-735-8593x38527",
+        "servicePhone": "800021583"
+    },
+    "birthday": "1967-12-11",
+    "ip": "96.190.179.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard recently which today. Moment defense point the west. Method include level nor miss give. Notice glass short fund eat same.\nBack loss southern. Question loss analysis head around area.",
+        "bio": "Main structure six five. Bar determine receive can father fill white. Real miss back draw American board number."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
