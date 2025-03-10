@@ -1,0 +1,25 @@
+{
+    "name": "Linda Maddox",
+    "age": 110,
+    "address": {
+        "street": "Nicholson Extension",
+        "city": "New Thomas",
+        "state": "Minnesota",
+        "zip": "76974"
+    },
+    "contact": {
+        "phone": "(940)319-1656",
+        "servicePhone": "800076257"
+    },
+    "birthday": "1915-13-08",
+    "ip": "149.112.59.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat consumer security only including scene. Development kitchen offer service role traditional enjoy unit.",
+        "bio": "It home piece six game over skin. Arm American learn yeah. Mrs no certainly player.\nPresident from record drop those put. Store situation board stuff admit. Environment fight smile standard leader."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
