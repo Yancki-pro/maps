@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Richard Nguyen",
+    "age": 101,
+    "address": {
+        "street": "Richardson Ports",
+        "city": "Port Carlos",
+        "state": "Massachusetts",
+        "zip": "77491"
+    },
+    "contact": {
+        "phone": "+1-709-938-2210x93914",
+        "servicePhone": "800978003"
+    },
+    "birthday": "1924-01-04",
+    "ip": "18.46.237.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward no source be rule. Agency end yet its beat.\nHouse theory item enter. Prove purpose while structure good oil try. Situation minute its cause environment.",
+        "bio": "Across administration join who watch home word. Size hit already tonight way. Mean compare understand future cover western."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
