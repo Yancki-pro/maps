@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Ford",
+    "age": 73,
+    "address": {
+        "street": "Anderson Fords",
+        "city": "East Heidi",
+        "state": "South Dakota",
+        "zip": "48829"
+    },
+    "contact": {
+        "phone": "239.245.1817x38576",
+        "servicePhone": "800832468"
+    },
+    "birthday": "1952-26-09",
+    "ip": "6.243.145.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Those truth might change recognize point. Activity deal break while themselves.",
+        "bio": "Ask girl end approach police your. Avoid financial unit itself hot school citizen."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
