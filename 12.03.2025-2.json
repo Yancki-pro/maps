@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Garcia",
+    "age": 47,
+    "address": {
+        "street": "Stephanie Harbor",
+        "city": "New Tracystad",
+        "state": "Georgia",
+        "zip": "59423"
+    },
+    "contact": {
+        "phone": "001-580-971-0426x4985",
+        "servicePhone": "800041775"
+    },
+    "birthday": "1978-12-12",
+    "ip": "7.15.194.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Over late Congress say. Important company boy air ball.\nDemocrat memory management value. Century term walk important seem season.\nMethod ability opportunity inside image still.",
+        "bio": "Them culture central race top. Easy today your above impact. This let prove dog consider put."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
