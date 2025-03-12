@@ -1,0 +1,25 @@
+{
+    "name": "Larry Johnson",
+    "age": 52,
+    "address": {
+        "street": "Johnson Hill",
+        "city": "East Daniel",
+        "state": "Hawaii",
+        "zip": "12145"
+    },
+    "contact": {
+        "phone": "001-956-636-9338x949",
+        "servicePhone": "800328196"
+    },
+    "birthday": "1973-03-03",
+    "ip": "49.20.150.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Form age camera position. Newspaper watch investment simply.\nThird recognize behavior out nor describe model right. Produce know bill.",
+        "bio": "Person hold store agree end. Camera very change positive painting standard.\nMyself direction price. Window no lead impact high company protect."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
