@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Coffey",
+    "age": 9,
+    "address": {
+        "street": "John Light",
+        "city": "Garciatown",
+        "state": "Texas",
+        "zip": "32046"
+    },
+    "contact": {
+        "phone": "7192725788",
+        "servicePhone": "800135252"
+    },
+    "birthday": "2016-11-12",
+    "ip": "67.179.154.177",
+    "foo": "bar",
+    "profile": {
+        "about": "That high contain lay service there special. Former wind step water.\nDoor American important not wait. Reveal attention specific decide paper message design water. Future four information fact.",
+        "bio": "Six I entire city operation drug wonder. Top kitchen key that.\nDream our attack owner meet prevent. Performance might president medical."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
