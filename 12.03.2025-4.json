@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Berg",
+    "age": 68,
+    "address": {
+        "street": "Baker Court",
+        "city": "Lake Davidside",
+        "state": "Colorado",
+        "zip": "05491"
+    },
+    "contact": {
+        "phone": "391.822.2492x69253",
+        "servicePhone": "800724279"
+    },
+    "birthday": "1957-13-08",
+    "ip": "78.243.68.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Property fly relate money world thus. Top herself such save.\nBreak operation each just ten thought per. Act statement begin worker several.",
+        "bio": "Without threat usually decision. Piece enough compare sense truth. Property skill fund catch citizen enter."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
