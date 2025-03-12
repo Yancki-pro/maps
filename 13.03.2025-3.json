@@ -1,0 +1,25 @@
+{
+    "name": "Mark Acosta",
+    "age": 19,
+    "address": {
+        "street": "Tanya Stravenue",
+        "city": "Port Bradtown",
+        "state": "Mississippi",
+        "zip": "82670"
+    },
+    "contact": {
+        "phone": "452-377-8860x93674",
+        "servicePhone": "800362990"
+    },
+    "birthday": "2006-15-08",
+    "ip": "87.174.99.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner message enter best change for have total. Could college it blue Republican. Next culture trial wide.\nDemocratic investment compare. Firm follow leader. Until school fly cover add foot.",
+        "bio": "Work affect will. Suggest national down use.\nRecord movie smile here age past. Energy crime loss condition his reach. Town skill their mention put child strong toward."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
