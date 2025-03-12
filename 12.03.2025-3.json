@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Williams",
+    "age": 86,
+    "address": {
+        "street": "Janet Pass",
+        "city": "Davisstad",
+        "state": "South Carolina",
+        "zip": "37768"
+    },
+    "contact": {
+        "phone": "(673)592-1467x0034",
+        "servicePhone": "800976013"
+    },
+    "birthday": "1939-13-12",
+    "ip": "47.105.80.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera fire car send strong agent quality. College civil fire. Story herself floor window avoid. Effort sport kitchen feeling morning everybody.",
+        "bio": "Must loss form serious. Painting might when people present. Summer some one speech support summer successful military."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
