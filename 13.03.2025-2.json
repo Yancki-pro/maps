@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Hall",
+    "age": 77,
+    "address": {
+        "street": "Frank Estate",
+        "city": "Mcbrideborough",
+        "state": "Mississippi",
+        "zip": "79978"
+    },
+    "contact": {
+        "phone": "2993635470",
+        "servicePhone": "800213823"
+    },
+    "birthday": "1948-20-02",
+    "ip": "73.155.83.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic sister recently reason mention reflect. Clearly would practice team agent. Agency specific color change memory assume politics.",
+        "bio": "Article want expert cell central. Rich professor lawyer material little sound."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
