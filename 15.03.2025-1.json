@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Rowe",
+    "age": 43,
+    "address": {
+        "street": "Miller Roads",
+        "city": "New Ivanmouth",
+        "state": "Wisconsin",
+        "zip": "88209"
+    },
+    "contact": {
+        "phone": "903.599.1575x641",
+        "servicePhone": "800307551"
+    },
+    "birthday": "1982-16-01",
+    "ip": "123.133.91.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience hit join tax foot similar. Much speak mother book professor.\nHe reality power reduce wind. Race capital happy structure future second total. Treat spend see may.",
+        "bio": "Project college least federal spring experience. Effect happy water media size factor quickly."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
