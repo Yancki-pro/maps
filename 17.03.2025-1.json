@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Santiago",
+    "age": 37,
+    "address": {
+        "street": "Phillips Extension",
+        "city": "Kathleenshire",
+        "state": "New York",
+        "zip": "80386"
+    },
+    "contact": {
+        "phone": "374-993-8534x623",
+        "servicePhone": "800203856"
+    },
+    "birthday": "1988-16-07",
+    "ip": "38.31.81.97",
+    "foo": "bar",
+    "profile": {
+        "about": "When movement white minute floor. Four significant happen.\nEver site PM great. South capital enjoy clearly chair.\nOr knowledge computer political feel. Water order us age allow.",
+        "bio": "Network more bed. Others drive million arm.\nPull finish local sound certain admit sport magazine. Which sea agreement dinner attorney require main argue."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
