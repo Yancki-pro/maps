@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Mann",
+    "age": 49,
+    "address": {
+        "street": "Hester Spur",
+        "city": "Bullockbury",
+        "state": "California",
+        "zip": "42212"
+    },
+    "contact": {
+        "phone": "(864)899-7843x0458",
+        "servicePhone": "800271430"
+    },
+    "birthday": "1976-04-03",
+    "ip": "76.226.115.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat decade age outside energy town which. Factor industry right professor once century.\nMost special future growth could. Less across hundred dream nation dream notice tree.",
+        "bio": "Nearly fear black wife. Building point put read enter eat.\nLeave store almost. Assume either fast pay. In sport myself."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
