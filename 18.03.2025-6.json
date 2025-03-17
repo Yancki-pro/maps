@@ -1,0 +1,25 @@
+{
+    "name": "Joseph White",
+    "age": 100,
+    "address": {
+        "street": "Fields Way",
+        "city": "Charleshaven",
+        "state": "Vermont",
+        "zip": "33286"
+    },
+    "contact": {
+        "phone": "477.680.0186x460",
+        "servicePhone": "800563167"
+    },
+    "birthday": "1925-25-05",
+    "ip": "26.142.27.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Region nature think authority recognize total identify. Travel successful pull natural.\nWhile relate sister let parent they nice. Note these onto enter. Experience game study issue stand.",
+        "bio": "Star enter attorney I yet represent option population. Fall door itself oil dinner purpose social.\nItself very compare kitchen they."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
