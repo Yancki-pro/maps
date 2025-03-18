@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Jensen",
+    "age": 95,
+    "address": {
+        "street": "Lewis Run",
+        "city": "Melissashire",
+        "state": "Massachusetts",
+        "zip": "26287"
+    },
+    "contact": {
+        "phone": "+1-530-266-6481x8345",
+        "servicePhone": "800410675"
+    },
+    "birthday": "1930-12-12",
+    "ip": "171.42.96.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful cold door though man rate risk. Take mouth major can face hard reflect.\nRecord move culture thing. Box technology break visit five.\nMuch radio bag somebody wish magazine.",
+        "bio": "Still pass nice keep expert. Easy meeting moment son.\nCan evidence Democrat program. Energy view onto computer quality win ok. Deal woman each occur car economy start."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
