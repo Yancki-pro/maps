@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Stevenson",
+    "age": 23,
+    "address": {
+        "street": "Burton Knolls",
+        "city": "West Amyborough",
+        "state": "Texas",
+        "zip": "21342"
+    },
+    "contact": {
+        "phone": "478-834-2582",
+        "servicePhone": "800715250"
+    },
+    "birthday": "2002-23-12",
+    "ip": "66.198.102.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing food leader cost.\nActivity opportunity body as unit. Worker operation decade easy. Night hope late our.\nProfessor happy everything establish want history speech produce.",
+        "bio": "Process gun age capital conference animal something property. Suggest focus day doctor minute. Side student cause property culture. Party arm campaign position environment."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
