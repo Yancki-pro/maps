@@ -1,0 +1,25 @@
+{
+    "name": "Jon Knight",
+    "age": 102,
+    "address": {
+        "street": "Jones Greens",
+        "city": "Normanton",
+        "state": "Colorado",
+        "zip": "79591"
+    },
+    "contact": {
+        "phone": "993.624.2749",
+        "servicePhone": "800036399"
+    },
+    "birthday": "1923-06-07",
+    "ip": "150.19.126.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend member remember ask form plant under. Water third attorney despite.\nFilm follow activity tonight news occur task. To if table sea note site improve. Fact one despite.",
+        "bio": "Off personal play us available consumer idea field. Part baby dog anything among town."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
