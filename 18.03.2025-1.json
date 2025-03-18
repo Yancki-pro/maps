@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Cummings",
+    "age": 90,
+    "address": {
+        "street": "Wilson Lights",
+        "city": "Changshire",
+        "state": "Florida",
+        "zip": "69953"
+    },
+    "contact": {
+        "phone": "280.337.5817x50784",
+        "servicePhone": "800449031"
+    },
+    "birthday": "1935-03-12",
+    "ip": "123.94.178.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice million test lead. Agent reduce top already range yes crime. Visit defense view just.\nDifficult five unit top behind yeah more take. Trial college rate choose development three fight early.",
+        "bio": "School owner vote per else politics. Certain service analysis meeting attack.\nBank entire interview thus area unit similar team. Black option little Republican. Total respond finally fight consumer."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
