@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Green",
+    "age": 47,
+    "address": {
+        "street": "Brooks Villages",
+        "city": "Port Amandaberg",
+        "state": "Georgia",
+        "zip": "24406"
+    },
+    "contact": {
+        "phone": "604-563-1768",
+        "servicePhone": "800571387"
+    },
+    "birthday": "1978-20-01",
+    "ip": "138.240.172.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement power market agree important. Technology American win high. Large red large building chance change front.\nAdd career wrong break lawyer full chair. Book act community set.",
+        "bio": "Explain whether big care throw economy. Usually often resource small require. Practice serve time environmental claim choose administration."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
