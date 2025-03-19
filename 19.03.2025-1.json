@@ -1,0 +1,25 @@
+{
+    "name": "Mark Yates",
+    "age": 63,
+    "address": {
+        "street": "Mcconnell Courts",
+        "city": "Lake Leslie",
+        "state": "Missouri",
+        "zip": "71468"
+    },
+    "contact": {
+        "phone": "595-966-5856x374",
+        "servicePhone": "800186452"
+    },
+    "birthday": "1962-02-10",
+    "ip": "86.214.45.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Father treatment like. Blood part deep beat raise much. Company article court discussion executive dog.\nMessage seem create knowledge side TV. Former may word science material.",
+        "bio": "Fact Mr minute. Television drop base other company.\nRemain sister thing hold final executive state. Toward teacher hit smile itself character."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
