@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Stephens",
+    "age": 18,
+    "address": {
+        "street": "Mary Inlet",
+        "city": "Georgestad",
+        "state": "New Jersey",
+        "zip": "03777"
+    },
+    "contact": {
+        "phone": "001-828-262-1032x481",
+        "servicePhone": "800327533"
+    },
+    "birthday": "2007-30-10",
+    "ip": "159.214.207.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably international family eat bank. Management cell artist only collection.\nSpend Mr with central energy mention. Summer citizen into tax.",
+        "bio": "Water million responsibility push. Notice with home him our arm light. Brother bit she address third high.\nClear at yard return sing character."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
