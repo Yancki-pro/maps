@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Ramos",
+    "age": 66,
+    "address": {
+        "street": "Michael Crossroad",
+        "city": "West Michaelamouth",
+        "state": "New Jersey",
+        "zip": "06896"
+    },
+    "contact": {
+        "phone": "001-364-604-8478x1913",
+        "servicePhone": "800885334"
+    },
+    "birthday": "1959-14-05",
+    "ip": "214.234.114.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Tell bill kid finally.\nReally quality thank send everything town. Exist occur across. Power late Republican draw back.\nCell whom your manage. Energy pass like follow make pull.",
+        "bio": "Heavy general check do affect factor arm cultural. Special all wonder common travel.\nChallenge doctor each deep loss drive. With member leg think."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
