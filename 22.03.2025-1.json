@@ -1,0 +1,25 @@
+{
+    "name": "Emily Barr",
+    "age": 1,
+    "address": {
+        "street": "Amanda Parkways",
+        "city": "North Veronica",
+        "state": "Ohio",
+        "zip": "04308"
+    },
+    "contact": {
+        "phone": "001-500-450-6985x9055",
+        "servicePhone": "800408533"
+    },
+    "birthday": "2024-14-09",
+    "ip": "138.18.219.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Move approach note similar skin task group peace. Reflect friend knowledge special by director weight act. Quite paper heavy have. Blue yet feel guess.\nDemocrat get as seem imagine. Child win call.",
+        "bio": "Wear prove mother ahead soldier. World seem eight who its mention loss."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
