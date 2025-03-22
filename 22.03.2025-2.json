@@ -1,0 +1,25 @@
+{
+    "name": "Amy Gilbert",
+    "age": 48,
+    "address": {
+        "street": "Edward Divide",
+        "city": "Susanchester",
+        "state": "New Hampshire",
+        "zip": "30000"
+    },
+    "contact": {
+        "phone": "+1-924-683-7833x967",
+        "servicePhone": "800012618"
+    },
+    "birthday": "1977-15-02",
+    "ip": "78.53.56.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Very tough range capital year tough business. Ok key ability develop wind law image account.\nData thousand magazine. Future guy family room black.",
+        "bio": "Sister near western idea call rest.\nSeem trouble yet race edge. Fill man these none indicate food board."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
