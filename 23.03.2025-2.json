@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Smith",
+    "age": 113,
+    "address": {
+        "street": "Bonnie Junction",
+        "city": "Kristineborough",
+        "state": "Delaware",
+        "zip": "20181"
+    },
+    "contact": {
+        "phone": "001-292-510-2192x72050",
+        "servicePhone": "800882146"
+    },
+    "birthday": "1912-03-05",
+    "ip": "102.146.135.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion along sport need every. Single leader much say three party college coach. City break technology real traditional.",
+        "bio": "Marriage medical green hotel herself unit whom strategy. Your station wear interesting third.\nMajority debate state partner meet method spring. Cultural voice deep find. Start want institution."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
