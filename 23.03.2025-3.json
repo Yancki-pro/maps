@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Moore",
+    "age": 47,
+    "address": {
+        "street": "Cox Brook",
+        "city": "North Daryl",
+        "state": "Kentucky",
+        "zip": "61806"
+    },
+    "contact": {
+        "phone": "(454)666-0122x38402",
+        "servicePhone": "800412099"
+    },
+    "birthday": "1978-21-08",
+    "ip": "197.29.123.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Well current and against. Least cold part truth. Treat eye window decade partner.\nProject picture chance throughout. Start herself however. Community magazine machine food medical.",
+        "bio": "Stage the beautiful fact table throughout. Drive city relationship pay. Central begin information feel.\nWhom music born. With organization effort difficult. Suffer sense quality scene act around."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
