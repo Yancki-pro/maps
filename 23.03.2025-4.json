@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Charles",
+    "age": 2,
+    "address": {
+        "street": "Pearson View",
+        "city": "Thomasburgh",
+        "state": "Hawaii",
+        "zip": "73401"
+    },
+    "contact": {
+        "phone": "(334)757-4828",
+        "servicePhone": "800684608"
+    },
+    "birthday": "2023-03-04",
+    "ip": "123.133.38.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Air somebody program me term baby interview central. New expect summer something live difficult everyone respond. Well happy worry second.\nFast mention meeting cold summer necessary.",
+        "bio": "Head apply statement floor thing. Imagine assume back nation.\nPartner already certainly month discover perform. Eat suggest under approach last. Choice baby society return."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
