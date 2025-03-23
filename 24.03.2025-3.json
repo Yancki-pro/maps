@@ -1,0 +1,25 @@
+{
+    "name": "Robin Lucas MD",
+    "age": 91,
+    "address": {
+        "street": "Montgomery Courts",
+        "city": "Floresberg",
+        "state": "Wisconsin",
+        "zip": "13241"
+    },
+    "contact": {
+        "phone": "(321)315-5708",
+        "servicePhone": "800883398"
+    },
+    "birthday": "1934-05-05",
+    "ip": "29.103.109.168",
+    "foo": "bar",
+    "profile": {
+        "about": "History around majority nation action. Business report development glass.\nChange chair center cold account. Pressure information out bring.",
+        "bio": "My someone door. Party operation significant likely good figure."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
