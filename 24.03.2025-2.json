@@ -1,0 +1,25 @@
+{
+    "name": "Charles Washington",
+    "age": 17,
+    "address": {
+        "street": "Harris Port",
+        "city": "Williamstown",
+        "state": "Indiana",
+        "zip": "42618"
+    },
+    "contact": {
+        "phone": "818.998.1947x8905",
+        "servicePhone": "800010246"
+    },
+    "birthday": "2008-06-03",
+    "ip": "83.23.113.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge understand situation local. Poor tax old rich. Memory establish world artist behavior. Age certainly option door ahead new coach me.",
+        "bio": "Half myself cut for south than. Thousand democratic before never happy feel soon material.\nQuite particular especially produce newspaper. Theory report type memory those story phone avoid."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
