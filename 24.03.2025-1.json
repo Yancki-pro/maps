@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Carter",
+    "age": 76,
+    "address": {
+        "street": "Gross Centers",
+        "city": "Rhondatown",
+        "state": "Minnesota",
+        "zip": "82606"
+    },
+    "contact": {
+        "phone": "+1-332-576-9163x84111",
+        "servicePhone": "800879578"
+    },
+    "birthday": "1949-16-11",
+    "ip": "92.16.87.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest ago about send along city. Worker I service cut change cost project real. Medical forward read consumer.",
+        "bio": "Race standard two result hot area we. Individual region page. Right process reach question view why recent painting. Investment beat better."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
