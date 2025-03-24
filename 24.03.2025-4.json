@@ -1,0 +1,25 @@
+{
+    "name": "William Gillespie",
+    "age": 76,
+    "address": {
+        "street": "Patricia Plains",
+        "city": "Hendersonville",
+        "state": "Ohio",
+        "zip": "67327"
+    },
+    "contact": {
+        "phone": "246.348.4526",
+        "servicePhone": "800204065"
+    },
+    "birthday": "1949-19-01",
+    "ip": "111.153.242.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece scientist research energy prove.\nHospital share field expert laugh former contain. Try mention bar serious some at. Necessary skin arm I.",
+        "bio": "Energy would economic kitchen market wide worry possible. Nearly remain let major. Here cause cost try strategy daughter special. Skill through number itself."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
