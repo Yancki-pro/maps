@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Scott",
+    "age": 94,
+    "address": {
+        "street": "Bray Canyon",
+        "city": "Saraport",
+        "state": "Tennessee",
+        "zip": "45188"
+    },
+    "contact": {
+        "phone": "283-501-3842",
+        "servicePhone": "800309924"
+    },
+    "birthday": "1931-23-05",
+    "ip": "79.3.33.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever clearly foot really power effort. But glass protect argue mean and. Late shoulder part three maintain test only.\nGarden truth reveal spring model.",
+        "bio": "Section federal night nor. Process response black everyone coach front. Feeling late chair woman very smile."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
