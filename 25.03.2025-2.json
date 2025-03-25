@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Price",
+    "age": 104,
+    "address": {
+        "street": "Gerald Street",
+        "city": "North Gabrielfurt",
+        "state": "California",
+        "zip": "96339"
+    },
+    "contact": {
+        "phone": "001-630-302-9841",
+        "servicePhone": "800943287"
+    },
+    "birthday": "1921-08-10",
+    "ip": "97.39.224.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything reason hot mother face yet. Production measure whether individual as control star director. Foot police organization their everything middle.",
+        "bio": "Include such two once. Father bar member after house boy accept. Party concern understand bank many. Begin night how threat ten."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
