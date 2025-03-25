@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Steve Frederick",
+    "age": 109,
+    "address": {
+        "street": "Jacob Walk",
+        "city": "East Angela",
+        "state": "Wisconsin",
+        "zip": "11507"
+    },
+    "contact": {
+        "phone": "001-533-752-5125",
+        "servicePhone": "800279421"
+    },
+    "birthday": "1916-03-05",
+    "ip": "76.155.140.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold seek treat but. Address item education. Professor event image investment commercial in. Arrive son development ability few else set accept.\nDemocrat number pay. Tv where will travel.",
+        "bio": "There figure spring education nature or. Bring myself center white nor beautiful off."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
