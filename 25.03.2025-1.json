@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Phillips",
+    "age": 22,
+    "address": {
+        "street": "Stevenson Skyway",
+        "city": "North George",
+        "state": "Rhode Island",
+        "zip": "23455"
+    },
+    "contact": {
+        "phone": "998-732-1016",
+        "servicePhone": "800931222"
+    },
+    "birthday": "2003-05-08",
+    "ip": "2.8.17.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Describe accept hundred how. Long wear view state against away opportunity.\nHead food event reason summer top in relate. Purpose practice professional foot push law.",
+        "bio": "Age window car. Model without middle they project must. Network population right author buy.\nFinal Republican civil these. A start practice shake per four reach. Admit mission suggest also."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
