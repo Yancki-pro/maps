@@ -1,0 +1,25 @@
+{
+    "name": "James Benson",
+    "age": 97,
+    "address": {
+        "street": "Andrews Avenue",
+        "city": "Jennyton",
+        "state": "Alaska",
+        "zip": "97751"
+    },
+    "contact": {
+        "phone": "+1-672-247-5840",
+        "servicePhone": "800440133"
+    },
+    "birthday": "1928-14-10",
+    "ip": "75.127.87.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal crime full. Recognize eight fine style although teach.\nPerform result whether. Soon pay song change gun focus process. Finally safe since town animal.",
+        "bio": "Leave stock traditional need international. Base range truth outside opportunity still nearly. Court benefit radio news million easy continue."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
