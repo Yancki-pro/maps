@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Young",
+    "age": 24,
+    "address": {
+        "street": "Jordan Shores",
+        "city": "Chaseburgh",
+        "state": "Wyoming",
+        "zip": "15865"
+    },
+    "contact": {
+        "phone": "(854)741-0277",
+        "servicePhone": "800971952"
+    },
+    "birthday": "2001-13-07",
+    "ip": "129.234.115.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed create conference agree. Front style place attention goal make sound.\nFine sport way head eat. Billion carry administration family join its. Bill show smile claim.",
+        "bio": "Skill design be fear claim. Action support age glass really floor school.\nFeeling figure understand he use home pass."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
