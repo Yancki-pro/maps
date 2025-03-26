@@ -1,0 +1,25 @@
+{
+    "name": "Paul Blevins",
+    "age": 22,
+    "address": {
+        "street": "Ruth Path",
+        "city": "Martinezshire",
+        "state": "Kansas",
+        "zip": "08037"
+    },
+    "contact": {
+        "phone": "370.539.8273",
+        "servicePhone": "800939633"
+    },
+    "birthday": "2003-21-12",
+    "ip": "81.115.214.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead owner specific next everyone usually hundred professional. Establish today opportunity process generation everybody her thus. Eight can and carry read role.\nTable child hospital boy reach.",
+        "bio": "Idea billion foreign word result control. Foreign successful choice employee street city. Serious project point himself medical nothing."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
