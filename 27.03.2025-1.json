@@ -1,0 +1,25 @@
+{
+    "name": "Barry Hernandez",
+    "age": 0,
+    "address": {
+        "street": "Laura Forks",
+        "city": "East Timothy",
+        "state": "Oregon",
+        "zip": "92205"
+    },
+    "contact": {
+        "phone": "(762)676-5297x707",
+        "servicePhone": "800010145"
+    },
+    "birthday": "2025-23-01",
+    "ip": "75.70.172.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Past item should condition far people arm. Step these huge. Economic north kind offer.\nTraining sort north to cold accept sense. Firm relate art generation natural nature commercial allow.",
+        "bio": "Soon perform skill themselves plan. Reduce physical likely process deal once top."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
