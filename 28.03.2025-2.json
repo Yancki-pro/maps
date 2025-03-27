@@ -1,0 +1,25 @@
+{
+    "name": "Mark Meyer",
+    "age": 100,
+    "address": {
+        "street": "Justin Port",
+        "city": "Jamestown",
+        "state": "Maine",
+        "zip": "89632"
+    },
+    "contact": {
+        "phone": "(472)447-2585",
+        "servicePhone": "800339074"
+    },
+    "birthday": "1925-22-09",
+    "ip": "25.234.224.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Off never though simple later other sell. Watch activity kid herself imagine common. Quality quality station fine alone sometimes doctor throw.",
+        "bio": "Serious put little speak decision. Manage hospital training floor visit deep. Write identify loss.\nFast hospital child never so change TV. Quality able environment machine."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
