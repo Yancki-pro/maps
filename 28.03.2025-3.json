@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Dixon",
+    "age": 84,
+    "address": {
+        "street": "Kelly Meadows",
+        "city": "North Susan",
+        "state": "Nebraska",
+        "zip": "78056"
+    },
+    "contact": {
+        "phone": "859-305-6381x0735",
+        "servicePhone": "800386432"
+    },
+    "birthday": "1941-03-12",
+    "ip": "131.38.250.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Community interview suddenly dark. Cost camera draw as take. Special model center between dog painting.",
+        "bio": "Official player out. Child customer tough wish benefit type gun show.\nBetter result half blood girl three."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
