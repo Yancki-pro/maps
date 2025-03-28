@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Barber",
+    "age": 91,
+    "address": {
+        "street": "Gonzalez Burgs",
+        "city": "Sweeneymouth",
+        "state": "Massachusetts",
+        "zip": "53766"
+    },
+    "contact": {
+        "phone": "414-522-4329",
+        "servicePhone": "800368835"
+    },
+    "birthday": "1934-24-11",
+    "ip": "179.229.166.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Study meeting authority eye go treatment minute. Individual chance color rock degree.\nPrevent issue place main summer. Check adult human eight heart.",
+        "bio": "Inside area establish page sure. Sing open past top finish toward home form. Vote tough instead short service wait fund."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
