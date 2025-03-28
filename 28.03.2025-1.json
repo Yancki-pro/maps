@@ -1,0 +1,25 @@
+{
+    "name": "Henry Smith",
+    "age": 71,
+    "address": {
+        "street": "Jackson Pass",
+        "city": "Taylorville",
+        "state": "Florida",
+        "zip": "94995"
+    },
+    "contact": {
+        "phone": "001-604-651-6439",
+        "servicePhone": "800209294"
+    },
+    "birthday": "1954-28-04",
+    "ip": "81.213.135.34",
+    "foo": "bar",
+    "profile": {
+        "about": "High poor decade able half seven want. Pass current life pick nothing house ready. Record late last where history. Believe strong key be impact board executive.",
+        "bio": "Federal already raise any next staff. Company everything onto discuss her bar possible ahead. West officer more hope three trade.\nLater executive turn under. Past piece after campaign kind song."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
