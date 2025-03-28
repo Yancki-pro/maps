@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Smith",
+    "age": 84,
+    "address": {
+        "street": "Jonathan Lodge",
+        "city": "Sierraburgh",
+        "state": "Delaware",
+        "zip": "58785"
+    },
+    "contact": {
+        "phone": "(714)965-4620",
+        "servicePhone": "800960778"
+    },
+    "birthday": "1941-05-02",
+    "ip": "174.13.124.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy sort recently.\nMention pattern pass practice mean relate their. Find begin chance special. Whole pretty exist simple worker.\nMight law race close. Lead else somebody produce soldier paper sure.",
+        "bio": "Food employee if surface west get. Set simple of recent cold box up. Source require call be social young."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
