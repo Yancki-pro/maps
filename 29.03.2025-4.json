@@ -1,0 +1,25 @@
+{
+    "name": "Steven Buck",
+    "age": 1,
+    "address": {
+        "street": "Lawson Ramp",
+        "city": "Howehaven",
+        "state": "Vermont",
+        "zip": "49479"
+    },
+    "contact": {
+        "phone": "001-268-715-6286x3668",
+        "servicePhone": "800509221"
+    },
+    "birthday": "2024-11-02",
+    "ip": "21.116.3.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Product from push she. Senior suffer natural community hair remember. Life spend whatever.\nPut sense her type product. Debate reality friend join protect doctor station.",
+        "bio": "Like scene admit vote debate resource.\nAlmost sound cost product model action.\nLaugh man likely must find. Congress discussion risk eye."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
