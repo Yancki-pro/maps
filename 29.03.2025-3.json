@@ -1,0 +1,25 @@
+{
+    "name": "Claudia Santana",
+    "age": 21,
+    "address": {
+        "street": "Oliver Fork",
+        "city": "West Timothyfort",
+        "state": "Hawaii",
+        "zip": "67158"
+    },
+    "contact": {
+        "phone": "488-628-5310",
+        "servicePhone": "800726937"
+    },
+    "birthday": "2004-02-09",
+    "ip": "173.123.181.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Also board government she. Administration customer security.\nArtist no campaign consumer. Former method animal I. Life range beyond discussion their former.",
+        "bio": "Whole full half young. Feeling hope door opportunity learn. Direction drop two here break military.\nMillion event beat door would Congress about. Crime need treatment always."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
