@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Adams",
+    "age": 105,
+    "address": {
+        "street": "Tracy Landing",
+        "city": "West Jerry",
+        "state": "New Hampshire",
+        "zip": "36617"
+    },
+    "contact": {
+        "phone": "790.342.9656x531",
+        "servicePhone": "800973030"
+    },
+    "birthday": "1920-21-02",
+    "ip": "174.178.147.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody happy technology until wife check population collection. Capital relationship would institution join. Role environmental past west concern may.",
+        "bio": "World camera change money these any. Window usually others lay south particularly."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
