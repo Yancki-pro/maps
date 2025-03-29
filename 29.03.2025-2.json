@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Jackson",
+    "age": 19,
+    "address": {
+        "street": "Timothy Ford",
+        "city": "North Rodney",
+        "state": "Kentucky",
+        "zip": "69731"
+    },
+    "contact": {
+        "phone": "3607056330",
+        "servicePhone": "800942892"
+    },
+    "birthday": "2006-27-02",
+    "ip": "210.227.186.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Black take why long. Specific writer hundred adult suffer drive it.\nPretty price class safe. Wear always majority age clearly clearly.\nCivil because listen room.",
+        "bio": "May left personal idea.\nSound individual system less make call community. Discussion assume nearly they go."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
