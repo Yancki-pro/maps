@@ -1,0 +1,25 @@
+{
+    "name": "Richard Miller",
+    "age": 49,
+    "address": {
+        "street": "Joseph Parks",
+        "city": "Katherinehaven",
+        "state": "Kentucky",
+        "zip": "12089"
+    },
+    "contact": {
+        "phone": "(653)516-5099",
+        "servicePhone": "800330028"
+    },
+    "birthday": "1976-22-12",
+    "ip": "153.222.230.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Few size site four radio let you. Among act year. Join fast specific boy week one enough.\nDescribe month peace fund. Lose reality near effect tax north system.",
+        "bio": "Leave language whom former. Simple citizen continue. Science stock let source into.\nTreat place himself."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
