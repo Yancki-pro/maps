@@ -1,0 +1,25 @@
+{
+    "name": "Jason Norris",
+    "age": 0,
+    "address": {
+        "street": "Ryan Corner",
+        "city": "East Gregoryburgh",
+        "state": "Texas",
+        "zip": "17233"
+    },
+    "contact": {
+        "phone": "(365)436-0618",
+        "servicePhone": "800268662"
+    },
+    "birthday": "2025-28-07",
+    "ip": "46.250.107.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Student office I. Society new away responsibility whom as. Pm chair would eight expert with.\nImagine traditional exist back. Feeling catch will. Hear protect book choice determine out.",
+        "bio": "Feeling trip test win. Community behind bring those quite marriage. Owner upon then fire case site collection."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
