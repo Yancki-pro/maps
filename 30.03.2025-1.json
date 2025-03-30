@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Nguyen",
+    "age": 80,
+    "address": {
+        "street": "Stephens Mission",
+        "city": "East Bryanport",
+        "state": "Oklahoma",
+        "zip": "97104"
+    },
+    "contact": {
+        "phone": "898.742.7498x46812",
+        "servicePhone": "800190749"
+    },
+    "birthday": "1945-11-02",
+    "ip": "148.15.249.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Now loss career better itself town. Face response beautiful operation. Present require policy crime whatever church fund in.",
+        "bio": "Paper image particularly government team president. Ball green subject clear.\nEarly scientist few consider. Hope number especially. Occur wrong popular defense effort."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
