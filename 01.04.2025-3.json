@@ -1,0 +1,25 @@
+{
+    "name": "Robin Lopez",
+    "age": 22,
+    "address": {
+        "street": "Jesus Estates",
+        "city": "Fordview",
+        "state": "Montana",
+        "zip": "98867"
+    },
+    "contact": {
+        "phone": "(255)767-5687",
+        "servicePhone": "800440867"
+    },
+    "birthday": "2003-30-10",
+    "ip": "108.202.37.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement book sign admit professor may.\nStudy team manage speech level thing reason. Western same claim imagine something choice.",
+        "bio": "Feeling firm if building north doctor degree. Box yeah realize town.\nTable tough east project health term. Go job enough hand. Like onto live."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
