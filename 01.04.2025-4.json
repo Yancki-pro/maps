@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Oneal",
+    "age": 77,
+    "address": {
+        "street": "Vasquez Via",
+        "city": "Port Kellychester",
+        "state": "Oregon",
+        "zip": "01013"
+    },
+    "contact": {
+        "phone": "+1-695-757-4345",
+        "servicePhone": "800521553"
+    },
+    "birthday": "1948-09-06",
+    "ip": "28.30.113.240",
+    "foo": "bar",
+    "profile": {
+        "about": "See rest couple sing body measure management. Crime better risk down time foot see.\nCarry its realize recent maintain cause quite. Boy pull face off.",
+        "bio": "North less continue girl indeed machine school position. Control director role key.\nSite worker question care often. Reality security team middle.\nWonder senior person few lay bar left available."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
