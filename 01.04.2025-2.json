@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Holder",
+    "age": 112,
+    "address": {
+        "street": "Shaffer Cove",
+        "city": "North Alexander",
+        "state": "Ohio",
+        "zip": "61695"
+    },
+    "contact": {
+        "phone": "766-364-4862x619",
+        "servicePhone": "800578172"
+    },
+    "birthday": "1913-07-03",
+    "ip": "53.73.109.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Back college ground. Alone follow reflect though. Opportunity understand purpose place certain.",
+        "bio": "Process organization ever pass end. Include window daughter manage police. Special the spend show. Camera activity hotel area yet."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
