@@ -1,0 +1,25 @@
+{
+    "name": "Edward Green",
+    "age": 64,
+    "address": {
+        "street": "Megan Stravenue",
+        "city": "South James",
+        "state": "Texas",
+        "zip": "34074"
+    },
+    "contact": {
+        "phone": "4694823750",
+        "servicePhone": "800872723"
+    },
+    "birthday": "1961-25-07",
+    "ip": "110.17.26.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult suffer knowledge series spring entire. Executive watch these young. Them tend often head foot foot husband.\nAnimal fight soldier eye night yes music.",
+        "bio": "Coach energy degree must point when raise. Whose remain perform either. Discover herself watch late heavy realize."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
