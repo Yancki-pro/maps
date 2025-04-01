@@ -1,0 +1,25 @@
+{
+    "name": "Edward Bryant",
+    "age": 55,
+    "address": {
+        "street": "Deborah Crossroad",
+        "city": "West Michelle",
+        "state": "Arizona",
+        "zip": "64290"
+    },
+    "contact": {
+        "phone": "502-296-2076x36806",
+        "servicePhone": "800771231"
+    },
+    "birthday": "1970-06-04",
+    "ip": "22.147.51.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen prove take physical college relationship. Look particularly value analysis top road.\nWork child over form. Deep lot cell. Onto church front blood indeed magazine.",
+        "bio": "White itself now hard. Recently action kitchen run key. Eye easy heart themselves.\nAway firm argue down participant by fact. Every can culture catch. For suggest of various medical field civil."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
