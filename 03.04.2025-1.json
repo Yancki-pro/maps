@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Henson",
+    "age": 13,
+    "address": {
+        "street": "Booth Divide",
+        "city": "Gomezport",
+        "state": "Ohio",
+        "zip": "94797"
+    },
+    "contact": {
+        "phone": "001-335-437-1036x38668",
+        "servicePhone": "800890331"
+    },
+    "birthday": "2012-22-12",
+    "ip": "165.122.124.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Network sure thousand begin either particular. She soon detail rich such hospital affect. Response keep look return.",
+        "bio": "Common edge tonight include instead. Year trouble body ask television wonder. Community no politics find deal. Media local blue it both enter."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
