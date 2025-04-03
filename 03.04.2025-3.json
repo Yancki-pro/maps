@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Allen",
+    "age": 89,
+    "address": {
+        "street": "Andrade Street",
+        "city": "Shieldsview",
+        "state": "Colorado",
+        "zip": "75192"
+    },
+    "contact": {
+        "phone": "6604591128",
+        "servicePhone": "800944674"
+    },
+    "birthday": "1936-19-02",
+    "ip": "30.238.252.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide between try Democrat. Thousand activity large west collection particular citizen.\nPosition send nation argue. Vote five development red. Similar this affect amount court.",
+        "bio": "Book lawyer body. Popular way skin culture talk establish approach. Only card training magazine need price really."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
