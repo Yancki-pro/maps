@@ -1,0 +1,25 @@
+{
+    "name": "Mathew Gray",
+    "age": 20,
+    "address": {
+        "street": "Walter Branch",
+        "city": "Port Rebecca",
+        "state": "West Virginia",
+        "zip": "52595"
+    },
+    "contact": {
+        "phone": "(318)272-8844",
+        "servicePhone": "800006709"
+    },
+    "birthday": "2005-24-11",
+    "ip": "170.106.194.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead rich send dream nice local memory. Candidate evening your contain during team. Ever step either one section sense success character.",
+        "bio": "Those pass foreign about. Position every some moment significant it work.\nLot clearly deep within. Today offer these high guess through. Phone ahead here administration hope tell among."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
