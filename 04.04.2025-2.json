@@ -1,0 +1,25 @@
+{
+    "name": "Morgan Salazar",
+    "age": 81,
+    "address": {
+        "street": "Cassandra Burg",
+        "city": "South Jamesbury",
+        "state": "Rhode Island",
+        "zip": "90044"
+    },
+    "contact": {
+        "phone": "408.993.0808",
+        "servicePhone": "800453588"
+    },
+    "birthday": "1944-03-06",
+    "ip": "17.44.210.68",
+    "foo": "bar",
+    "profile": {
+        "about": "All thing take most tree character fire. Pay plant feeling pretty research natural stand.\nTotal development maintain various. Society technology billion policy story reality.",
+        "bio": "Toward cover glass manager. Power blue concern paper guess group authority.\nEdge late dream too yet behind service reflect. Recent politics back center similar very say Mr."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
