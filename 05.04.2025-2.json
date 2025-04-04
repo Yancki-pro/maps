@@ -1,0 +1,25 @@
+{
+    "name": "Harold Conley",
+    "age": 47,
+    "address": {
+        "street": "Deborah Ports",
+        "city": "Crystalborough",
+        "state": "Tennessee",
+        "zip": "98979"
+    },
+    "contact": {
+        "phone": "749-626-7558x1218",
+        "servicePhone": "800001901"
+    },
+    "birthday": "1978-01-05",
+    "ip": "135.30.220.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Guess ask and take program. Grow any race mission clear.\nBit out fish exactly religious maintain develop.\nReceive knowledge room memory. Never policy allow plant officer end.",
+        "bio": "Our physical fight discover property able. Include first find yet writer likely herself hard. Star music race thought attention subject two."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
