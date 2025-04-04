@@ -1,0 +1,25 @@
+{
+    "name": "Troy Walker",
+    "age": 14,
+    "address": {
+        "street": "Nicholas Row",
+        "city": "Ryanville",
+        "state": "Georgia",
+        "zip": "62045"
+    },
+    "contact": {
+        "phone": "(721)985-8227x75816",
+        "servicePhone": "800924810"
+    },
+    "birthday": "2011-23-09",
+    "ip": "125.126.205.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency both often people last especially. Away throughout agent over.\nAgree during sure way. Direction yourself both situation. Opportunity smile question despite detail marriage.",
+        "bio": "Work question admit huge. Art nation pick understand late. Base respond lot hair.\nRate eye all field local two recent. Opportunity attention above at exist."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
