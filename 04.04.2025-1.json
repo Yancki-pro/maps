@@ -1,0 +1,25 @@
+{
+    "name": "Brian Castillo",
+    "age": 53,
+    "address": {
+        "street": "Mays Ville",
+        "city": "Johnsonport",
+        "state": "Tennessee",
+        "zip": "11254"
+    },
+    "contact": {
+        "phone": "274.597.8075x68101",
+        "servicePhone": "800106915"
+    },
+    "birthday": "1972-23-07",
+    "ip": "15.97.189.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance its foot check. Toward nature very his.\nDay message feel marriage successful.\nAbility pick style. Company member more establish water worker arrive detail.",
+        "bio": "Language point step political. Poor gun hand message teacher some like.\nAttorney together when mean age. Ground start wish quite board me modern. Suggest letter million chair common."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
