@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Smith",
+    "age": 109,
+    "address": {
+        "street": "Joshua Overpass",
+        "city": "West Robertview",
+        "state": "Texas",
+        "zip": "73482"
+    },
+    "contact": {
+        "phone": "+1-241-690-8868x9817",
+        "servicePhone": "800583063"
+    },
+    "birthday": "1916-31-08",
+    "ip": "130.159.46.248",
+    "foo": "bar",
+    "profile": {
+        "about": "According news table window anything word material realize.\nArea word church each difficult. Energy perform money serious.",
+        "bio": "International cultural scientist. Despite early beat film shoulder. Improve pay low environment."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
