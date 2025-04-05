@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Alvarado",
+    "age": 84,
+    "address": {
+        "street": "Rowland Mount",
+        "city": "Marieview",
+        "state": "Kansas",
+        "zip": "13588"
+    },
+    "contact": {
+        "phone": "669-399-8602x627",
+        "servicePhone": "800376928"
+    },
+    "birthday": "1941-31-08",
+    "ip": "54.79.4.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Question write school so now miss understand. Face culture order. Family eye production provide stay discussion pass. Republican kind and open discussion.\nLeft common senior evening argue.",
+        "bio": "Star defense hour understand.\nRoad bring teach civil day blood boy thank.\nTax bit baby also enough record. Artist according often poor enough somebody class."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
