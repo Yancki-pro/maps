@@ -1,0 +1,25 @@
+{
+    "name": "Angela Cortez",
+    "age": 34,
+    "address": {
+        "street": "Hamilton Ports",
+        "city": "North Julie",
+        "state": "Massachusetts",
+        "zip": "80164"
+    },
+    "contact": {
+        "phone": "001-905-633-0960x369",
+        "servicePhone": "800674462"
+    },
+    "birthday": "1991-21-06",
+    "ip": "147.187.96.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Might church property represent born today the. Respond general decision step.\nExperience magazine me. Second third sell break agree take. All interest dinner bank industry.",
+        "bio": "Throughout determine letter effect. Meet successful PM war green.\nScore often himself choice source. Central ground just believe."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
