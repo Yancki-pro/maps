@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Simpson",
+    "age": 76,
+    "address": {
+        "street": "Richard Neck",
+        "city": "Crystalshire",
+        "state": "Oklahoma",
+        "zip": "93552"
+    },
+    "contact": {
+        "phone": "+1-937-215-8609x7356",
+        "servicePhone": "800454922"
+    },
+    "birthday": "1949-30-09",
+    "ip": "199.39.73.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea quite standard others certain eight.\nHot feeling weight suggest. Work appear study. Pass future report something poor.",
+        "bio": "Media fast there huge paper bring. We clear change box central push stand."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
