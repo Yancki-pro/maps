@@ -1,0 +1,25 @@
+{
+    "name": "Troy Delgado",
+    "age": 43,
+    "address": {
+        "street": "David Route",
+        "city": "Seanview",
+        "state": "Alabama",
+        "zip": "02267"
+    },
+    "contact": {
+        "phone": "(910)686-0546x037",
+        "servicePhone": "800926631"
+    },
+    "birthday": "1982-24-02",
+    "ip": "178.88.7.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Than much Mrs candidate debate. Ago gas through method vote building.\nDiscussion radio big lay hear section agreement father. Free receive however information. Short state human.",
+        "bio": "Down thus those size want loss. Station contain attack food hundred put official. Suffer in stock size network."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
