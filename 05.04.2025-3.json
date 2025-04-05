@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Dougherty",
+    "age": 63,
+    "address": {
+        "street": "Baldwin Groves",
+        "city": "Emilymouth",
+        "state": "North Carolina",
+        "zip": "77180"
+    },
+    "contact": {
+        "phone": "+1-518-640-1681",
+        "servicePhone": "800401235"
+    },
+    "birthday": "1962-21-05",
+    "ip": "67.126.138.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Something same population. Return adult simply that official cultural science. Rich history able worry hear walk.\nNext type job who list fall.",
+        "bio": "Kid third food reason. Thought college any democratic could. Respond close approach fall always. First alone kind clearly analysis."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
