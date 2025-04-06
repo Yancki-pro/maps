@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Mcguire",
+    "age": 72,
+    "address": {
+        "street": "James Overpass",
+        "city": "Annaview",
+        "state": "Tennessee",
+        "zip": "53762"
+    },
+    "contact": {
+        "phone": "(827)848-8700x05873",
+        "servicePhone": "800518470"
+    },
+    "birthday": "1953-26-02",
+    "ip": "9.112.181.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Tell glass unit. General seek each finish catch court fish. Material look tax break light strategy ever. Laugh back language water bring particularly.",
+        "bio": "Happen civil test factor whatever. Whether give crime they necessary.\nCharge happen hold truth spring mind good. Raise however pay perhaps statement inside person."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
