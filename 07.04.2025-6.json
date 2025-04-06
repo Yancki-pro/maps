@@ -1,0 +1,25 @@
+{
+    "name": "Lori Pace",
+    "age": 60,
+    "address": {
+        "street": "Martinez Port",
+        "city": "New Joannaville",
+        "state": "Idaho",
+        "zip": "56788"
+    },
+    "contact": {
+        "phone": "001-231-966-8837x293",
+        "servicePhone": "800087056"
+    },
+    "birthday": "1965-30-05",
+    "ip": "125.125.43.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Price kid drop more reason reach. Simple first amount make herself. World TV rather foreign.\nWeight yeah have lay. May he argue politics.",
+        "bio": "Play suddenly machine think available. West ask cost quite understand million. Simply tend executive security thousand.\nHealth exist under measure. Set situation its beautiful."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
