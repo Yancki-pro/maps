@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Yolanda Mason MD",
+    "age": 80,
+    "address": {
+        "street": "Heath Plaza",
+        "city": "Tammyborough",
+        "state": "Mississippi",
+        "zip": "41137"
+    },
+    "contact": {
+        "phone": "(373)905-6445x8799",
+        "servicePhone": "800964303"
+    },
+    "birthday": "1945-26-07",
+    "ip": "188.29.104.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview standard worker large miss remember. Call analysis perform read college. Real community wall can.",
+        "bio": "Trial goal think fear. Product direction sign should cost fall."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
