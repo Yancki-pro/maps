@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Smith",
+    "age": 32,
+    "address": {
+        "street": "Mark Lodge",
+        "city": "New Steven",
+        "state": "New Jersey",
+        "zip": "99858"
+    },
+    "contact": {
+        "phone": "+1-618-678-4140x78308",
+        "servicePhone": "800427507"
+    },
+    "birthday": "1993-02-07",
+    "ip": "105.144.1.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Community learn anything. Send participant stop argue. Floor staff space point shake.\nIn her audience campaign girl. Well fact foot beautiful.\nStudent customer join on.",
+        "bio": "Leader those unit book order every hard. Factor third so as newspaper half. Western me street former author but collection.\nScene technology fight impact stop."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
