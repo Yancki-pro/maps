@@ -1,0 +1,25 @@
+{
+    "name": "Mark Gonzalez",
+    "age": 96,
+    "address": {
+        "street": "Denise Drive",
+        "city": "Lake Michael",
+        "state": "Vermont",
+        "zip": "77592"
+    },
+    "contact": {
+        "phone": "+1-307-541-1965",
+        "servicePhone": "800213296"
+    },
+    "birthday": "1929-13-01",
+    "ip": "202.230.26.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby majority billion cut kind space model. There agency authority piece sport buy term. Reality past life system attack. Song himself outside future either need sit western.",
+        "bio": "Someone same hope company rich discussion sport remain. For somebody leave my.\nMoment serve sister rather strategy. Page building push similar analysis money."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
