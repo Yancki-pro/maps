@@ -1,0 +1,25 @@
+{
+    "name": "Gina Mills",
+    "age": 109,
+    "address": {
+        "street": "Fernandez Fields",
+        "city": "Millermouth",
+        "state": "Kentucky",
+        "zip": "46359"
+    },
+    "contact": {
+        "phone": "283-793-8176x75687",
+        "servicePhone": "800260763"
+    },
+    "birthday": "1916-13-10",
+    "ip": "32.70.31.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection civil maybe crime structure suffer only whether. Least eye after event not.\nTree edge citizen drive full cell move. Write fly speak down would.",
+        "bio": "Least report official yet describe cover poor. Able on card drug read think.\nAnother four person. Discuss everything employee sign success by. Economic one pay director yourself next window week."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
