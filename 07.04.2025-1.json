@@ -1,0 +1,25 @@
+{
+    "name": "Michael Graham",
+    "age": 0,
+    "address": {
+        "street": "Miranda Stravenue",
+        "city": "Port Timothy",
+        "state": "Louisiana",
+        "zip": "04886"
+    },
+    "contact": {
+        "phone": "3032211765",
+        "servicePhone": "800707546"
+    },
+    "birthday": "2025-22-09",
+    "ip": "38.117.48.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Live on cell. Market debate people nothing.\nProvide mother special. Successful tree character.\nUnderstand color suddenly since teacher also rich. Kid remain measure throw keep.",
+        "bio": "Public stay various drug understand natural certainly. Near cold seek interesting face. Agent serve wind together."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
