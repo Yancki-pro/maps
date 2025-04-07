@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Kelly",
+    "age": 104,
+    "address": {
+        "street": "Maria Drive",
+        "city": "West Kelly",
+        "state": "Pennsylvania",
+        "zip": "94277"
+    },
+    "contact": {
+        "phone": "001-511-800-2618x410",
+        "servicePhone": "800469604"
+    },
+    "birthday": "1921-02-02",
+    "ip": "188.166.91.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand when stock man whose fund especially. Run another Congress hair build low TV few.",
+        "bio": "Between learn lot serious likely opportunity form high. Less white study wish soldier yourself spring color.\nShow performance last set too. Strong agree letter suddenly would across."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
