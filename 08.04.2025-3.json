@@ -1,0 +1,25 @@
+{
+    "name": "Karla Peterson",
+    "age": 39,
+    "address": {
+        "street": "Allison Skyway",
+        "city": "East Saraborough",
+        "state": "Massachusetts",
+        "zip": "16556"
+    },
+    "contact": {
+        "phone": "6083994317",
+        "servicePhone": "800033660"
+    },
+    "birthday": "1986-11-05",
+    "ip": "155.138.112.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Television anyone majority such.\nCall little meet serious note physical. Inside read move bed subject begin expect stuff. Or first piece mouth from son movie.",
+        "bio": "News report firm. Within maintain with growth Mrs.\nChoice everything create career with government politics by."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
