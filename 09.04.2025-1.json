@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Richardson",
+    "age": 2,
+    "address": {
+        "street": "Allison Lock",
+        "city": "Moodyshire",
+        "state": "North Carolina",
+        "zip": "50493"
+    },
+    "contact": {
+        "phone": "394-579-0865",
+        "servicePhone": "800662258"
+    },
+    "birthday": "2023-29-01",
+    "ip": "220.90.14.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Own media health there medical fear question guy. Hair decade really say wait. Turn two fly.",
+        "bio": "Similar remain start energy environment his use. Year enough nor inside property produce.\nTen out class close public fire size speech. Economy event why reach reveal agreement hotel."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
