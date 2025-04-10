@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Decker",
+    "age": 54,
+    "address": {
+        "street": "Burch Ford",
+        "city": "Sethbury",
+        "state": "West Virginia",
+        "zip": "71668"
+    },
+    "contact": {
+        "phone": "001-565-325-1461x1691",
+        "servicePhone": "800709935"
+    },
+    "birthday": "1971-02-10",
+    "ip": "139.155.31.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish ready consider while face. Their ground once.\nMachine action soldier entire. Pay popular successful senior. Million success animal challenge.\nFace authority indeed. Example huge home enjoy.",
+        "bio": "Yard land but range onto end never support. Discuss meet enjoy country market particularly shoulder kind."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
