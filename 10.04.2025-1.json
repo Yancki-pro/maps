@@ -1,0 +1,25 @@
+{
+    "name": "John Proctor",
+    "age": 94,
+    "address": {
+        "street": "Robin Throughway",
+        "city": "Schwartzmouth",
+        "state": "Nebraska",
+        "zip": "71151"
+    },
+    "contact": {
+        "phone": "001-426-617-1124x8763",
+        "servicePhone": "800573568"
+    },
+    "birthday": "1931-02-09",
+    "ip": "161.239.60.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother expect hospital population. Plan pass follow up believe political hold.\nReveal rock officer detail. Represent treatment production part well else. Table director organization fire.",
+        "bio": "Democratic lead doctor rise force civil.\nLocal ground hospital change card morning. Lawyer than indeed site property figure. Process receive since respond teach management."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
