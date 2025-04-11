@@ -1,0 +1,25 @@
+{
+    "name": "Cody Castaneda",
+    "age": 51,
+    "address": {
+        "street": "Pierce Pass",
+        "city": "Robertberg",
+        "state": "New Mexico",
+        "zip": "57125"
+    },
+    "contact": {
+        "phone": "001-911-920-7454x127",
+        "servicePhone": "800686610"
+    },
+    "birthday": "1974-30-10",
+    "ip": "207.44.118.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Play institution true brother standard beyond. Assume hair call beyond edge.",
+        "bio": "Response factor image when PM red including prepare. Lay management world discover so soon.\nFast natural trial learn life. Use behind after century onto."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
