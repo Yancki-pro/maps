@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Benjamin",
+    "age": 33,
+    "address": {
+        "street": "Ryan Loaf",
+        "city": "Kellychester",
+        "state": "California",
+        "zip": "53289"
+    },
+    "contact": {
+        "phone": "001-950-843-0800x9950",
+        "servicePhone": "800263001"
+    },
+    "birthday": "1992-31-01",
+    "ip": "129.64.179.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity everything party center threat. Owner always impact address successful and. Quite left series especially.\nGame everything mission road outside artist yet.",
+        "bio": "Sometimes pattern among sing. Poor article occur at. Practice weight medical operation he.\nItem job modern issue scientist recent. Chance inside age serious."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
