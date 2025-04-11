@@ -1,0 +1,25 @@
+{
+    "name": "James Jackson",
+    "age": 5,
+    "address": {
+        "street": "Dana Hill",
+        "city": "New Mario",
+        "state": "Oregon",
+        "zip": "04597"
+    },
+    "contact": {
+        "phone": "(213)358-1168x15623",
+        "servicePhone": "800685756"
+    },
+    "birthday": "2020-21-01",
+    "ip": "41.122.88.220",
+    "foo": "bar",
+    "profile": {
+        "about": "All against position know. Certain both century thank improve lay.",
+        "bio": "Notice bring goal offer side example. Modern out why wish leave Congress. Travel fire carry."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
