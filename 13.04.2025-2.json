@@ -1,0 +1,25 @@
+{
+    "name": "Joe Murphy",
+    "age": 47,
+    "address": {
+        "street": "Salinas Mountains",
+        "city": "Christinahaven",
+        "state": "West Virginia",
+        "zip": "65601"
+    },
+    "contact": {
+        "phone": "291-877-6645x34914",
+        "servicePhone": "800753953"
+    },
+    "birthday": "1978-16-01",
+    "ip": "66.124.196.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason dream land history such sit physical report. Laugh whose player.\nShow fear population require almost option forget data. Sense ever page somebody push instead.",
+        "bio": "Sure owner over safe create.\nYeah kid important seven rock. Couple hair what hold than listen listen what. Down security per garden religious young."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
