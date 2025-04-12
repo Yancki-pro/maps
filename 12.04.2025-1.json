@@ -1,0 +1,25 @@
+{
+    "name": "James Galvan",
+    "age": 86,
+    "address": {
+        "street": "Tony Squares",
+        "city": "East Patrickshire",
+        "state": "Ohio",
+        "zip": "84841"
+    },
+    "contact": {
+        "phone": "+1-840-938-3848",
+        "servicePhone": "800337400"
+    },
+    "birthday": "1939-19-11",
+    "ip": "149.79.99.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Understand dream wrong interview this.\nToo understand argue sort market bill.\nPerson term almost step try whose network. Rule perform condition. Someone or discussion simple person analysis resource.",
+        "bio": "Style recognize energy friend writer shake according. Imagine admit part place.\nWithout response pick person above. Where participant may arm fund. Statement part seven this weight both."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
