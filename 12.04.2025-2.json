@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Jones",
+    "age": 1,
+    "address": {
+        "street": "Buchanan Trail",
+        "city": "Fitzgeraldfort",
+        "state": "Colorado",
+        "zip": "74502"
+    },
+    "contact": {
+        "phone": "922.238.1596",
+        "servicePhone": "800170812"
+    },
+    "birthday": "2024-09-03",
+    "ip": "18.9.127.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Page six knowledge candidate. Natural crime name case house onto media me.\nUntil woman various. People girl build wrong manager. Interview anything about strong south ground and sell.",
+        "bio": "Enjoy certainly leave city. Face smile PM amount type.\nLaw American space by clear. Spring information body party professional cost media."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
