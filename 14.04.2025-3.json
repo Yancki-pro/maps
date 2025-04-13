@@ -1,0 +1,25 @@
+{
+    "name": "Holly Lindsey",
+    "age": 92,
+    "address": {
+        "street": "Cohen Spring",
+        "city": "South Joycehaven",
+        "state": "Rhode Island",
+        "zip": "54148"
+    },
+    "contact": {
+        "phone": "427-358-4704x51647",
+        "servicePhone": "800492186"
+    },
+    "birthday": "1933-12-08",
+    "ip": "201.200.185.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish have word report chair reason message. Rather return movement week organization treatment people. Star page must mouth.",
+        "bio": "Institution sport speech mission mission. Personal sound within common. Occur near someone century thank without strong gas."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
