@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Villanueva",
+    "age": 24,
+    "address": {
+        "street": "Mike Course",
+        "city": "West Elizabethland",
+        "state": "Massachusetts",
+        "zip": "55709"
+    },
+    "contact": {
+        "phone": "(914)362-2607",
+        "servicePhone": "800814823"
+    },
+    "birthday": "2001-26-05",
+    "ip": "154.192.45.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Those my song usually. Dog oil center sing.\nMaterial sometimes sea. Property talk modern whose.\nSport easy mother according rise sort. Middle society direction whose choice. Stop total large issue.",
+        "bio": "Sell computer sell policy cut prepare. Do cover middle charge. Social capital among carry."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
