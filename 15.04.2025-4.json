@@ -1,0 +1,25 @@
+{
+    "name": "Larry Barron",
+    "age": 64,
+    "address": {
+        "street": "Rodriguez Island",
+        "city": "Frederickstad",
+        "state": "Mississippi",
+        "zip": "50772"
+    },
+    "contact": {
+        "phone": "341-546-9697x18228",
+        "servicePhone": "800983919"
+    },
+    "birthday": "1961-23-06",
+    "ip": "213.152.244.67",
+    "foo": "bar",
+    "profile": {
+        "about": "So tell never toward dream parent. Official want upon she choice always little.\nWorld close arrive offer of painting. Be huge activity ability station where might.",
+        "bio": "Control fine show specific pretty according address.\nOff game join red top. As nice look long stop star professional."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
