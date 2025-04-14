@@ -1,0 +1,25 @@
+{
+    "name": "David Smith",
+    "age": 72,
+    "address": {
+        "street": "Henderson Summit",
+        "city": "South Brian",
+        "state": "Pennsylvania",
+        "zip": "36566"
+    },
+    "contact": {
+        "phone": "+1-384-835-1000x876",
+        "servicePhone": "800813340"
+    },
+    "birthday": "1953-25-06",
+    "ip": "106.250.10.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent test account travel real at. Effect wait no. Within spring former rise four.\nKey first out him follow. Where from although send avoid although look.",
+        "bio": "Event Congress business performance suggest. If property account. Record red form house specific.\nParty loss heavy question today dinner. Understand mind example hold ever."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
