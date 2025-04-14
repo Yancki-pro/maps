@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Mosley",
+    "age": 52,
+    "address": {
+        "street": "Manning Oval",
+        "city": "Maldonadohaven",
+        "state": "Georgia",
+        "zip": "22414"
+    },
+    "contact": {
+        "phone": "2152199066",
+        "servicePhone": "800195854"
+    },
+    "birthday": "1973-02-12",
+    "ip": "108.114.174.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock hair matter market. Who while approach fund talk. Never training positive size politics always within important.",
+        "bio": "World create item deep. Recently take return rule himself this notice.\nBook fine month season stand answer dinner year. Rest physical current decade. Agency form where air say individual information."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
