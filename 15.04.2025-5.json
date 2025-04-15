@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Krueger",
+    "age": 21,
+    "address": {
+        "street": "Malone Summit",
+        "city": "Johnmouth",
+        "state": "Arkansas",
+        "zip": "64818"
+    },
+    "contact": {
+        "phone": "(933)544-2691",
+        "servicePhone": "800581915"
+    },
+    "birthday": "2004-08-01",
+    "ip": "179.224.13.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Stuff these record stage major coach organization. Place able around rule act. Range factor before opportunity why realize.",
+        "bio": "Campaign perform huge approach everyone stock. Player sell manage eat. Wonder experience spring institution environmental wind seek before."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
