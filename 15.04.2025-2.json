@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Martin",
+    "age": 85,
+    "address": {
+        "street": "English Underpass",
+        "city": "West Jessica",
+        "state": "Utah",
+        "zip": "68556"
+    },
+    "contact": {
+        "phone": "(341)428-9506",
+        "servicePhone": "800484259"
+    },
+    "birthday": "1940-16-06",
+    "ip": "167.56.26.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization or leg western message. Modern want want you room deal interview. Fire catch mean least single.",
+        "bio": "Because agreement some huge debate interesting cultural. Visit contain seem.\nPiece question even late customer social. Say senior leg the green politics."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
