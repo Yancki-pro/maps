@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Moore",
+    "age": 59,
+    "address": {
+        "street": "Rose Isle",
+        "city": "West Patriciamouth",
+        "state": "Florida",
+        "zip": "11929"
+    },
+    "contact": {
+        "phone": "(572)953-7024x780",
+        "servicePhone": "800464087"
+    },
+    "birthday": "1966-06-04",
+    "ip": "136.156.183.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone relate candidate he particularly plant yes throw. Something lose finish idea such face. Item friend strong ok.\nArticle vote especially cause anyone. Less president wrong book step.",
+        "bio": "Special foot ball such nearly interesting. Personal size cell so yeah as class.\nSpecific task stuff room list yeah. Time son system teach their care Mr."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
