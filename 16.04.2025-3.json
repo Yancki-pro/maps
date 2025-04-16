@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Berger",
+    "age": 1,
+    "address": {
+        "street": "Wilson Rapid",
+        "city": "East William",
+        "state": "New Mexico",
+        "zip": "89715"
+    },
+    "contact": {
+        "phone": "568.792.7337",
+        "servicePhone": "800302727"
+    },
+    "birthday": "2024-16-08",
+    "ip": "179.105.207.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge half whatever under address. Commercial woman low way around. Per realize those.\nWish but teacher. Suddenly protect relate. Include rock buy then Congress buy.",
+        "bio": "Note compare improve care fly. Billion newspaper traditional contain beautiful billion. Republican material energy into child heavy.\nLarge such two though can candidate."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
