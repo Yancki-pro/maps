@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hall",
+    "age": 54,
+    "address": {
+        "street": "Caitlyn Fork",
+        "city": "Bennettville",
+        "state": "Missouri",
+        "zip": "80329"
+    },
+    "contact": {
+        "phone": "(656)371-5136x581",
+        "servicePhone": "800884594"
+    },
+    "birthday": "1971-09-08",
+    "ip": "189.16.37.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Author almost purpose direction entire. Everybody modern decision clearly power want rate. Cost I dark produce. Economic water expect challenge around cover out prepare.",
+        "bio": "Defense age usually often point without draw discussion. Weight spend add go say lawyer ability.\nTeam speech free impact relationship. Amount reflect open. Girl here late century."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
