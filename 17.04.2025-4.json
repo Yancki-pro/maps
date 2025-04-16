@@ -1,0 +1,25 @@
+{
+    "name": "William Robbins",
+    "age": 57,
+    "address": {
+        "street": "Karen Dale",
+        "city": "Port Bobby",
+        "state": "Ohio",
+        "zip": "49136"
+    },
+    "contact": {
+        "phone": "405-594-8072x0131",
+        "servicePhone": "800878431"
+    },
+    "birthday": "1968-23-03",
+    "ip": "76.122.12.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Success protect conference way. Organization notice hot she. Pattern community official approach.",
+        "bio": "Most actually we century husband three direction. Maybe protect truth budget according.\nHome air indicate subject school. Nearly better week. Clearly strategy different oil order late professor."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
