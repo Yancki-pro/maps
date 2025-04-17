@@ -1,0 +1,25 @@
+{
+    "name": "Craig Pham",
+    "age": 96,
+    "address": {
+        "street": "Evans Plain",
+        "city": "West Marcusport",
+        "state": "Nevada",
+        "zip": "75422"
+    },
+    "contact": {
+        "phone": "001-316-817-6731x5797",
+        "servicePhone": "800739962"
+    },
+    "birthday": "1929-04-10",
+    "ip": "64.69.140.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff until no they. Own full threat low head. Single without adult guess question responsibility baby.\nUnit ever catch significant hear. Hit amount general computer. Consider address note.",
+        "bio": "Glass southern son its center performance personal.\nIdentify join see college. Assume hold control upon down color. Small big start."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
