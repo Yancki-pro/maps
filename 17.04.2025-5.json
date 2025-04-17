@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Ortiz",
+    "age": 98,
+    "address": {
+        "street": "Gardner Junctions",
+        "city": "Georgefort",
+        "state": "Indiana",
+        "zip": "73556"
+    },
+    "contact": {
+        "phone": "473.560.9737",
+        "servicePhone": "800072523"
+    },
+    "birthday": "1927-17-04",
+    "ip": "156.147.73.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Same despite machine save dog picture actually bill.",
+        "bio": "President well stage such tend activity. Economic exactly begin form throw such. Political certainly institution stay."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
