@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Young",
+    "age": 51,
+    "address": {
+        "street": "Kimberly Junction",
+        "city": "Samanthashire",
+        "state": "Tennessee",
+        "zip": "99826"
+    },
+    "contact": {
+        "phone": "244-434-6419x754",
+        "servicePhone": "800663587"
+    },
+    "birthday": "1974-25-10",
+    "ip": "141.214.171.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation majority gas main face could discover. House employee serious keep really film PM move.\nFormer such together detail item over. Not still player eat trade physical appear.",
+        "bio": "Artist attack task about. Prepare poor here growth concern against prepare. Color item enter.\nThemselves tax this religious machine gas quite response.\nPartner trip easy. Admit simple learn."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
