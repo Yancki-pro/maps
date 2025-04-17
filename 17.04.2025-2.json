@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Burgess",
+    "age": 19,
+    "address": {
+        "street": "Jennifer Trace",
+        "city": "Lake Rhonda",
+        "state": "Kansas",
+        "zip": "51164"
+    },
+    "contact": {
+        "phone": "+1-422-467-5471x1139",
+        "servicePhone": "800866695"
+    },
+    "birthday": "2006-17-07",
+    "ip": "144.33.180.166",
+    "foo": "bar",
+    "profile": {
+        "about": "These run environment. Test tax light policy.\nCandidate skin charge outside phone try. So him yes total.",
+        "bio": "Onto talk fall simply contain garden. Education institution class trouble.\nForget either experience night. Know music guess ability into.\nMan meet assume. Call cup watch cup agency."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
