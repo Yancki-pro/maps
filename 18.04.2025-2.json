@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Petty",
+    "age": 107,
+    "address": {
+        "street": "Love Parkways",
+        "city": "New Evan",
+        "state": "Alabama",
+        "zip": "20597"
+    },
+    "contact": {
+        "phone": "+1-227-883-2885x19383",
+        "servicePhone": "800455378"
+    },
+    "birthday": "1918-27-02",
+    "ip": "215.223.86.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Say have back poor break figure. Which more kind last. Message physical responsibility issue. Like allow his citizen president.",
+        "bio": "Computer policy join population write. Mind best let put yet car situation. Quite keep others."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
