@@ -1,0 +1,25 @@
+{
+    "name": "John Bishop",
+    "age": 57,
+    "address": {
+        "street": "York Lakes",
+        "city": "West Becky",
+        "state": "Oklahoma",
+        "zip": "58646"
+    },
+    "contact": {
+        "phone": "309-446-0280x05779",
+        "servicePhone": "800609029"
+    },
+    "birthday": "1968-25-11",
+    "ip": "206.99.90.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican benefit nation pretty health. Challenge particular specific include. Itself white possible happen break deep green. It compare yet positive word.",
+        "bio": "Better quality direction. He close right you. Who society rather upon not.\nWhether tough couple item cause rule use. Various look impact past thing past."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
