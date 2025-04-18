@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Higgins",
+    "age": 23,
+    "address": {
+        "street": "Hensley Extension",
+        "city": "Cynthiahaven",
+        "state": "Florida",
+        "zip": "44963"
+    },
+    "contact": {
+        "phone": "+1-938-250-3292x38681",
+        "servicePhone": "800862515"
+    },
+    "birthday": "2002-09-03",
+    "ip": "44.190.239.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Realize with ok avoid building physical represent day. Take thus treat matter less because weight wear. Herself everybody time part personal building. Box collection agent image.",
+        "bio": "Side in question live. From TV fire indeed at. Any born election begin simple.\nRise end grow language trip. Commercial author under back team. Number authority admit past."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
