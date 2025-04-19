@@ -1,0 +1,25 @@
+{
+    "name": "Amber Alexander",
+    "age": 46,
+    "address": {
+        "street": "Angela Cove",
+        "city": "Port Ashley",
+        "state": "Pennsylvania",
+        "zip": "76056"
+    },
+    "contact": {
+        "phone": "5078965998",
+        "servicePhone": "800139022"
+    },
+    "birthday": "1979-13-10",
+    "ip": "81.104.166.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly among simply wear song same science. East voice point model.\nWant rate college budget. Because building town determine series garden.",
+        "bio": "Itself act south her about always. Just which affect present today offer. North care cost we now relationship serve growth."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
