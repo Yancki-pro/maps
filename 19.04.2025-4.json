@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Jackson",
+    "age": 85,
+    "address": {
+        "street": "Patricia Shoals",
+        "city": "Yoderborough",
+        "state": "Indiana",
+        "zip": "28841"
+    },
+    "contact": {
+        "phone": "708-329-1453x78729",
+        "servicePhone": "800256504"
+    },
+    "birthday": "1940-23-12",
+    "ip": "103.40.139.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful little father real. Building will here wife bank already.\nAbout night themselves stuff fear history. Issue line speak Mr city. Term speech place participant rest.",
+        "bio": "No town Congress sister possible each relate. Become land such although simple size detail group."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
