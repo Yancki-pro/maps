@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Chapman",
+    "age": 13,
+    "address": {
+        "street": "Davis Inlet",
+        "city": "Hernandezfurt",
+        "state": "Utah",
+        "zip": "66883"
+    },
+    "contact": {
+        "phone": "888.831.3595x09566",
+        "servicePhone": "800979716"
+    },
+    "birthday": "2012-01-04",
+    "ip": "119.236.108.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Still understand get customer. Late side central off blue. They interest you dream foot security threat. Enter majority report ago.\nKitchen may him about ever. Hair religious teach at weight million.",
+        "bio": "Such focus student wrong practice either. Feel someone mouth set from there.\nMission television from ability citizen form save home. Important take view head several."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
