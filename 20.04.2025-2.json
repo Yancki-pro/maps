@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Mccann",
+    "age": 52,
+    "address": {
+        "street": "Kristi Parks",
+        "city": "New Adam",
+        "state": "Pennsylvania",
+        "zip": "78705"
+    },
+    "contact": {
+        "phone": "520.793.5314",
+        "servicePhone": "800054336"
+    },
+    "birthday": "1973-02-10",
+    "ip": "40.215.174.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Share month serve least. Force something data him establish. Effect happen likely produce reason.",
+        "bio": "Hair skill region suggest guy fund. Firm process myself call.\nRaise step kitchen lay sell. Camera return writer near check fire. Those player long pass lead six."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
