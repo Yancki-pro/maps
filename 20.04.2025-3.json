@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Walsh",
+    "age": 12,
+    "address": {
+        "street": "Johnson Lodge",
+        "city": "Murrayburgh",
+        "state": "Texas",
+        "zip": "39212"
+    },
+    "contact": {
+        "phone": "530.909.4732x43140",
+        "servicePhone": "800803730"
+    },
+    "birthday": "2013-21-12",
+    "ip": "10.166.128.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Star first only coach. Fire main between attention perhaps. Partner this young.\nBillion case improve miss much you. Look single put maintain remain.",
+        "bio": "Education then security travel soon fact manage. Figure prove protect parent. Theory return around around research.\nAccept baby value. Color field structure fund near."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
