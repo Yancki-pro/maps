@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Williams",
+    "age": 5,
+    "address": {
+        "street": "Angela Glens",
+        "city": "East Nicholas",
+        "state": "Georgia",
+        "zip": "11742"
+    },
+    "contact": {
+        "phone": "001-313-473-5905x25224",
+        "servicePhone": "800479364"
+    },
+    "birthday": "2020-24-07",
+    "ip": "150.91.253.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit official be.\nNews current early grow. Usually interesting write lose up new gas.\nGrow occur already upon worker left strategy.",
+        "bio": "Society stock under agree read modern. Exist western son nor attack thousand.\nThing leg home yard along guess huge. Reason remember product beyond natural fine loss."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
