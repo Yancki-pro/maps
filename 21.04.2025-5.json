@@ -1,0 +1,25 @@
+{
+    "name": "Krista Hall",
+    "age": 12,
+    "address": {
+        "street": "Shane Divide",
+        "city": "South Elizabeth",
+        "state": "Alabama",
+        "zip": "54973"
+    },
+    "contact": {
+        "phone": "001-443-440-1837x38340",
+        "servicePhone": "800363641"
+    },
+    "birthday": "2013-01-04",
+    "ip": "69.124.123.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface environmental mouth most military reason. Shake sound exactly.",
+        "bio": "Serious impact large. Quite suffer agree into east such officer.\nLetter business record at. Play home pattern born. Accept space trade head then specific."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
