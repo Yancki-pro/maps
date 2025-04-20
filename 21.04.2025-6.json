@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Johnson",
+    "age": 42,
+    "address": {
+        "street": "Christopher Stravenue",
+        "city": "New Timothy",
+        "state": "Kentucky",
+        "zip": "66178"
+    },
+    "contact": {
+        "phone": "802.483.7296x6285",
+        "servicePhone": "800651889"
+    },
+    "birthday": "1983-19-12",
+    "ip": "108.241.19.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Land minute mean yourself Republican story. Unit management set difficult form step research read.\nStyle coach friend may audience boy. Employee today ten see skin. Go dream stuff as trip.",
+        "bio": "On high notice hospital lead short hospital discussion. Than history mission beyond when.\nSecond have consumer part surface role try certainly. Others management old live."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
