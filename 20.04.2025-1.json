@@ -1,0 +1,25 @@
+{
+    "name": "Mary Tapia",
+    "age": 113,
+    "address": {
+        "street": "Lindsay Pines",
+        "city": "Kennethside",
+        "state": "Arizona",
+        "zip": "03367"
+    },
+    "contact": {
+        "phone": "+1-763-441-1032",
+        "servicePhone": "800132683"
+    },
+    "birthday": "1912-11-11",
+    "ip": "179.216.55.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade wait artist wait. Establish find improve popular first. Network soldier program later old society.\nGirl day large before.",
+        "bio": "Party ground big decision hard practice fact. Light interview address per say. Four something identify Mrs perform girl night."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
