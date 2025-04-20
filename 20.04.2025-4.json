@@ -1,0 +1,25 @@
+{
+    "name": "Jill Gray",
+    "age": 46,
+    "address": {
+        "street": "Joseph Shore",
+        "city": "Kimberlybury",
+        "state": "Connecticut",
+        "zip": "64976"
+    },
+    "contact": {
+        "phone": "+1-816-243-3042x682",
+        "servicePhone": "800988668"
+    },
+    "birthday": "1979-14-03",
+    "ip": "63.229.129.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Always capital instead cold drug compare instead.\nStore animal us wait. Behind page crime according strategy answer call.\nSenior wonder six three think. Major study heavy radio agree style.",
+        "bio": "Message idea race game. Themselves list tree anyone upon situation share Congress.\nWhile begin candidate eye central beat. Blue defense especially occur."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
