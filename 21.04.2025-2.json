@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Smith",
+    "age": 69,
+    "address": {
+        "street": "Flores Ridge",
+        "city": "Lake Christophershire",
+        "state": "Indiana",
+        "zip": "42097"
+    },
+    "contact": {
+        "phone": "206-518-9990x062",
+        "servicePhone": "800617376"
+    },
+    "birthday": "1956-05-03",
+    "ip": "186.194.207.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity interesting see data. Officer bank her very center place fill. Meeting discussion here reveal position argue rate south. Recent president eye knowledge lose.",
+        "bio": "Power environmental real safe majority bad consider I. Owner event around environment suffer easy.\nSpace up kid against you everyone. Discussion child law general yourself recent writer."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
