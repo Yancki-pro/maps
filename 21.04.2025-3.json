@@ -1,0 +1,25 @@
+{
+    "name": "Mary Huang",
+    "age": 71,
+    "address": {
+        "street": "Mercedes Inlet",
+        "city": "Vickieborough",
+        "state": "Wyoming",
+        "zip": "71488"
+    },
+    "contact": {
+        "phone": "001-897-264-4157x27453",
+        "servicePhone": "800909669"
+    },
+    "birthday": "1954-06-02",
+    "ip": "14.17.109.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect new our seven number. Ever sit onto image especially evening key worker.\nBeautiful office cup color decade message may.",
+        "bio": "Smile few prove fine pull material. Ten method father my. Place four just we.\nCan shake read near perform eight cup economic. Win affect agent oil. Either maybe eat response ask thing."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
