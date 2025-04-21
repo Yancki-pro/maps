@@ -1,0 +1,25 @@
+{
+    "name": "Brian Miller",
+    "age": 47,
+    "address": {
+        "street": "Vicki Path",
+        "city": "Kleinberg",
+        "state": "Minnesota",
+        "zip": "75839"
+    },
+    "contact": {
+        "phone": "293.364.8497",
+        "servicePhone": "800671267"
+    },
+    "birthday": "1978-24-08",
+    "ip": "57.190.252.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Work figure open yes particularly pass keep. Wrong big much follow.\nSay sense as company quality respond. Arm respond four each visit several like. Sell test here beyond exist let several.",
+        "bio": "Short war tell woman enjoy play remain. Decade event dream cover camera word quality answer. Size four surface expect industry painting also."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
