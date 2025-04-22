@@ -1,0 +1,25 @@
+{
+    "name": "Jim Lewis",
+    "age": 99,
+    "address": {
+        "street": "Gonzalez Crescent",
+        "city": "Port Kevin",
+        "state": "Texas",
+        "zip": "54321"
+    },
+    "contact": {
+        "phone": "+1-718-937-0572x01386",
+        "servicePhone": "800754824"
+    },
+    "birthday": "1926-30-04",
+    "ip": "61.164.213.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Health allow here figure fast hour unit product. They food happen. Book ground another computer director audience politics.",
+        "bio": "Ten poor exactly. Quite now relate talk.\nSuccessful myself standard different. Create bag science little gun. Up happen message focus."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
