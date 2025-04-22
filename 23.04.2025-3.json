@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Winters",
+    "age": 48,
+    "address": {
+        "street": "Ramos Run",
+        "city": "Port Lindsayside",
+        "state": "Michigan",
+        "zip": "31384"
+    },
+    "contact": {
+        "phone": "8689107624",
+        "servicePhone": "800180434"
+    },
+    "birthday": "1977-21-07",
+    "ip": "208.237.244.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Might support leader television. Note manager cultural answer perform.",
+        "bio": "Through agree subject surface reality of which. Poor throw her.\nArgue oil organization whose population interesting contain. Dream maybe behind benefit country ahead."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
