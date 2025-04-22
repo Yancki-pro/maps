@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Lee",
+    "age": 35,
+    "address": {
+        "street": "Ward Flats",
+        "city": "Franklinhaven",
+        "state": "Iowa",
+        "zip": "47536"
+    },
+    "contact": {
+        "phone": "+1-542-774-5275x925",
+        "servicePhone": "800510683"
+    },
+    "birthday": "1990-03-01",
+    "ip": "4.16.179.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage item successful high not commercial record community. Person its health world. Rich reveal rate theory every position.",
+        "bio": "Sport full model audience professional station. Magazine certain address right very."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
