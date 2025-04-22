@@ -1,0 +1,25 @@
+{
+    "name": "Colleen Williams",
+    "age": 114,
+    "address": {
+        "street": "Alexander Curve",
+        "city": "West Jasminfurt",
+        "state": "New Mexico",
+        "zip": "82648"
+    },
+    "contact": {
+        "phone": "385.640.5767x402",
+        "servicePhone": "800237490"
+    },
+    "birthday": "1911-13-04",
+    "ip": "208.166.88.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss society child no article sport personal. Sign realize wish today four deal into. Onto apply people space scene. Record rate sport.\nEnergy peace oil beat. Leave now life must investment model.",
+        "bio": "Generation sound drop spring maintain why painting ready. Win hundred detail.\nDegree discussion stay entire cut bar. Whole stay wish explain court southern sport."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
