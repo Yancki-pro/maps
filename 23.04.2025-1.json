@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Tucker",
+    "age": 33,
+    "address": {
+        "street": "Elizabeth Camp",
+        "city": "Sarahborough",
+        "state": "Tennessee",
+        "zip": "26853"
+    },
+    "contact": {
+        "phone": "969-516-2709x709",
+        "servicePhone": "800804937"
+    },
+    "birthday": "1992-13-07",
+    "ip": "206.20.159.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed side media high part.\nOil concern too represent to old. Time reflect third while federal chance. North support man own race former.",
+        "bio": "Method kitchen government about product lot peace. Nearly reveal pay direction what. Lose two kid."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
