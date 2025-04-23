@@ -1,0 +1,25 @@
+{
+    "name": "Sean Brooks",
+    "age": 53,
+    "address": {
+        "street": "Terri Trafficway",
+        "city": "Megantown",
+        "state": "New Hampshire",
+        "zip": "53681"
+    },
+    "contact": {
+        "phone": "001-799-862-1998x1623",
+        "servicePhone": "800572481"
+    },
+    "birthday": "1972-23-04",
+    "ip": "2.24.5.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Get debate likely not. Everybody against challenge tell maybe notice result. Part career simple.\nHer save prevent language surface two bring. Across consider drive but.",
+        "bio": "Last also movie control. Short report practice. Pm certain sure upon remain wall tough goal.\nSometimes rate exist another director sure. Former name option here final themselves."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
