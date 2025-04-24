@@ -1,0 +1,25 @@
+{
+    "name": "Mark Martinez",
+    "age": 45,
+    "address": {
+        "street": "Cheryl Creek",
+        "city": "West Nicole",
+        "state": "New Mexico",
+        "zip": "34985"
+    },
+    "contact": {
+        "phone": "5943863031",
+        "servicePhone": "800312706"
+    },
+    "birthday": "1980-25-12",
+    "ip": "41.20.166.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Public upon car hot though decade.\nHis together democratic leader until seem everyone sea. Compare threat wrong modern out take.\nBusiness cultural whose support director.",
+        "bio": "Truth window Mrs seem seem. Development sense system season ready member however describe.\nCarry number factor fear. Center put walk light development evidence suddenly. Next year else hear interest."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
