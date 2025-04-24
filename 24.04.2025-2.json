@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Beard",
+    "age": 101,
+    "address": {
+        "street": "Robert Shores",
+        "city": "South Michelle",
+        "state": "Arkansas",
+        "zip": "83972"
+    },
+    "contact": {
+        "phone": "+1-269-524-4921x216",
+        "servicePhone": "800570185"
+    },
+    "birthday": "1924-12-07",
+    "ip": "63.114.224.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Point detail avoid choice practice very training.",
+        "bio": "Class kitchen hold actually explain. Skin keep high garden organization PM manage increase."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
