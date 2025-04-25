@@ -1,0 +1,25 @@
+{
+    "name": "Richard Martin",
+    "age": 100,
+    "address": {
+        "street": "Frazier Lodge",
+        "city": "Reedborough",
+        "state": "Iowa",
+        "zip": "30312"
+    },
+    "contact": {
+        "phone": "(808)697-4069x3682",
+        "servicePhone": "800557485"
+    },
+    "birthday": "1925-15-02",
+    "ip": "78.220.224.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice father cultural week among table manage son. Specific go participant south long beat girl.",
+        "bio": "Bar order across parent life friend. Or baby statement. Fly think management response author cost.\nSeason college bit society middle practice loss. Able pretty push term public would benefit."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
