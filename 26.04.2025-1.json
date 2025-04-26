@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Johnson",
+    "age": 68,
+    "address": {
+        "street": "Nathaniel Hollow",
+        "city": "Troyside",
+        "state": "New York",
+        "zip": "97320"
+    },
+    "contact": {
+        "phone": "790-488-1746x071",
+        "servicePhone": "800180607"
+    },
+    "birthday": "1957-02-08",
+    "ip": "13.246.204.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand from conference line federal foreign. Consumer over whatever allow pay machine. Fast continue treat word understand goal themselves.",
+        "bio": "Matter until visit maintain. By whatever song purpose already particularly.\nReason more wide forward rise. Star increase energy government. Carry case have blue."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
