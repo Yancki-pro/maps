@@ -1,0 +1,25 @@
+{
+    "name": "Gina Cain",
+    "age": 67,
+    "address": {
+        "street": "Kyle Cliff",
+        "city": "Sheliaburgh",
+        "state": "Vermont",
+        "zip": "04793"
+    },
+    "contact": {
+        "phone": "001-901-561-2001x77186",
+        "servicePhone": "800997963"
+    },
+    "birthday": "1958-25-03",
+    "ip": "125.106.195.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher against strategy care. Become prove top pull note bed example energy. Money woman partner big.",
+        "bio": "Speak letter science design it important entire travel.\nAdministration who thus half before worry politics. And expect road maybe own through. Later lead son middle close."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
