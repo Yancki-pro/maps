@@ -1,0 +1,25 @@
+{
+    "name": "Dale Taylor",
+    "age": 80,
+    "address": {
+        "street": "Raymond Wells",
+        "city": "Port Monique",
+        "state": "Utah",
+        "zip": "79485"
+    },
+    "contact": {
+        "phone": "+1-340-851-1527",
+        "servicePhone": "800722384"
+    },
+    "birthday": "1945-04-04",
+    "ip": "126.39.129.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Range if south maybe believe rich hair. Laugh name surface cut argue beyond foreign.\nThey summer its believe. Camera street herself pretty.",
+        "bio": "Indeed book high teach.\nAlready generation authority up science score why. Parent stop system kid. Use push yard today scientist follow positive."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
