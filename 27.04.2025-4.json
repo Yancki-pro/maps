@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Sharon Griffin",
+    "age": 82,
+    "address": {
+        "street": "Thomas Falls",
+        "city": "Lake Robin",
+        "state": "Arizona",
+        "zip": "11188"
+    },
+    "contact": {
+        "phone": "392.998.1125x031",
+        "servicePhone": "800091629"
+    },
+    "birthday": "1943-02-09",
+    "ip": "44.18.187.39",
+    "foo": "bar",
+    "profile": {
+        "about": "There show situation newspaper if everybody. Perform win read member.\nProgram choose way service customer quality. Be also set notice. Real same need relate yard when grow.",
+        "bio": "Thought effort beautiful around one. Write politics positive Mrs raise.\nSerious run wear Republican. Entire your early only without above. Clear husband commercial ground past project protect."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
