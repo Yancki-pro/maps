@@ -1,0 +1,25 @@
+{
+    "name": "David Johnson DVM",
+    "age": 81,
+    "address": {
+        "street": "Jones Shoal",
+        "city": "Lake John",
+        "state": "Louisiana",
+        "zip": "30759"
+    },
+    "contact": {
+        "phone": "001-297-571-1628",
+        "servicePhone": "800014624"
+    },
+    "birthday": "1944-11-12",
+    "ip": "28.167.90.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Air despite large far effort couple can. Experience to mouth think ten dream those very. Speak PM technology.",
+        "bio": "Sea people effect enough very enjoy.\nMoment out perform letter then institution indeed. Military foreign head wall site morning save."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
