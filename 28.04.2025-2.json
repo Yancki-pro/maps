@@ -1,0 +1,25 @@
+{
+    "name": "Steven Waller",
+    "age": 14,
+    "address": {
+        "street": "Ross Centers",
+        "city": "North John",
+        "state": "Oklahoma",
+        "zip": "97795"
+    },
+    "contact": {
+        "phone": "+1-439-675-7692x454",
+        "servicePhone": "800828883"
+    },
+    "birthday": "2011-19-08",
+    "ip": "186.251.123.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental produce store significant especially. Small tough reason light mention station study.\nAlso fund stand former skin. Hand page affect.",
+        "bio": "Involve wonder down choose player. Mention sea site particularly.\nScience group about anyone moment green place information."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
