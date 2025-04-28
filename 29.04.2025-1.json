@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Underwood",
+    "age": 58,
+    "address": {
+        "street": "Lisa Locks",
+        "city": "Piercebury",
+        "state": "Utah",
+        "zip": "01982"
+    },
+    "contact": {
+        "phone": "001-251-874-8505",
+        "servicePhone": "800089420"
+    },
+    "birthday": "1967-25-01",
+    "ip": "77.82.14.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Property finish reveal miss perform analysis present order. Around trip war.\nConsider kitchen now structure why hour. Black price believe want.",
+        "bio": "Yes ground house occur space.\nClass little note prepare. Forward specific sister even.\nFederal rule north everyone political become whole. Kid shoulder example once choice pass."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
