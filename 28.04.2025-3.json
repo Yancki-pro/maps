@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Stone",
+    "age": 16,
+    "address": {
+        "street": "Eric Drives",
+        "city": "Lake Brandi",
+        "state": "Oregon",
+        "zip": "75065"
+    },
+    "contact": {
+        "phone": "766.558.4329x790",
+        "servicePhone": "800559293"
+    },
+    "birthday": "2009-26-11",
+    "ip": "102.173.155.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat cell real say source executive candidate standard. Wife realize coach PM serious. Police business cover movement page what.",
+        "bio": "Hold certain me with management structure make. Range research bill out many expect force."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
