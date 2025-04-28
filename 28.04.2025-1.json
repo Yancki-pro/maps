@@ -1,0 +1,25 @@
+{
+    "name": "Adam Sanders",
+    "age": 33,
+    "address": {
+        "street": "Jacob Causeway",
+        "city": "Janehaven",
+        "state": "Delaware",
+        "zip": "33926"
+    },
+    "contact": {
+        "phone": "200.479.4393",
+        "servicePhone": "800610299"
+    },
+    "birthday": "1992-11-05",
+    "ip": "179.12.110.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth from phone top pretty tax including. Although base win season impact. Enter food best case. Business marriage yet.",
+        "bio": "Standard reduce education my business good morning within. From read season performance hard.\nMorning something account. Hotel tonight guy mouth. Fact doctor message control by form."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
