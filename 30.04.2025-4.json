@@ -1,0 +1,25 @@
+{
+    "name": "Janet Stewart",
+    "age": 4,
+    "address": {
+        "street": "Morgan Keys",
+        "city": "Rhodesbury",
+        "state": "California",
+        "zip": "44748"
+    },
+    "contact": {
+        "phone": "+1-902-760-4670",
+        "servicePhone": "800607143"
+    },
+    "birthday": "2021-06-08",
+    "ip": "204.75.20.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Star wear go energy. Space recently western shoulder floor.\nEstablish eat never worker. Including direction heavy blood say response.\nAbility member recently with current. Tonight option at.",
+        "bio": "Recently of service maintain effect do once. Pm full happy from forward these. Official open skin per beautiful professor describe imagine. Seat decide doctor both drug quality."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
