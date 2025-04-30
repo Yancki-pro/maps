@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Cunningham",
+    "age": 8,
+    "address": {
+        "street": "Blankenship Mission",
+        "city": "Lake John",
+        "state": "Massachusetts",
+        "zip": "23274"
+    },
+    "contact": {
+        "phone": "818.214.2191x677",
+        "servicePhone": "800829290"
+    },
+    "birthday": "2017-24-11",
+    "ip": "164.48.135.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit mention cultural black medical. Measure he tax soon study mention. Model consider ability. Part line lay identify ready from.",
+        "bio": "Administration risk when even great doctor specific. Same small strong couple cold media concern create.\nThan her natural likely sure way. Food street discussion forward until success policy live."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
