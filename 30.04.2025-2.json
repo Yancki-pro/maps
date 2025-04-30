@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Goodman",
+    "age": 105,
+    "address": {
+        "street": "Williams Rapid",
+        "city": "East Davidmouth",
+        "state": "Montana",
+        "zip": "64356"
+    },
+    "contact": {
+        "phone": "709.594.2143",
+        "servicePhone": "800482469"
+    },
+    "birthday": "1920-15-03",
+    "ip": "151.0.240.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Check school hold poor with history. Majority suddenly yard.\nSense add suggest other situation. Ok situation lead attention. Thought international fund little choose approach care.",
+        "bio": "Nothing explain health job son. Base increase his effect present.\nFor market resource organization parent. Fear far peace leader. Mission page one."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
