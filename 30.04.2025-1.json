@@ -1,0 +1,25 @@
+{
+    "name": "Eric Rodriguez",
+    "age": 14,
+    "address": {
+        "street": "Sarah Divide",
+        "city": "Walshhaven",
+        "state": "Indiana",
+        "zip": "26251"
+    },
+    "contact": {
+        "phone": "562-279-5782x966",
+        "servicePhone": "800390273"
+    },
+    "birthday": "2011-29-06",
+    "ip": "178.11.112.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually pass east beat reflect. Wind too hear yard word move. Notice article anyone party bit catch.\nAgreement citizen after civil me pick. Hotel return much religious scientist factor.",
+        "bio": "Relate condition industry section. Ask meeting forget west citizen father customer.\nMajor house news concern magazine nearly where. Suffer family hot claim reveal southern."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
