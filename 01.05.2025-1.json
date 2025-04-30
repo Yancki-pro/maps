@@ -1,0 +1,25 @@
+{
+    "name": "Michael Harrison",
+    "age": 10,
+    "address": {
+        "street": "Sanchez Tunnel",
+        "city": "Meaganborough",
+        "state": "Kentucky",
+        "zip": "95655"
+    },
+    "contact": {
+        "phone": "881.356.5408",
+        "servicePhone": "800938737"
+    },
+    "birthday": "2015-07-02",
+    "ip": "10.162.169.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Wrong write material attack. Hear argue how work.\nScientist court pretty week research effect benefit. Likely result may wind others American beautiful. Book song fear age son.",
+        "bio": "Appear build often behind half and. Travel candidate as back benefit. Edge not consumer agent anyone care."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
