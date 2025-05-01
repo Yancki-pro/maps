@@ -1,0 +1,25 @@
+{
+    "name": "Haley Bond",
+    "age": 43,
+    "address": {
+        "street": "Ramos Throughway",
+        "city": "Lake Courtneychester",
+        "state": "Iowa",
+        "zip": "67751"
+    },
+    "contact": {
+        "phone": "483-478-7850",
+        "servicePhone": "800368440"
+    },
+    "birthday": "1982-25-04",
+    "ip": "162.60.0.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Article because daughter. Amount set remember fund for. Often reach ever miss. Available miss often key.\nIt great activity behavior building.\nImpact star fly structure may give increase.",
+        "bio": "Collection institution both it apply themselves natural join. Although after line member per focus positive. Rise affect trouble film son everyone join. Compare politics smile either."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
