@@ -1,0 +1,25 @@
+{
+    "name": "John Cruz",
+    "age": 59,
+    "address": {
+        "street": "Gail Wells",
+        "city": "North Michaelport",
+        "state": "New Mexico",
+        "zip": "71273"
+    },
+    "contact": {
+        "phone": "851-533-6107",
+        "servicePhone": "800334239"
+    },
+    "birthday": "1966-04-09",
+    "ip": "13.223.200.162",
+    "foo": "bar",
+    "profile": {
+        "about": "History company state among might. Music if job laugh form Congress executive. Institution read set.\nCompany policy continue customer pay. Wish century popular adult. Stay walk wrong dog imagine.",
+        "bio": "Able hope hold life light which about.\nHot effort political this government avoid. Of push field husband choice measure. Mission you must professional citizen finally according."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
