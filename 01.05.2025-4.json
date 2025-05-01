@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Booth",
+    "age": 30,
+    "address": {
+        "street": "Anthony Glen",
+        "city": "Port Kristineside",
+        "state": "California",
+        "zip": "14915"
+    },
+    "contact": {
+        "phone": "001-912-371-3979x955",
+        "servicePhone": "800122926"
+    },
+    "birthday": "1995-18-04",
+    "ip": "205.27.197.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Now grow government. Why stay answer staff.",
+        "bio": "Vote save through score see eight friend. Next white forget without sell approach."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
