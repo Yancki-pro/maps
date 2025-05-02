@@ -1,0 +1,25 @@
+{
+    "name": "Ray Williams",
+    "age": 61,
+    "address": {
+        "street": "Castillo Locks",
+        "city": "South Andrewmouth",
+        "state": "Maryland",
+        "zip": "88004"
+    },
+    "contact": {
+        "phone": "001-724-873-7487x2203",
+        "servicePhone": "800684971"
+    },
+    "birthday": "1964-15-10",
+    "ip": "55.219.62.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Between hand everyone. Ok product teach create here.\nBillion according through health huge. Evening church including you main.",
+        "bio": "Between describe win. Agency maybe parent hot per maybe allow.\nAlready star letter and put five. Send with travel. Four nature account push involve personal recognize."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
