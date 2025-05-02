@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Sanders DVM",
+    "age": 73,
+    "address": {
+        "street": "Johnson Crescent",
+        "city": "Ramirezshire",
+        "state": "Ohio",
+        "zip": "36513"
+    },
+    "contact": {
+        "phone": "(763)225-7226x8663",
+        "servicePhone": "800639865"
+    },
+    "birthday": "1952-11-01",
+    "ip": "47.88.194.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich air parent case left open them. Across gun mind main into. Stand challenge response.",
+        "bio": "Common in ever assume. Build stage candidate page real.\nDraw account full east left white professor. If tax final individual quickly area cause. Continue while long culture offer lawyer share."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
