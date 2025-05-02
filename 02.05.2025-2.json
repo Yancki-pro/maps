@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mcintosh",
+    "age": 108,
+    "address": {
+        "street": "Adkins Mall",
+        "city": "New Cassiebury",
+        "state": "Virginia",
+        "zip": "23670"
+    },
+    "contact": {
+        "phone": "4128540166",
+        "servicePhone": "800362784"
+    },
+    "birthday": "1917-31-05",
+    "ip": "91.223.188.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem wait say that step. House well mother support else even culture.\nWay ten less opportunity. Spend unit design. Its daughter seek allow woman.",
+        "bio": "Physical respond sign traditional moment cold painting agency. Nor glass since huge open full issue."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
