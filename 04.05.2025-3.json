@@ -1,0 +1,25 @@
+{
+    "name": "Lorraine Howard",
+    "age": 106,
+    "address": {
+        "street": "Johnson Village",
+        "city": "Johnburgh",
+        "state": "New York",
+        "zip": "95303"
+    },
+    "contact": {
+        "phone": "001-807-448-3570",
+        "servicePhone": "800320917"
+    },
+    "birthday": "1919-30-03",
+    "ip": "151.76.249.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody financial toward leave relate. Early unit tell shake believe major make. Decision television space decide across likely past. Chair begin customer control else law green.",
+        "bio": "How thing book world picture. Hot marriage raise consumer. Return contain traditional trip executive character."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
