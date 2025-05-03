@@ -1,0 +1,25 @@
+{
+    "name": "Donald Quinn",
+    "age": 65,
+    "address": {
+        "street": "Debbie Path",
+        "city": "Lake Joseton",
+        "state": "Massachusetts",
+        "zip": "53757"
+    },
+    "contact": {
+        "phone": "(209)663-5090x897",
+        "servicePhone": "800588847"
+    },
+    "birthday": "1960-11-01",
+    "ip": "18.177.101.211",
+    "foo": "bar",
+    "profile": {
+        "about": "There trade foot president. Yeah small base little with say spend. Miss responsibility thank want own act machine.",
+        "bio": "Our black lay upon. Race give bank room wonder. Direction seem candidate point through if. Age really so laugh house."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
