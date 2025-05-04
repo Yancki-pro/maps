@@ -1,0 +1,25 @@
+{
+    "name": "John Howard",
+    "age": 111,
+    "address": {
+        "street": "Shane Knolls",
+        "city": "Lake Sherylchester",
+        "state": "California",
+        "zip": "44235"
+    },
+    "contact": {
+        "phone": "(290)423-2698x77894",
+        "servicePhone": "800667416"
+    },
+    "birthday": "1914-27-02",
+    "ip": "69.100.94.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Be table impact write drive serve. Kind traditional tell.\nNext sign too institution century nothing.",
+        "bio": "Best early possible. Attorney million grow product. War defense chance part.\nSafe head anyone partner argue former. Son front base. Series cell travel else seek fire see."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
