@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Ball",
+    "age": 97,
+    "address": {
+        "street": "Vargas Haven",
+        "city": "Johnhaven",
+        "state": "South Carolina",
+        "zip": "06623"
+    },
+    "contact": {
+        "phone": "633.592.8295",
+        "servicePhone": "800624044"
+    },
+    "birthday": "1928-30-01",
+    "ip": "159.190.60.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Would husband lot garden society respond discussion. Enjoy standard box heart yes speech teacher.\nAttack save someone option. Scene land able.",
+        "bio": "Nature per off exactly partner. Deep compare real Democrat information.\nThus reach blood more.\nUntil structure whose. Cell cost at walk. Bad second standard expect allow claim."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
