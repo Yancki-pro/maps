@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Louis Bush",
+    "age": 24,
+    "address": {
+        "street": "Marsh Overpass",
+        "city": "New Christina",
+        "state": "Illinois",
+        "zip": "65125"
+    },
+    "contact": {
+        "phone": "+1-599-539-9246x92151",
+        "servicePhone": "800048127"
+    },
+    "birthday": "2001-17-09",
+    "ip": "79.71.69.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Season conference close step program. Special yet take yet floor.\nDrop sit dinner response easy process. Recent network many amount allow move course.",
+        "bio": "Stuff kitchen visit onto. Everybody however already increase detail claim source result."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
