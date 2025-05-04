@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Gordon",
+    "age": 110,
+    "address": {
+        "street": "Cooper Meadow",
+        "city": "Lake Ronaldtown",
+        "state": "Hawaii",
+        "zip": "38423"
+    },
+    "contact": {
+        "phone": "720.901.4642",
+        "servicePhone": "800490525"
+    },
+    "birthday": "1915-29-06",
+    "ip": "209.192.22.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Its strong against produce. Theory response happy star although. Happen exactly thank ever yes.\nInside such write age beat develop left. Its well wife computer.",
+        "bio": "Talk Democrat which employee save concern around. Last will thousand news interview figure of probably.\nFar here difficult down test above discussion. Stop fall growth less."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
