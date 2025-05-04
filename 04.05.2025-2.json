@@ -1,0 +1,25 @@
+{
+    "name": "David Hill",
+    "age": 32,
+    "address": {
+        "street": "Williams Fords",
+        "city": "Longchester",
+        "state": "Alabama",
+        "zip": "18158"
+    },
+    "contact": {
+        "phone": "001-243-402-2855",
+        "servicePhone": "800540438"
+    },
+    "birthday": "1993-28-12",
+    "ip": "56.250.140.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Information and defense beyond sure care. Career yet usually doctor. Fast conference prove far tax detail. Skill Mrs suddenly where process believe.",
+        "bio": "Rock lead technology right office. Then cause rather white white receive else indeed."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
