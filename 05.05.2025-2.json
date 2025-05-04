@@ -1,0 +1,25 @@
+{
+    "name": "Danny Russell",
+    "age": 74,
+    "address": {
+        "street": "Thomas Estates",
+        "city": "Port Samuel",
+        "state": "Arizona",
+        "zip": "77460"
+    },
+    "contact": {
+        "phone": "(387)830-9015x6130",
+        "servicePhone": "800032428"
+    },
+    "birthday": "1951-08-02",
+    "ip": "105.90.11.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Very build perform use. Continue within bed choose. Boy explain author name other.",
+        "bio": "Mr just social say.\nLeast vote apply relate prove sometimes. Week little instead address. Board physical heart wear talk purpose."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
