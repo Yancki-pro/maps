@@ -1,0 +1,25 @@
+{
+    "name": "Erika Bolton",
+    "age": 111,
+    "address": {
+        "street": "Richardson Roads",
+        "city": "Michaelmouth",
+        "state": "Alabama",
+        "zip": "78084"
+    },
+    "contact": {
+        "phone": "+1-607-668-0985",
+        "servicePhone": "800792134"
+    },
+    "birthday": "1914-12-11",
+    "ip": "60.117.228.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Out people ten consider. Book knowledge ask send entire alone top. Chair happen blue ever PM development.\nRate song game save. Table hand instead policy bring.",
+        "bio": "Simply though allow condition. Care manager act feeling.\nLife discuss thank human. Seem peace top safe citizen maintain American. Long beat should."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
