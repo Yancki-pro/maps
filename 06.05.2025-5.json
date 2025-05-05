@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Thomas",
+    "age": 41,
+    "address": {
+        "street": "Nicholas Union",
+        "city": "Osborneburgh",
+        "state": "Washington",
+        "zip": "35073"
+    },
+    "contact": {
+        "phone": "9214251932",
+        "servicePhone": "800194061"
+    },
+    "birthday": "1984-09-09",
+    "ip": "149.170.40.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher card some court be work current. Argue wish buy memory carry one.",
+        "bio": "Available cost side. Increase friend its travel difficult.\nRepresent he office whatever four say. Effect across great everything authority treatment city. Write use develop film run."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
