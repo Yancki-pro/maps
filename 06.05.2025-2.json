@@ -1,0 +1,25 @@
+{
+    "name": "Paul Ellis",
+    "age": 13,
+    "address": {
+        "street": "Mcdonald Parks",
+        "city": "West Andreberg",
+        "state": "California",
+        "zip": "40509"
+    },
+    "contact": {
+        "phone": "+1-971-381-6545x40268",
+        "servicePhone": "800007368"
+    },
+    "birthday": "2012-17-01",
+    "ip": "21.140.226.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter rule drug life with lot.\nFire cold start office over watch beat. Among TV less station network hand would force.",
+        "bio": "Ever find themselves statement policy model see success. Those into successful only response think onto. Station small only moment form site."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
