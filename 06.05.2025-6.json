@@ -1,0 +1,25 @@
+{
+    "name": "Anne Hunt",
+    "age": 6,
+    "address": {
+        "street": "Kristin Village",
+        "city": "Lake Brianna",
+        "state": "Utah",
+        "zip": "90178"
+    },
+    "contact": {
+        "phone": "916-663-6107x8369",
+        "servicePhone": "800791778"
+    },
+    "birthday": "2019-13-10",
+    "ip": "148.222.170.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Stuff security authority yourself daughter wrong. Woman road camera language own.\nCold music voice message gas officer. Evidence we Congress. Usually deal eat body process collection.",
+        "bio": "Sign food season. Friend party better discuss difference save.\nAble especially perhaps executive involve professor. Appear summer difficult dog run."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
