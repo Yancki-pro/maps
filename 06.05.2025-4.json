@@ -1,0 +1,25 @@
+{
+    "name": "Hunter Contreras",
+    "age": 80,
+    "address": {
+        "street": "Elizabeth Falls",
+        "city": "North Ryanshire",
+        "state": "Alabama",
+        "zip": "05930"
+    },
+    "contact": {
+        "phone": "718-613-1487",
+        "servicePhone": "800440948"
+    },
+    "birthday": "1945-17-05",
+    "ip": "110.240.161.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Out far through enter treatment. Increase especially enough kid national. Leader six ten also would total.",
+        "bio": "Better thank term. Very personal free court.\nOpportunity food let national environment husband into."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
