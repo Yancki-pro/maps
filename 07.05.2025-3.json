@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Silva",
+    "age": 68,
+    "address": {
+        "street": "Alejandro Creek",
+        "city": "Cruzborough",
+        "state": "Idaho",
+        "zip": "42030"
+    },
+    "contact": {
+        "phone": "(778)813-4585x3415",
+        "servicePhone": "800696409"
+    },
+    "birthday": "1957-15-01",
+    "ip": "35.45.100.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge executive this. Continue mother visit four soldier address. Measure station majority threat effect bill between police.",
+        "bio": "Difference dog people get paper break blood war.\nBig task establish local popular must. Design large study light still interest. Also accept born Mr."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
