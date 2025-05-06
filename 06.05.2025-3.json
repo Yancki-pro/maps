@@ -1,0 +1,25 @@
+{
+    "name": "Sierra Henry",
+    "age": 39,
+    "address": {
+        "street": "Heidi Unions",
+        "city": "Jacobburgh",
+        "state": "Indiana",
+        "zip": "51083"
+    },
+    "contact": {
+        "phone": "3037260256",
+        "servicePhone": "800510286"
+    },
+    "birthday": "1986-18-02",
+    "ip": "222.137.31.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas sport method language exist school only. Your appear all. Sister them democratic important center recognize. Positive minute long response house behind only.",
+        "bio": "Behind something sport win finally which floor. Loss inside magazine administration yes art half describe. Actually including forward act often."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
