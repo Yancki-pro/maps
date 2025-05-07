@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Pennington",
+    "age": 94,
+    "address": {
+        "street": "Nguyen Mill",
+        "city": "New Melissa",
+        "state": "Delaware",
+        "zip": "85467"
+    },
+    "contact": {
+        "phone": "001-940-407-3446x8681",
+        "servicePhone": "800316921"
+    },
+    "birthday": "1931-28-09",
+    "ip": "184.118.102.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget key fact other reason agreement.\nBank wait at road. Indeed manager else all hair scientist social.",
+        "bio": "Former firm stock who give child make.\nParticularly list born hit. Light on say above positive ok.\nWe defense question risk clearly difficult. Form life fast kid from southern."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
