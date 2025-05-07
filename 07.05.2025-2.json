@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Harrison",
+    "age": 46,
+    "address": {
+        "street": "Earl Centers",
+        "city": "Port Lori",
+        "state": "South Carolina",
+        "zip": "73884"
+    },
+    "contact": {
+        "phone": "(307)396-3873x548",
+        "servicePhone": "800607134"
+    },
+    "birthday": "1979-29-04",
+    "ip": "87.65.57.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Article and common allow life common market. Summer begin range around effort. Draw them talk summer system.\nFocus individual show. Set these building opportunity.",
+        "bio": "Expert car record especially green. Get surface serious which Democrat draw natural.\nAcross in light. Open affect close present career hear detail. Strategy lead remember build."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
