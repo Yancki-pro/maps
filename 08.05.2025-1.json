@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Moore",
+    "age": 98,
+    "address": {
+        "street": "Bryan Trace",
+        "city": "New Jenniferland",
+        "state": "Florida",
+        "zip": "01778"
+    },
+    "contact": {
+        "phone": "588.680.8272",
+        "servicePhone": "800218723"
+    },
+    "birthday": "1927-15-11",
+    "ip": "76.174.194.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun little gun total live either gun popular. Situation mother first population house question no. Identify property summer without. Guess doctor picture between.",
+        "bio": "Choice such nice daughter service increase similar. Especially time level light radio some whom.\nPrevent budget ready artist. Summer offer particularly military buy player price man."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
