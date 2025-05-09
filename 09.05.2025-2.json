@@ -1,0 +1,25 @@
+{
+    "name": "John Mendez",
+    "age": 57,
+    "address": {
+        "street": "Garcia Stravenue",
+        "city": "East Johnny",
+        "state": "Vermont",
+        "zip": "25497"
+    },
+    "contact": {
+        "phone": "(572)987-8352",
+        "servicePhone": "800171194"
+    },
+    "birthday": "1968-02-11",
+    "ip": "175.242.193.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability friend thus support cup process dinner. Factor bit bill like.\nCar imagine how top analysis experience. Time eight attorney will it write write.",
+        "bio": "Member prove whatever eat. School ago happen senior sell professional relationship. Fill chance her oil finally care their. Area soldier group piece hear here table not."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
