@@ -1,0 +1,25 @@
+{
+    "name": "Jon Wright",
+    "age": 45,
+    "address": {
+        "street": "Nielsen Meadow",
+        "city": "Veronicaland",
+        "state": "Tennessee",
+        "zip": "34950"
+    },
+    "contact": {
+        "phone": "(835)797-9062x69446",
+        "servicePhone": "800908747"
+    },
+    "birthday": "1980-23-10",
+    "ip": "66.192.117.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention one stand one too these agree easy. Food would change cell all about. Record light city low could white government.",
+        "bio": "Where family occur think news security. Happen civil tonight return thing natural. Different begin manager simply.\nProject gun everyone nation. Late up kitchen still after north."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
