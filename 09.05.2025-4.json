@@ -1,0 +1,25 @@
+{
+    "name": "David Bond",
+    "age": 22,
+    "address": {
+        "street": "Miguel Ways",
+        "city": "New Jacobshire",
+        "state": "Oklahoma",
+        "zip": "68666"
+    },
+    "contact": {
+        "phone": "500-348-8669x0995",
+        "servicePhone": "800539899"
+    },
+    "birthday": "2003-25-03",
+    "ip": "163.33.8.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather fill stay money authority. Authority piece street back. Their office art stock positive.\nPlay already study edge democratic remember.",
+        "bio": "Item similar know activity fish difficult.\nQuickly sign close mouth stage side. Talk leg artist quality artist hit. Before drive ready measure however."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
