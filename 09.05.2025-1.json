@@ -1,0 +1,25 @@
+{
+    "name": "Monica Kelly",
+    "age": 55,
+    "address": {
+        "street": "Berger Mission",
+        "city": "Jeffreyland",
+        "state": "Mississippi",
+        "zip": "42857"
+    },
+    "contact": {
+        "phone": "(348)510-2094x108",
+        "servicePhone": "800490728"
+    },
+    "birthday": "1970-07-05",
+    "ip": "156.148.48.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece accept how beyond. Tonight material building enough house recognize.\nMost agent most north situation. Action chance turn rich mention find maintain tree. Name offer already religious.",
+        "bio": "Government save establish well friend. Apply shoulder no.\nIndividual generation media. Law specific court few book price. Short service order hot serious term."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
