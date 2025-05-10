@@ -1,0 +1,25 @@
+{
+    "name": "Erin Martinez",
+    "age": 46,
+    "address": {
+        "street": "Robert Circle",
+        "city": "Port Oliviaport",
+        "state": "Alaska",
+        "zip": "22932"
+    },
+    "contact": {
+        "phone": "2735715242",
+        "servicePhone": "800610904"
+    },
+    "birthday": "1979-30-11",
+    "ip": "175.247.70.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish PM defense away. Three major impact. Soon responsibility about represent.\nNewspaper wish over step show foreign site put. Picture fear economic about.",
+        "bio": "News window organization hundred. Black ago week national blue reveal bag. Above activity talk history section either drop. Money population my live."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
