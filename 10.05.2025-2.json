@@ -1,0 +1,25 @@
+{
+    "name": "Ernest Clayton",
+    "age": 13,
+    "address": {
+        "street": "Joseph Via",
+        "city": "Port Maryport",
+        "state": "Idaho",
+        "zip": "31978"
+    },
+    "contact": {
+        "phone": "697.970.3109x87554",
+        "servicePhone": "800445748"
+    },
+    "birthday": "2012-19-09",
+    "ip": "89.9.2.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover light ago.\nFrom share hundred. Million fast above these join time. Better address meeting.\nInterest mouth grow east degree. Would civil popular region will into.",
+        "bio": "Enough song key who. Many investment whom our.\nOk TV push amount. Mouth law mouth charge professor interest care couple.\nForce information article."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
