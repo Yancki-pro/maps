@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Cook",
+    "age": 100,
+    "address": {
+        "street": "Erica Springs",
+        "city": "North Kristenport",
+        "state": "Kansas",
+        "zip": "74811"
+    },
+    "contact": {
+        "phone": "001-719-712-1369x100",
+        "servicePhone": "800567218"
+    },
+    "birthday": "1925-21-02",
+    "ip": "15.89.185.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat five positive heart current. Pull run forward lose race again.\nShare happy plant order state fact.\nNeed listen gun who music yard. Have policy manager society now clear serious.",
+        "bio": "School try area week without. Relate its professor his rock coach pattern.\nEnvironment well fight stock usually. Though another pressure large four."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
