@@ -1,0 +1,25 @@
+{
+    "name": "Justin Edwards",
+    "age": 0,
+    "address": {
+        "street": "Harris Parks",
+        "city": "Josephfort",
+        "state": "Oklahoma",
+        "zip": "55475"
+    },
+    "contact": {
+        "phone": "+1-225-831-0202",
+        "servicePhone": "800311124"
+    },
+    "birthday": "2025-31-07",
+    "ip": "176.127.233.14",
+    "foo": "bar",
+    "profile": {
+        "about": "School thank several along image wind determine leader.\nAbove fine understand table indicate. Word wind factor many maybe over. Project particular society Democrat.",
+        "bio": "Program compare decide significant phone nor father. Senior fly recent still majority also six. Space organization down."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
