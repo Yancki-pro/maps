@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Ho",
+    "age": 28,
+    "address": {
+        "street": "Washington Point",
+        "city": "East Jermainestad",
+        "state": "New Hampshire",
+        "zip": "77373"
+    },
+    "contact": {
+        "phone": "(473)920-2315x044",
+        "servicePhone": "800690500"
+    },
+    "birthday": "1997-06-06",
+    "ip": "161.51.213.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat sport player.\nMessage though age Mr win although stop. Right we someone evening whom book financial.",
+        "bio": "Believe wrong but I teach middle. Writer summer century month story friend modern.\nIndividual week per some yes lead teacher."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
