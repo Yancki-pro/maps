@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Rogers",
+    "age": 87,
+    "address": {
+        "street": "Susan Locks",
+        "city": "Sandovalburgh",
+        "state": "Oklahoma",
+        "zip": "53831"
+    },
+    "contact": {
+        "phone": "609.346.3093",
+        "servicePhone": "800667879"
+    },
+    "birthday": "1938-24-02",
+    "ip": "60.189.136.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy red community far. Week without of effect.\nWish per space night.\nEight purpose wind. Ok turn language several ago final image. Unit phone cover together change again star.",
+        "bio": "With set friend trial. Bed relate end entire. Gun surface air plan.\nSpace nothing question bar very join. Easy whatever join receive reflect notice. Letter already religious debate."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
