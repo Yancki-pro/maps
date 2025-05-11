@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Soto",
+    "age": 101,
+    "address": {
+        "street": "Mary Ferry",
+        "city": "West Yolanda",
+        "state": "Arkansas",
+        "zip": "40202"
+    },
+    "contact": {
+        "phone": "965-890-9756x0084",
+        "servicePhone": "800090666"
+    },
+    "birthday": "1924-22-02",
+    "ip": "98.125.39.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible carry his local enough.\nLong eight travel which. Consider those book form.",
+        "bio": "Husband could how major trial every again. Toward every brother speak old.\nSecond school even step good miss so place. Experience population can away law fish."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
