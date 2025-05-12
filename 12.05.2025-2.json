@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Chambers",
+    "age": 75,
+    "address": {
+        "street": "Gibbs Route",
+        "city": "West Jerry",
+        "state": "Oregon",
+        "zip": "19898"
+    },
+    "contact": {
+        "phone": "+1-317-415-4720",
+        "servicePhone": "800866574"
+    },
+    "birthday": "1950-02-04",
+    "ip": "1.211.254.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Find sign agent discussion peace program. Three most enough mother ask administration well.",
+        "bio": "Specific specific service. Situation candidate employee stage.\nImprove current light also probably. Relationship beat exactly participant fly ahead professional."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
