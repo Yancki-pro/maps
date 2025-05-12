@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Gomez",
+    "age": 102,
+    "address": {
+        "street": "Jessica Loaf",
+        "city": "New Jenniferview",
+        "state": "South Dakota",
+        "zip": "82138"
+    },
+    "contact": {
+        "phone": "334.317.2793",
+        "servicePhone": "800310791"
+    },
+    "birthday": "1923-09-10",
+    "ip": "83.43.8.62",
+    "foo": "bar",
+    "profile": {
+        "about": "South consumer ever speak really much study. Short wind ten. Station people film movie contain.\nHelp reach key employee raise. By approach behind everybody once. Upon worker stop truth.",
+        "bio": "Eight off direction financial. Better soon throughout project daughter. Arm expert chance southern fast happen piece."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
