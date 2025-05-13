@@ -1,0 +1,25 @@
+{
+    "name": "Alex Wise",
+    "age": 84,
+    "address": {
+        "street": "Jenna Meadow",
+        "city": "Lake Melissa",
+        "state": "Missouri",
+        "zip": "54235"
+    },
+    "contact": {
+        "phone": "+1-427-573-4853",
+        "servicePhone": "800872015"
+    },
+    "birthday": "1941-12-09",
+    "ip": "122.155.105.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign model campaign tonight level. Situation ever appear Congress. Away ready pass soldier.\nLast identify three century ahead drug over. Finish phone night could.",
+        "bio": "Second need must whole.\nMr character evening enjoy worker affect manage practice. Course big reveal activity spend."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
