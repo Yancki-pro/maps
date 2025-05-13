@@ -1,0 +1,25 @@
+{
+    "name": "April Crosby",
+    "age": 91,
+    "address": {
+        "street": "Paul Throughway",
+        "city": "Kelseytown",
+        "state": "Kansas",
+        "zip": "82654"
+    },
+    "contact": {
+        "phone": "+1-474-570-0991x29883",
+        "servicePhone": "800202243"
+    },
+    "birthday": "1934-02-04",
+    "ip": "72.32.176.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Decision positive college sing point. Table lose interesting. Whether than staff general upon image feel. Late raise husband number.\nEverything economy establish live marriage public another.",
+        "bio": "Language decade just remember recently standard. Give size several deal reveal PM stage.\nDifferent moment consider today friend. No smile try."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
