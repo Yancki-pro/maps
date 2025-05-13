@@ -1,0 +1,25 @@
+{
+    "name": "Susan Watts",
+    "age": 31,
+    "address": {
+        "street": "Michele Mews",
+        "city": "Port Michaelton",
+        "state": "Arkansas",
+        "zip": "17327"
+    },
+    "contact": {
+        "phone": "(557)232-8751",
+        "servicePhone": "800749287"
+    },
+    "birthday": "1994-15-06",
+    "ip": "45.206.109.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget drug defense ball. Theory director debate moment cultural although sound.\nCompany left game color say. Tend article idea all modern. Impact culture practice moment send only.",
+        "bio": "Speak finish me reality national enjoy account. Political attention month."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
