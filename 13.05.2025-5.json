@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Perez",
+    "age": 107,
+    "address": {
+        "street": "Christina Trace",
+        "city": "East Wayneburgh",
+        "state": "Hawaii",
+        "zip": "69284"
+    },
+    "contact": {
+        "phone": "001-961-628-9341x0335",
+        "servicePhone": "800795566"
+    },
+    "birthday": "1918-05-07",
+    "ip": "218.145.214.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg also where environmental blue become smile. Lead meeting debate father kitchen analysis wall. Easy ability design discuss guy modern its.",
+        "bio": "Wish himself front score eight film. Two race reduce base executive."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
