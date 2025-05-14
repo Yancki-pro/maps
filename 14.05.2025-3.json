@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Jackson",
+    "age": 39,
+    "address": {
+        "street": "Wise Meadow",
+        "city": "South Joshua",
+        "state": "Iowa",
+        "zip": "22587"
+    },
+    "contact": {
+        "phone": "8394250673",
+        "servicePhone": "800696617"
+    },
+    "birthday": "1986-28-04",
+    "ip": "76.1.98.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Current find glass picture check chair. Customer commercial stage whether difference live center. Laugh available agreement us mouth degree. Anything discussion work.",
+        "bio": "First mouth road simple pattern available. Stock different win appear. Method sound future or either yard free."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
