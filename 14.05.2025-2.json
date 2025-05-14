@@ -1,0 +1,25 @@
+{
+    "name": "Martha Cole",
+    "age": 112,
+    "address": {
+        "street": "Mandy Glens",
+        "city": "Rosarioland",
+        "state": "South Carolina",
+        "zip": "76859"
+    },
+    "contact": {
+        "phone": "282.871.4936",
+        "servicePhone": "800107971"
+    },
+    "birthday": "1913-30-09",
+    "ip": "165.229.224.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern foreign or product stock war between off. Pattern available including talk. Player land left perform which.",
+        "bio": "Soldier too realize threat. Good common rest hospital nice. Key push thing movie admit parent way too.\nStatement capital field house positive white."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
