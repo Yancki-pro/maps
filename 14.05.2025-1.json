@@ -1,0 +1,25 @@
+{
+    "name": "Justin Fischer",
+    "age": 57,
+    "address": {
+        "street": "Soto Point",
+        "city": "Port Michelleburgh",
+        "state": "New Hampshire",
+        "zip": "53679"
+    },
+    "contact": {
+        "phone": "001-717-221-0123x757",
+        "servicePhone": "800970926"
+    },
+    "birthday": "1968-14-05",
+    "ip": "183.84.123.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Design wear building office back sport play. Assume leave want maintain. Nice something animal cold yes action call which. Quite PM shoulder always fire meet choose responsibility.",
+        "bio": "Police family issue tend eye. Way peace reach degree accept admit decade. Player usually cut important house ask whatever.\nSense center participant."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
