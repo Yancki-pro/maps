@@ -1,0 +1,25 @@
+{
+    "name": "Charles Mccarthy",
+    "age": 88,
+    "address": {
+        "street": "Knight Port",
+        "city": "Port Sarah",
+        "state": "California",
+        "zip": "47062"
+    },
+    "contact": {
+        "phone": "481.252.4996x65420",
+        "servicePhone": "800019233"
+    },
+    "birthday": "1937-07-06",
+    "ip": "25.224.155.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent ahead middle herself change. Defense boy tend discover seem. Office treat building smile describe.\nTeach stuff natural executive despite expect happen indeed. Allow plan one organization.",
+        "bio": "Act nor whatever girl trip. According budget professor thing. Citizen person strong organization stay them treat.\nThree team sound teacher career step. Soon loss goal personal."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
