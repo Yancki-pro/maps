@@ -1,0 +1,25 @@
+{
+    "name": "James Paul",
+    "age": 41,
+    "address": {
+        "street": "John Haven",
+        "city": "Kennethchester",
+        "state": "South Dakota",
+        "zip": "96414"
+    },
+    "contact": {
+        "phone": "565.787.7640",
+        "servicePhone": "800013537"
+    },
+    "birthday": "1984-24-08",
+    "ip": "54.55.25.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Network interest know story. Arrive road risk government. List agreement course reason.\nMust discussion image this nothing public. Draw to lead nearly.",
+        "bio": "Building share development. Admit various above great.\nImprove lot option catch. Own past let concern accept.\nService major structure also happen. Happy remember only yes. Eye wish red."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
