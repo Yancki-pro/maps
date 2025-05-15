@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Boone",
+    "age": 67,
+    "address": {
+        "street": "Bailey Circles",
+        "city": "East Sherryfurt",
+        "state": "Oregon",
+        "zip": "79208"
+    },
+    "contact": {
+        "phone": "729.322.7844",
+        "servicePhone": "800322556"
+    },
+    "birthday": "1958-07-11",
+    "ip": "34.204.142.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish loss probably dream. Partner discussion major child yeah.",
+        "bio": "Walk health teach style. Month coach rest develop challenge law stand particularly. Task thought material."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
