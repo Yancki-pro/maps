@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Griffin",
+    "age": 28,
+    "address": {
+        "street": "Megan Well",
+        "city": "West Andrew",
+        "state": "Wyoming",
+        "zip": "49134"
+    },
+    "contact": {
+        "phone": "+1-756-421-9053x7148",
+        "servicePhone": "800544767"
+    },
+    "birthday": "1997-10-09",
+    "ip": "201.251.75.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat hit production yourself food reach man. Professor allow trouble appear west. Effort agree already land positive.\nPlay recently fill control.",
+        "bio": "Bill peace low into newspaper sound always.\nBehind term must style. Stay receive woman. Audience evening avoid check.\nBoth account response on. Suddenly few matter his feeling price reveal."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
