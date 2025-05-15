@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Bowman",
+    "age": 43,
+    "address": {
+        "street": "Stevens Stravenue",
+        "city": "Martinshire",
+        "state": "Virginia",
+        "zip": "26168"
+    },
+    "contact": {
+        "phone": "689.442.7741x9323",
+        "servicePhone": "800909500"
+    },
+    "birthday": "1982-08-06",
+    "ip": "124.209.254.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Size blood term expert per yes team. Cover heart enter operation. Say fine hundred consumer while great.\nRace plan ok western if hit ball.",
+        "bio": "Production keep address. Car year push will. Director thing learn local heavy find. Each man reason make consider activity notice feeling."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
