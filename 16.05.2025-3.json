@@ -1,0 +1,25 @@
+{
+    "name": "Mr. James Vincent",
+    "age": 0,
+    "address": {
+        "street": "Lauren Manors",
+        "city": "New Stephanie",
+        "state": "Washington",
+        "zip": "75554"
+    },
+    "contact": {
+        "phone": "(808)973-3447",
+        "servicePhone": "800994317"
+    },
+    "birthday": "2025-18-02",
+    "ip": "147.135.93.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Official situation newspaper new well. Beautiful my decision question factor. Leader mission image hold.\nCulture make authority town democratic price. Serious team together whom authority leave term.",
+        "bio": "Event specific order tough term kitchen. Prevent visit tonight I friend land reduce. Future trade avoid event manage stand chair easy."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
