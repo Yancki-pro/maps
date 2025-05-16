@@ -1,0 +1,25 @@
+{
+    "name": "John Campbell",
+    "age": 82,
+    "address": {
+        "street": "Pamela Grove",
+        "city": "Daystad",
+        "state": "Idaho",
+        "zip": "41017"
+    },
+    "contact": {
+        "phone": "5095415847",
+        "servicePhone": "800117195"
+    },
+    "birthday": "1943-01-04",
+    "ip": "136.34.76.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Into society team late billion central. A process half throw play.\nGrow than this phone per wear seat. As budget fill decision player interview nor coach.\nNatural base sure even visit memory sign.",
+        "bio": "Second result up couple evening. Writer democratic point across.\nLive treatment American enter cultural they. Few six try others.\nInvestment speak rise read."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
