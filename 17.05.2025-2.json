@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Young",
+    "age": 107,
+    "address": {
+        "street": "John Loaf",
+        "city": "Davisbury",
+        "state": "Wisconsin",
+        "zip": "63366"
+    },
+    "contact": {
+        "phone": "799.879.4945x791",
+        "servicePhone": "800146607"
+    },
+    "birthday": "1918-23-12",
+    "ip": "115.200.131.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree direction would still. Face family base goal edge laugh yes. Daughter both piece work police low animal.\nManage security occur eye could. Before authority decade others professional.",
+        "bio": "Wish science down physical threat family catch. Respond ball guess task by claim trade. Chair peace from market."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
