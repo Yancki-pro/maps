@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Diana Phillips",
+    "age": 27,
+    "address": {
+        "street": "Frederick Knolls",
+        "city": "Mooreburgh",
+        "state": "Idaho",
+        "zip": "41066"
+    },
+    "contact": {
+        "phone": "(603)987-4305x3141",
+        "servicePhone": "800617455"
+    },
+    "birthday": "1998-31-10",
+    "ip": "172.195.44.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand true statement never stand weight.\nContain mean pressure its ready amount recognize.\nOfficial forward church future technology car. Top buy gas mention off fish.",
+        "bio": "Plan half agree of they. Join music light television career.\nFish last natural expert job. Similar leave once worker carry among above. Little evidence start thus direction."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
