@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Sutton",
+    "age": 70,
+    "address": {
+        "street": "Kevin Camp",
+        "city": "West Samanthachester",
+        "state": "Georgia",
+        "zip": "99552"
+    },
+    "contact": {
+        "phone": "+1-561-449-7684x24305",
+        "servicePhone": "800198691"
+    },
+    "birthday": "1955-20-01",
+    "ip": "112.130.214.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass we study court choice.\nCondition discussion produce culture across. Others far make perform reveal open wind.",
+        "bio": "Wear early institution case catch chair mention. Difficult nearly arrive focus accept environment. Name fight fund property control."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
