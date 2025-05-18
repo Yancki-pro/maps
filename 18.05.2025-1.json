@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Harris",
+    "age": 71,
+    "address": {
+        "street": "Navarro Corners",
+        "city": "New Ianborough",
+        "state": "Utah",
+        "zip": "81182"
+    },
+    "contact": {
+        "phone": "955.527.4203",
+        "servicePhone": "800171316"
+    },
+    "birthday": "1954-25-09",
+    "ip": "161.43.90.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Section will fly. Represent several blue audience enjoy bill. Their star town sea represent design wear.\nAction buy form direction. Item house yard indeed always.",
+        "bio": "Drug director up political window skill we. Career person growth nature PM reach measure. Dark lose mother."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
