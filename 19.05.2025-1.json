@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Hudson",
+    "age": 44,
+    "address": {
+        "street": "Long Mountain",
+        "city": "Colemanborough",
+        "state": "Maine",
+        "zip": "11382"
+    },
+    "contact": {
+        "phone": "+1-910-640-4406x756",
+        "servicePhone": "800090727"
+    },
+    "birthday": "1981-16-07",
+    "ip": "130.104.173.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience administration get suddenly land want. Even tonight heart a world. Various mission than couple speech write side.",
+        "bio": "Particular life we day company they area. Paper part hospital build.\nBase truth nor care month rather challenge. Analysis dog although beautiful."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
