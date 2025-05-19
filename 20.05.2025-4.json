@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Chen",
+    "age": 92,
+    "address": {
+        "street": "Adam Parkways",
+        "city": "West Tammy",
+        "state": "Vermont",
+        "zip": "33530"
+    },
+    "contact": {
+        "phone": "001-253-201-9941",
+        "servicePhone": "800965892"
+    },
+    "birthday": "1933-19-11",
+    "ip": "118.128.63.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge way production middle whom hear common analysis. Ground claim their town election serve wrong school. Away authority company house.",
+        "bio": "Seem worker probably first. Movie the administration. Above audience present customer up fish.\nEnter behavior firm matter quite follow. Very ago beyond laugh fall organization."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
