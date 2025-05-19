@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Hughes",
+    "age": 57,
+    "address": {
+        "street": "Reed Heights",
+        "city": "Port Vincentview",
+        "state": "Utah",
+        "zip": "44495"
+    },
+    "contact": {
+        "phone": "+1-223-876-7177",
+        "servicePhone": "800233057"
+    },
+    "birthday": "1968-23-04",
+    "ip": "9.122.99.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Only factor past among hand him admit. Shoulder way side add fear use. List gas give send.\nArticle father down what education. Trade meeting quickly during agreement.",
+        "bio": "Before either raise relate education store speak. Agent certain drive case.\nEverything indicate response per himself move century. Its respond talk participant subject serve threat."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
