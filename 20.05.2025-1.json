@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Clark",
+    "age": 65,
+    "address": {
+        "street": "Carr Wells",
+        "city": "New Denise",
+        "state": "Florida",
+        "zip": "62149"
+    },
+    "contact": {
+        "phone": "+1-656-816-2539",
+        "servicePhone": "800891394"
+    },
+    "birthday": "1960-04-08",
+    "ip": "146.238.4.156",
+    "foo": "bar",
+    "profile": {
+        "about": "End him movement table space page. Board provide miss company letter rich. Friend plant new pass listen example.",
+        "bio": "Expert suggest walk later center. Magazine defense bag. Land chance across large.\nGood kind loss war record. Response good green us."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
