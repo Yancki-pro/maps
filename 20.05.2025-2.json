@@ -1,0 +1,25 @@
+{
+    "name": "Jay Callahan",
+    "age": 38,
+    "address": {
+        "street": "Mcbride Island",
+        "city": "Nicholaschester",
+        "state": "Alabama",
+        "zip": "74727"
+    },
+    "contact": {
+        "phone": "+1-483-506-7578x04747",
+        "servicePhone": "800395035"
+    },
+    "birthday": "1987-26-01",
+    "ip": "147.237.126.84",
+    "foo": "bar",
+    "profile": {
+        "about": "While design product adult window cell safe. After may thus military.\nGive religious training opportunity beat. See wind really left true six knowledge.",
+        "bio": "Other carry notice different class occur activity. Call television such might. Reduce believe government system very strong."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
