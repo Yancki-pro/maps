@@ -1,0 +1,25 @@
+{
+    "name": "Morgan Simmons",
+    "age": 85,
+    "address": {
+        "street": "Benjamin Valley",
+        "city": "Adamside",
+        "state": "Mississippi",
+        "zip": "31660"
+    },
+    "contact": {
+        "phone": "759.251.8545x8811",
+        "servicePhone": "800267410"
+    },
+    "birthday": "1940-05-01",
+    "ip": "104.105.146.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull through board year deep page chance. Chance cost act rich lay though spring.",
+        "bio": "Rest mention plan individual like on program draw. Lose rule step feel.\nBreak rest usually. Five not fact near keep risk."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
