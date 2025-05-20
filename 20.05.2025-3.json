@@ -1,0 +1,25 @@
+{
+    "name": "Robert Moreno",
+    "age": 42,
+    "address": {
+        "street": "Hampton Cliffs",
+        "city": "Richardbury",
+        "state": "Idaho",
+        "zip": "96095"
+    },
+    "contact": {
+        "phone": "001-922-844-0599",
+        "servicePhone": "800098021"
+    },
+    "birthday": "1983-14-09",
+    "ip": "78.182.134.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon budget arrive military speech claim. Marriage how professor as foot.\nPass difference single take support. Prevent mouth wish those. Fill amount it success set.",
+        "bio": "New all player suddenly ball when floor. Indeed remain win.\nWord pull task career sign itself security. Expert reach gun physical. My citizen former event also white."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
