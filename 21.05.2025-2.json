@@ -1,0 +1,25 @@
+{
+    "name": "Charles Bradshaw",
+    "age": 78,
+    "address": {
+        "street": "Maria Station",
+        "city": "Port Nicole",
+        "state": "Nevada",
+        "zip": "23831"
+    },
+    "contact": {
+        "phone": "+1-274-870-3394",
+        "servicePhone": "800248751"
+    },
+    "birthday": "1947-07-10",
+    "ip": "86.10.47.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn behind million night including wrong. Describe opportunity look right religious run. Start certain attorney green safe.",
+        "bio": "Sit media so rule. Gas event nothing letter man well likely. Its major know sense lawyer war.\nMoment than thing likely arrive level technology. Start day write note gas market."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
