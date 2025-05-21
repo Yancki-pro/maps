@@ -1,0 +1,25 @@
+{
+    "name": "Eric Day",
+    "age": 8,
+    "address": {
+        "street": "Taylor Prairie",
+        "city": "Johnmouth",
+        "state": "Montana",
+        "zip": "31678"
+    },
+    "contact": {
+        "phone": "971-963-4662",
+        "servicePhone": "800812828"
+    },
+    "birthday": "2017-24-07",
+    "ip": "124.41.1.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Message record establish discover unit catch and. Into woman might door go hundred either. Wrong usually space drop.\nYoung student force big. Call consumer center around rise.",
+        "bio": "Attention determine almost right.\nMyself room scientist necessary but million.\nMention all education ten reality type. Should pretty step star film and learn. Others night determine front."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
