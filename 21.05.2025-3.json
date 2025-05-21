@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Torres",
+    "age": 104,
+    "address": {
+        "street": "Lowe Dale",
+        "city": "New Paulaport",
+        "state": "Hawaii",
+        "zip": "74085"
+    },
+    "contact": {
+        "phone": "550.379.3048x2955",
+        "servicePhone": "800661729"
+    },
+    "birthday": "1921-05-08",
+    "ip": "54.164.224.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Require feel color stuff store. Party likely network.\nPeace simply law garden respond up. Short actually particularly. Pattern use teach measure your continue.",
+        "bio": "Idea happen right take he. Even Republican almost pattern save.\nMember course should study deep. She sing information need."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
