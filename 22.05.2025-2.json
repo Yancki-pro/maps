@@ -1,0 +1,25 @@
+{
+    "name": "Brian Dalton",
+    "age": 95,
+    "address": {
+        "street": "Leslie Grove",
+        "city": "East Robertport",
+        "state": "Mississippi",
+        "zip": "44783"
+    },
+    "contact": {
+        "phone": "001-691-322-1964",
+        "servicePhone": "800147476"
+    },
+    "birthday": "1930-19-04",
+    "ip": "212.39.43.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Material shake certainly indeed pattern life. Doctor sport describe Congress order chair away.\nCommercial ten peace one against past. Wish occur get not.",
+        "bio": "Best money goal deep Democrat compare within. Main evidence rest chance.\nIndividual TV surface professional raise reduce actually career.\nExplain quickly present manager blue final now."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
