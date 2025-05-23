@@ -1,0 +1,25 @@
+{
+    "name": "Joe Robertson",
+    "age": 6,
+    "address": {
+        "street": "Jenkins Mountains",
+        "city": "New Kristenmouth",
+        "state": "Florida",
+        "zip": "34202"
+    },
+    "contact": {
+        "phone": "+1-862-288-2216x9593",
+        "servicePhone": "800179312"
+    },
+    "birthday": "2019-08-08",
+    "ip": "134.157.35.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Here edge hour course there they degree. Fill choose option travel upon speak without.\nSide road hand. Week easy full professor than common relate.",
+        "bio": "Finish military never catch issue. Feel ten break more six conference this. Fine after hope cold term know beyond."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
