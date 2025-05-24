@@ -1,0 +1,25 @@
+{
+    "name": "Sonya Reeves",
+    "age": 78,
+    "address": {
+        "street": "Murray Lodge",
+        "city": "Bennettstad",
+        "state": "New Mexico",
+        "zip": "94040"
+    },
+    "contact": {
+        "phone": "001-445-734-2689x50686",
+        "servicePhone": "800870807"
+    },
+    "birthday": "1947-03-12",
+    "ip": "191.86.3.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist him interesting light staff what. Share look issue trip.\nGarden relate where international which avoid hit lose. Claim sort some way strategy. Sing arm Mrs garden soldier security off.",
+        "bio": "Design international your than. Executive dream rather somebody.\nBuilding impact crime single. Machine today bad. Foreign during international western almost."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
