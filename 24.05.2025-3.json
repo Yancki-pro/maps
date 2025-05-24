@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Irwin",
+    "age": 57,
+    "address": {
+        "street": "Brittany Extension",
+        "city": "New Jonathon",
+        "state": "Nevada",
+        "zip": "31556"
+    },
+    "contact": {
+        "phone": "(934)401-4135",
+        "servicePhone": "800969177"
+    },
+    "birthday": "1968-04-02",
+    "ip": "18.243.250.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Least see sell whose because college. Design term born product deal tree. Simple family me forget.\nShe site when model and surface argue according. Fear great he much far even.",
+        "bio": "Far artist crime lead apply agree. Simple enough church carry. Those send protect event we nothing response.\nThird pay get give so. Popular surface sister glass value report."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
