@@ -1,0 +1,25 @@
+{
+    "name": "Mr. James Jenkins",
+    "age": 52,
+    "address": {
+        "street": "Davis Manors",
+        "city": "North Christopherburgh",
+        "state": "Maine",
+        "zip": "52902"
+    },
+    "contact": {
+        "phone": "223.316.6978",
+        "servicePhone": "800836835"
+    },
+    "birthday": "1973-20-08",
+    "ip": "30.56.78.213",
+    "foo": "bar",
+    "profile": {
+        "about": "What with wall just bar once building. Science forget great movie authority.\nShare too end chance now movie television. Why child speech religious fight. True care will provide area collection at.",
+        "bio": "Upon scientist hair radio whatever piece. Government institution into bag wait next. Look have no from only brother doctor."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
