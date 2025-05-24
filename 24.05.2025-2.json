@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Martinez",
+    "age": 2,
+    "address": {
+        "street": "Emma Station",
+        "city": "Brianbury",
+        "state": "Wyoming",
+        "zip": "92804"
+    },
+    "contact": {
+        "phone": "566-961-5092",
+        "servicePhone": "800000112"
+    },
+    "birthday": "2023-25-12",
+    "ip": "54.143.111.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Former campaign nature source our wide. Structure impact often through official civil foot main.\nVarious one wide there. System manage performance involve chance.",
+        "bio": "Leader former realize every cause even agent.\nAir sign account away beat. Stage system list accept TV front seat table. Civil family section project seat song consumer rise."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
