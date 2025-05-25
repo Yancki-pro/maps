@@ -1,0 +1,25 @@
+{
+    "name": "Colton Casey",
+    "age": 16,
+    "address": {
+        "street": "Ross Drives",
+        "city": "Davidfort",
+        "state": "Illinois",
+        "zip": "09104"
+    },
+    "contact": {
+        "phone": "001-257-444-8036",
+        "servicePhone": "800845019"
+    },
+    "birthday": "2009-26-08",
+    "ip": "195.149.218.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce middle sometimes might head important try. Democrat little indicate cup entire.\nGun approach oil reveal central minute. Listen different check movement blue spend another.",
+        "bio": "Radio watch story how. Land soldier cold money walk trial.\nThink end shake body. Behind strategy it fear bar.\nClaim image really crime rather baby others. Type out work machine low."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
