@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Flores",
+    "age": 34,
+    "address": {
+        "street": "Kelly Dam",
+        "city": "Alibury",
+        "state": "Tennessee",
+        "zip": "56594"
+    },
+    "contact": {
+        "phone": "953.289.0709",
+        "servicePhone": "800278399"
+    },
+    "birthday": "1991-21-11",
+    "ip": "211.108.36.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican break traditional fight must if deal. Region you plan hold ground.\nPlan until show ever. Against bag PM improve.",
+        "bio": "Song tough continue though role choose. Six his laugh yet. Government pick matter serve side recently store."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
