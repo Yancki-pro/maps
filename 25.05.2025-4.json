@@ -1,0 +1,25 @@
+{
+    "name": "Alejandro Mccann",
+    "age": 63,
+    "address": {
+        "street": "Taylor Key",
+        "city": "South Christopher",
+        "state": "Connecticut",
+        "zip": "83314"
+    },
+    "contact": {
+        "phone": "710-973-3337x37608",
+        "servicePhone": "800208008"
+    },
+    "birthday": "1962-14-12",
+    "ip": "114.128.6.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Require itself town learn. Federal statement effect impact scientist behind cut candidate.\nAnyone affect shake onto mention free not. Catch son occur want take by purpose.",
+        "bio": "Ago friend clearly you become expert. List while indicate PM central car.\nHe edge front second history successful. Old medical affect."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
