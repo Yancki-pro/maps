@@ -1,0 +1,25 @@
+{
+    "name": "Mark Rose",
+    "age": 108,
+    "address": {
+        "street": "Hester Greens",
+        "city": "Micheleview",
+        "state": "New Mexico",
+        "zip": "39905"
+    },
+    "contact": {
+        "phone": "(906)637-0199",
+        "servicePhone": "800798380"
+    },
+    "birthday": "1917-18-01",
+    "ip": "25.102.24.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock cut back. Prove position west wind. Cold culture cell from half management.",
+        "bio": "Fish painting his now big. Wife boy than without wish establish.\nHusband certain relationship easy energy."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
