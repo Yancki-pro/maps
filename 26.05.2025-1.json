@@ -1,0 +1,25 @@
+{
+    "name": "Emily James",
+    "age": 58,
+    "address": {
+        "street": "Palmer Path",
+        "city": "Ericchester",
+        "state": "Florida",
+        "zip": "44244"
+    },
+    "contact": {
+        "phone": "001-602-648-9703x0661",
+        "servicePhone": "800341954"
+    },
+    "birthday": "1967-29-07",
+    "ip": "54.8.105.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Human condition consumer green cultural.",
+        "bio": "Administration government scene discussion political right affect.\nAnswer enjoy forget sea another little. Method environment pay. Enough wall song image economic want."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
