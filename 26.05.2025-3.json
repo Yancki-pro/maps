@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Gregory",
+    "age": 114,
+    "address": {
+        "street": "Melissa Parkways",
+        "city": "North Jimmy",
+        "state": "Washington",
+        "zip": "53946"
+    },
+    "contact": {
+        "phone": "(285)481-9933x00006",
+        "servicePhone": "800629086"
+    },
+    "birthday": "1911-06-01",
+    "ip": "100.53.64.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent front degree. Focus necessary fill without nation. Mind eat personal society.\nExplain national newspaper power. Effect religious loss born. Service carry break news.",
+        "bio": "Great wrong during fly challenge receive. Page later expert per letter know message middle."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
