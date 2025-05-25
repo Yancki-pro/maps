@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Lin",
+    "age": 91,
+    "address": {
+        "street": "Robert Drive",
+        "city": "Katrinaview",
+        "state": "Washington",
+        "zip": "41447"
+    },
+    "contact": {
+        "phone": "+1-495-608-2738",
+        "servicePhone": "800186393"
+    },
+    "birthday": "1934-22-07",
+    "ip": "137.18.214.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Focus provide direction meeting. Represent create next next. Walk husband in study fight Democrat. Save sing some dream each need thousand.",
+        "bio": "Look boy they. Media decade action full talk like.\nNice along nice list enough find attention. Of special power doctor guy senior natural. Media reach wife although begin eye daughter."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
