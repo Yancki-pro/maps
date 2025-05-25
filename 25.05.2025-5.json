@@ -1,0 +1,25 @@
+{
+    "name": "Toni Hunter",
+    "age": 34,
+    "address": {
+        "street": "Caitlin Mills",
+        "city": "Davidbury",
+        "state": "Illinois",
+        "zip": "40706"
+    },
+    "contact": {
+        "phone": "2204404826",
+        "servicePhone": "800297210"
+    },
+    "birthday": "1991-03-10",
+    "ip": "104.115.232.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach usually fill bank station building. Audience develop level with great well much alone.\nBed under participant treat expert. Know understand if tend still care.",
+        "bio": "Soldier south score whole necessary. Chance camera owner create feeling table eight Mrs. Sense money sign forget defense piece decide daughter."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
