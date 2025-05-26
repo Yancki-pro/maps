@@ -1,0 +1,25 @@
+{
+    "name": "Amy Marks",
+    "age": 46,
+    "address": {
+        "street": "Robert Prairie",
+        "city": "Pearsonchester",
+        "state": "New Hampshire",
+        "zip": "97592"
+    },
+    "contact": {
+        "phone": "774.897.5464x383",
+        "servicePhone": "800710300"
+    },
+    "birthday": "1979-06-05",
+    "ip": "55.112.10.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Half whether black current tax summer animal. Again artist production boy experience. Total only less.",
+        "bio": "Painting spring agree wind though. Possible everyone throughout hotel contain argue concern blood."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
