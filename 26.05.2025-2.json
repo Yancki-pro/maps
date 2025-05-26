@@ -1,0 +1,25 @@
+{
+    "name": "Emily Hernandez",
+    "age": 11,
+    "address": {
+        "street": "Martinez Junctions",
+        "city": "Wallerborough",
+        "state": "Missouri",
+        "zip": "24875"
+    },
+    "contact": {
+        "phone": "669-453-6044x08392",
+        "servicePhone": "800619524"
+    },
+    "birthday": "2014-29-03",
+    "ip": "154.31.230.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Really necessary half. At professor president reason deep. Minute bed talk expect table.",
+        "bio": "Serve themselves add check amount. Media explain floor population quite. Growth number black history structure crime book more.\nFind state commercial in sit. Record soldier forward sea hundred."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
