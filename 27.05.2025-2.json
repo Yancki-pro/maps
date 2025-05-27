@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Russo",
+    "age": 102,
+    "address": {
+        "street": "Moore Groves",
+        "city": "Lake Kristina",
+        "state": "Montana",
+        "zip": "24105"
+    },
+    "contact": {
+        "phone": "425.792.9805",
+        "servicePhone": "800347943"
+    },
+    "birthday": "1923-12-08",
+    "ip": "163.126.59.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband long good help. Set law much bank.\nEspecially magazine man moment everything would.\nRadio bad fine project little bring set.",
+        "bio": "Well citizen sea Mrs teach soldier last service. Lot security magazine.\nPiece have around develop minute significant yeah. Force others skill language order tell. Nation born between."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
