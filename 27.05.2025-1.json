@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Murphy",
+    "age": 97,
+    "address": {
+        "street": "Miller Rue",
+        "city": "Burnsville",
+        "state": "New Mexico",
+        "zip": "00976"
+    },
+    "contact": {
+        "phone": "921.513.1100",
+        "servicePhone": "800349650"
+    },
+    "birthday": "1928-04-12",
+    "ip": "223.188.178.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific front others yes us owner red. Will fall growth. Season safe take community nor.\nHouse evidence include. Person enter expect serious very.",
+        "bio": "Decade onto usually. Either child successful west family reason.\nOnly collection system. Send serve recent half story bag."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
