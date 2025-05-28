@@ -1,0 +1,25 @@
+{
+    "name": "Leonard Marshall",
+    "age": 4,
+    "address": {
+        "street": "Ian Lock",
+        "city": "North Paul",
+        "state": "Washington",
+        "zip": "77168"
+    },
+    "contact": {
+        "phone": "942-328-1281x90493",
+        "servicePhone": "800544796"
+    },
+    "birthday": "2021-08-08",
+    "ip": "72.237.162.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission part like rule animal himself.\nSuffer professional hundred computer ten within nature food. Effort charge phone Mrs property reality.",
+        "bio": "Leader deep finally someone computer wonder adult choose. House western politics teacher purpose professional lot."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
