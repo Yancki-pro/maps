@@ -1,0 +1,25 @@
+{
+    "name": "Linda Kerr",
+    "age": 101,
+    "address": {
+        "street": "Walker Field",
+        "city": "Josephside",
+        "state": "Colorado",
+        "zip": "17240"
+    },
+    "contact": {
+        "phone": "630.680.8590x8832",
+        "servicePhone": "800212486"
+    },
+    "birthday": "1924-04-03",
+    "ip": "93.84.180.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever either nothing challenge social career in phone. Share him above bed much. Role discover view process.",
+        "bio": "Three significant develop with condition claim though sing. Road during off set official discuss also. American employee night plant card report lot usually."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
