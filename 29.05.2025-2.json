@@ -1,0 +1,25 @@
+{
+    "name": "William Daniel",
+    "age": 83,
+    "address": {
+        "street": "Buckley Cliffs",
+        "city": "South Robertchester",
+        "state": "Tennessee",
+        "zip": "15591"
+    },
+    "contact": {
+        "phone": "001-682-606-2316",
+        "servicePhone": "800152142"
+    },
+    "birthday": "1942-01-06",
+    "ip": "39.245.141.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Fund role for nor house candidate. National worry dinner modern. Improve space what conference growth life consumer nearly. Remain film lawyer.",
+        "bio": "Charge Democrat yeah lead quite well same. Want sort special.\nSit through along building. Order daughter follow reveal night smile. Apply who open artist mother push."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
