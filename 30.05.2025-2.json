@@ -1,0 +1,25 @@
+{
+    "name": "Jenny Cruz",
+    "age": 28,
+    "address": {
+        "street": "Taylor Gateway",
+        "city": "North Kimberly",
+        "state": "California",
+        "zip": "54383"
+    },
+    "contact": {
+        "phone": "888-866-5413x07801",
+        "servicePhone": "800977957"
+    },
+    "birthday": "1997-22-02",
+    "ip": "158.47.108.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount short success character although boy side issue. Help picture room ahead just. Almost view ground office war.",
+        "bio": "Concern model than religious range majority why. Natural series activity serve rise good describe.\nCreate successful task southern option continue behind."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
