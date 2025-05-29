@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Sharp",
+    "age": 7,
+    "address": {
+        "street": "Wood Gardens",
+        "city": "South Beth",
+        "state": "Nevada",
+        "zip": "40009"
+    },
+    "contact": {
+        "phone": "+1-817-410-0911",
+        "servicePhone": "800685833"
+    },
+    "birthday": "2018-25-02",
+    "ip": "217.253.184.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Only score star cultural drive medical near. Or be information study eye else I. Education serious kind dream six.",
+        "bio": "Beyond understand who million style. Many close inside language wall pretty against usually. Maintain executive feeling."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
