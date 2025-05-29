@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mccarthy",
+    "age": 101,
+    "address": {
+        "street": "Cheryl Crossing",
+        "city": "Adamshaven",
+        "state": "Wisconsin",
+        "zip": "76764"
+    },
+    "contact": {
+        "phone": "001-229-656-0147x90436",
+        "servicePhone": "800864971"
+    },
+    "birthday": "1924-27-04",
+    "ip": "154.169.126.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach ask himself despite. Cell each store past report mind view. Protect left team whom go improve feeling community.",
+        "bio": "Firm keep fall with director. Movement themselves mention act machine thought lawyer. Bill year dinner Congress image center science bring.\nCourt human clear. Congress address air tree keep well."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
