@@ -1,0 +1,25 @@
+{
+    "name": "Anna Wright",
+    "age": 63,
+    "address": {
+        "street": "Ronald Spurs",
+        "city": "South Danielstad",
+        "state": "North Carolina",
+        "zip": "75471"
+    },
+    "contact": {
+        "phone": "+1-426-737-3538",
+        "servicePhone": "800815990"
+    },
+    "birthday": "1962-25-04",
+    "ip": "29.244.231.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern film along end form reach modern card. Network treatment I have upon eat. Brother police ago tough chair.\nProvide produce little sport heavy hospital white research.",
+        "bio": "Yeah operation report large week. Finish for eat important size ok recent man. Responsibility candidate raise hospital.\nReturn tend girl exactly western. Of bring worry go get type your."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
