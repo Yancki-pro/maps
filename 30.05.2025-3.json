@@ -1,0 +1,25 @@
+{
+    "name": "Charles Butler",
+    "age": 115,
+    "address": {
+        "street": "Yolanda Dale",
+        "city": "Gonzalezton",
+        "state": "Maryland",
+        "zip": "89010"
+    },
+    "contact": {
+        "phone": "214.780.9087x66010",
+        "servicePhone": "800156316"
+    },
+    "birthday": "1910-17-07",
+    "ip": "121.17.91.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Much fine stay prove purpose stand real. Guy performance beat adult huge bag remember one.\nSecurity news especially blue. First maybe my hear old kid security. Guy raise society wonder.",
+        "bio": "Month though southern. Morning about newspaper this exist language about. Evening voice job professor Congress.\nAble political defense ten indeed. Stock east measure authority."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
