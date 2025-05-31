@@ -1,0 +1,25 @@
+{
+    "name": "Erik Meyer",
+    "age": 74,
+    "address": {
+        "street": "Branch Dale",
+        "city": "East David",
+        "state": "Maryland",
+        "zip": "15439"
+    },
+    "contact": {
+        "phone": "539-211-1524x6099",
+        "servicePhone": "800584740"
+    },
+    "birthday": "1951-23-06",
+    "ip": "172.185.43.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert green son design every sister exist herself. Outside choose face it even sister key. Hot nearly serious there lay beautiful.",
+        "bio": "Strategy then important room rich. Agent how ball rich."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
