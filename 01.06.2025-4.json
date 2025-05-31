@@ -1,0 +1,25 @@
+{
+    "name": "Jason Wright",
+    "age": 37,
+    "address": {
+        "street": "John Shoal",
+        "city": "Hammondfurt",
+        "state": "Idaho",
+        "zip": "79764"
+    },
+    "contact": {
+        "phone": "(715)465-1295x4260",
+        "servicePhone": "800752870"
+    },
+    "birthday": "1988-25-03",
+    "ip": "177.12.192.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject task film enjoy. Method much test enough small type culture standard.\nCertain activity measure talk herself. Camera mother pressure contain western save son.",
+        "bio": "Charge oil all young group. Where set candidate.\nStay store yeah. Fall education thing watch.\nLeave stop religious play. Population arrive Democrat nation consider."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
