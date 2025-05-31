@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Davis",
+    "age": 56,
+    "address": {
+        "street": "Travis Ridge",
+        "city": "Port Jimmyview",
+        "state": "Delaware",
+        "zip": "48970"
+    },
+    "contact": {
+        "phone": "322-813-5248",
+        "servicePhone": "800759480"
+    },
+    "birthday": "1969-23-12",
+    "ip": "22.61.23.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Church case marriage low free show project.\nType stop cell picture question agree. Bed necessary amount professional state red.\nLess trip forward church car amount money. Late prove several.",
+        "bio": "Kind have seven through. Attack watch walk. Friend great under food.\nCarry ground whatever become quite market base. Cut bad him fine.\nWide indicate dream walk call."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
