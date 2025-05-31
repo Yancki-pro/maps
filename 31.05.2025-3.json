@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Crawford",
+    "age": 51,
+    "address": {
+        "street": "Matthew Knolls",
+        "city": "Kurtshire",
+        "state": "Illinois",
+        "zip": "82087"
+    },
+    "contact": {
+        "phone": "2138376712",
+        "servicePhone": "800028230"
+    },
+    "birthday": "1974-21-11",
+    "ip": "143.30.5.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Around usually lose smile moment state the. Dark worker care common choose. Shake rule happy hundred still.\nBeyond stage improve energy. Continue agent exist over run.",
+        "bio": "Other sense beat. Believe citizen speak unit."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
