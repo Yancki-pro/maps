@@ -1,0 +1,25 @@
+{
+    "name": "Erin Norton",
+    "age": 21,
+    "address": {
+        "street": "Leah Mount",
+        "city": "New Andreahaven",
+        "state": "Colorado",
+        "zip": "63459"
+    },
+    "contact": {
+        "phone": "001-538-551-9969x0455",
+        "servicePhone": "800291772"
+    },
+    "birthday": "2004-14-09",
+    "ip": "189.162.33.56",
+    "foo": "bar",
+    "profile": {
+        "about": "By edge either effort degree late. Need election particular leg dog myself attorney. Bed perform party just until standard. Officer oil plant career young like call factor.",
+        "bio": "Under wind finally result throw finally. Area walk time image wife alone. Scene brother one go recent lay goal."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
