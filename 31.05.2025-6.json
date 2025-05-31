@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Kennedy",
+    "age": 25,
+    "address": {
+        "street": "Elizabeth Junction",
+        "city": "Johnsonland",
+        "state": "Kentucky",
+        "zip": "87003"
+    },
+    "contact": {
+        "phone": "(825)238-0919",
+        "servicePhone": "800371432"
+    },
+    "birthday": "2000-18-03",
+    "ip": "141.164.222.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine join task economic.\nMaterial view include fire ask couple. Paper individual fund throughout practice. Experience threat church kind.",
+        "bio": "Country cell television trade. Point his when position improve right.\nLoss food medical time. Man stand skill east agent test party close. Ball reveal suddenly."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
