@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Hernandez",
+    "age": 60,
+    "address": {
+        "street": "Ramos Rue",
+        "city": "Briannamouth",
+        "state": "Idaho",
+        "zip": "25681"
+    },
+    "contact": {
+        "phone": "811-614-7114x683",
+        "servicePhone": "800732549"
+    },
+    "birthday": "1965-30-11",
+    "ip": "147.186.97.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside technology themselves meet protect agree development model. How contain I statement yes Republican. Possible easy force then value action.\nFocus call wind seat technology factor.",
+        "bio": "Policy rather other modern police. Agent senior career physical pretty indicate brother. Thank all PM."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
