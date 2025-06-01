@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Humphrey",
+    "age": 68,
+    "address": {
+        "street": "Belinda Lodge",
+        "city": "Dennisville",
+        "state": "Alabama",
+        "zip": "65821"
+    },
+    "contact": {
+        "phone": "(335)292-5980x792",
+        "servicePhone": "800237934"
+    },
+    "birthday": "1957-15-01",
+    "ip": "21.177.240.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally possible affect have onto question president. Commercial protect face parent fall kind likely.",
+        "bio": "Threat candidate difficult. Accept writer image politics brother arrive. Situation between human story life music."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
