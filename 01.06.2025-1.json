@@ -1,0 +1,25 @@
+{
+    "name": "John Monroe DVM",
+    "age": 28,
+    "address": {
+        "street": "Debra Falls",
+        "city": "Travisfort",
+        "state": "Idaho",
+        "zip": "23821"
+    },
+    "contact": {
+        "phone": "784.482.9572",
+        "servicePhone": "800855728"
+    },
+    "birthday": "1997-15-03",
+    "ip": "89.29.172.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat military nearly use growth. Wall thousand work rock protect. Study enter recognize cover.\nBoth outside create phone good.",
+        "bio": "With enjoy what send. Close quickly break thank trade magazine.\nNice smile treatment project money address. Book west American imagine available form."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
