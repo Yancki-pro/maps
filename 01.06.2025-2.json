@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Gaines",
+    "age": 61,
+    "address": {
+        "street": "Schmitt Crescent",
+        "city": "Andreaton",
+        "state": "Kentucky",
+        "zip": "41342"
+    },
+    "contact": {
+        "phone": "563-203-6982x0422",
+        "servicePhone": "800760333"
+    },
+    "birthday": "1964-12-11",
+    "ip": "25.48.74.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup a you view maintain piece dream. Business about with from. Myself front reflect however for trade.\nRegion focus talk central break according company. Need that degree foot.",
+        "bio": "Detail new security research. Risk here clear deal. Black management grow shoulder wait boy."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
