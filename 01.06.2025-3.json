@@ -1,0 +1,25 @@
+{
+    "name": "Angela Castillo",
+    "age": 81,
+    "address": {
+        "street": "Clark Course",
+        "city": "Huntberg",
+        "state": "Michigan",
+        "zip": "47143"
+    },
+    "contact": {
+        "phone": "227.384.0008x135",
+        "servicePhone": "800265611"
+    },
+    "birthday": "1944-16-04",
+    "ip": "28.28.118.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly mention he reduce conference you. Final front special require popular single now. Support every thus capital someone experience.",
+        "bio": "Truth heart boy four toward usually history. Run service better student figure college. Live throughout catch memory choice here. Over trial I above history."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
