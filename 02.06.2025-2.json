@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hale",
+    "age": 56,
+    "address": {
+        "street": "Arnold Trail",
+        "city": "South Dustin",
+        "state": "Indiana",
+        "zip": "42967"
+    },
+    "contact": {
+        "phone": "+1-248-969-5917x7007",
+        "servicePhone": "800452958"
+    },
+    "birthday": "1969-29-11",
+    "ip": "11.80.153.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge mother ready administration need. Protect language plan word.\nStock hold begin. Improve direction agent evening view catch rich school. Form station let baby.",
+        "bio": "General service enter within country white month. Hour he one.\nSecond your tree. Way treat wide buy radio. Appear imagine opportunity myself."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
