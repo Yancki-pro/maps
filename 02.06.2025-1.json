@@ -1,0 +1,25 @@
+{
+    "name": "Denise Flowers",
+    "age": 73,
+    "address": {
+        "street": "Hernandez Coves",
+        "city": "East Scott",
+        "state": "Virginia",
+        "zip": "02716"
+    },
+    "contact": {
+        "phone": "001-497-652-2601x82599",
+        "servicePhone": "800096220"
+    },
+    "birthday": "1952-18-07",
+    "ip": "74.7.87.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Will walk space place reach generation. Kitchen under mention keep.\nWorld since west sell trial protect unit. Edge such off half. Society put right gas.\nSeven from image order easy.",
+        "bio": "Expect agency main. Federal yard window something recognize address exist. Project radio street improve senior."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
