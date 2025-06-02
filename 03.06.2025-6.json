@@ -1,0 +1,25 @@
+{
+    "name": "Casey Lane",
+    "age": 0,
+    "address": {
+        "street": "Tina Springs",
+        "city": "North Dillon",
+        "state": "New Hampshire",
+        "zip": "95584"
+    },
+    "contact": {
+        "phone": "001-641-748-1998",
+        "servicePhone": "800777231"
+    },
+    "birthday": "2025-17-04",
+    "ip": "117.98.2.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal agency fly. Worker claim travel season pressure kind idea.\nEconomic recognize big authority explain significant daughter. Reduce type fish region.",
+        "bio": "Thank relate area theory official. Light career peace detail watch expert career. Article happen resource end thus some collection half."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
