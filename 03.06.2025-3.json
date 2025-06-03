@@ -1,0 +1,25 @@
+{
+    "name": "Donald Moore",
+    "age": 80,
+    "address": {
+        "street": "Buckley Coves",
+        "city": "New Erin",
+        "state": "California",
+        "zip": "70259"
+    },
+    "contact": {
+        "phone": "+1-990-394-5665x30198",
+        "servicePhone": "800031983"
+    },
+    "birthday": "1945-24-10",
+    "ip": "56.122.48.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Card race drop task short listen. Effect nearly yeah around.\nThey ball Democrat word official drop. Represent need ten practice environment.",
+        "bio": "Feeling present office like weight close first. As to near admit. Scientist truth interesting add indicate."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
