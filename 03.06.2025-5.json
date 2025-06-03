@@ -1,0 +1,25 @@
+{
+    "name": "Larry Blair",
+    "age": 84,
+    "address": {
+        "street": "Martin Parkways",
+        "city": "Josephburgh",
+        "state": "Alaska",
+        "zip": "47190"
+    },
+    "contact": {
+        "phone": "585.503.7138x4388",
+        "servicePhone": "800482205"
+    },
+    "birthday": "1941-02-01",
+    "ip": "41.195.171.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth win too development realize. Take your occur century record door. Body begin imagine above sit feeling.",
+        "bio": "Assume environmental agent present central generation. Decision be where bill.\nWrite toward coach significant system similar. Care be offer prepare significant company."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
