@@ -1,0 +1,25 @@
+{
+    "name": "Lori Jackson",
+    "age": 113,
+    "address": {
+        "street": "Daniel Fords",
+        "city": "Kevinchester",
+        "state": "Kentucky",
+        "zip": "86031"
+    },
+    "contact": {
+        "phone": "811.859.1283",
+        "servicePhone": "800635495"
+    },
+    "birthday": "1912-20-11",
+    "ip": "167.225.3.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Big economy thing ground. Church argue computer second run. Ask action tend sea.\nData beautiful city defense blood.",
+        "bio": "Rock thousand game argue. Race charge might leg instead institution everybody. Almost family education threat director health fly."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
