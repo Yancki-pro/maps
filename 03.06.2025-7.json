@@ -1,0 +1,25 @@
+{
+    "name": "Sally Henderson",
+    "age": 109,
+    "address": {
+        "street": "Charles Fort",
+        "city": "Elizabethburgh",
+        "state": "Maine",
+        "zip": "32154"
+    },
+    "contact": {
+        "phone": "357.408.1467x45605",
+        "servicePhone": "800321801"
+    },
+    "birthday": "1916-04-03",
+    "ip": "59.48.86.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Through choice good. Heavy anyone both red firm town ago.\nWall spend offer personal take enjoy. Foreign produce direction throw. Share rise major executive.\nThreat traditional tell student.",
+        "bio": "Health mouth image effort oil single. Too care speak another man over week develop."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
