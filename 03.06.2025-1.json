@@ -1,0 +1,25 @@
+{
+    "name": "Richard Woods DDS",
+    "age": 96,
+    "address": {
+        "street": "Daniel Port",
+        "city": "Gabriellefort",
+        "state": "Pennsylvania",
+        "zip": "11833"
+    },
+    "contact": {
+        "phone": "844.851.5559x77773",
+        "servicePhone": "800511121"
+    },
+    "birthday": "1929-08-08",
+    "ip": "138.74.37.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Again culture note heavy while beyond. Control benefit by pick miss. Degree discussion important thousand spring second home leg.",
+        "bio": "Training exist home share big visit. Fund phone address.\nEnter respond tend movement wish. Issue must keep foot within. Experience station study question."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
