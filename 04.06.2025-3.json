@@ -1,0 +1,25 @@
+{
+    "name": "Craig Perry",
+    "age": 54,
+    "address": {
+        "street": "Shelton Common",
+        "city": "Grossberg",
+        "state": "Montana",
+        "zip": "57104"
+    },
+    "contact": {
+        "phone": "659-491-7940x6693",
+        "servicePhone": "800924469"
+    },
+    "birthday": "1971-21-11",
+    "ip": "183.123.166.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Here purpose debate production. How during around drive responsibility prepare.",
+        "bio": "Social although sound cultural always seat. Write series more agreement benefit. Wide summer do military. Become court serious special production."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
