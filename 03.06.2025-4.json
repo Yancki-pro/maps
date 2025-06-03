@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Ford",
+    "age": 95,
+    "address": {
+        "street": "Hale Parkway",
+        "city": "Mariaport",
+        "state": "Ohio",
+        "zip": "42528"
+    },
+    "contact": {
+        "phone": "(426)299-1317",
+        "servicePhone": "800456048"
+    },
+    "birthday": "1930-29-07",
+    "ip": "85.172.144.95",
+    "foo": "bar",
+    "profile": {
+        "about": "News stop pretty lot call ahead. Stuff art small main stay expect song. Vote operation picture.\nFinish nor center gun under quickly leg collection.",
+        "bio": "Safe human over stay return. Expect wide clearly face travel class only.\nParticular model collection control assume man. Wife sign own leader their world. Behind face able law she."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
