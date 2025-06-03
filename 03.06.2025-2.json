@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Davis",
+    "age": 113,
+    "address": {
+        "street": "Haney Neck",
+        "city": "Lake Andrew",
+        "state": "Washington",
+        "zip": "66271"
+    },
+    "contact": {
+        "phone": "3072757598",
+        "servicePhone": "800155819"
+    },
+    "birthday": "1912-26-01",
+    "ip": "126.96.217.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm decision record stuff visit water way federal. Myself indicate hit machine interest. Music join best rather.",
+        "bio": "Rather before pattern road become property unit hundred. Not one must blood attorney think himself follow."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
