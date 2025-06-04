@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Rubio",
+    "age": 75,
+    "address": {
+        "street": "Leach Lane",
+        "city": "Dennisberg",
+        "state": "Hawaii",
+        "zip": "47847"
+    },
+    "contact": {
+        "phone": "9784196826",
+        "servicePhone": "800270680"
+    },
+    "birthday": "1950-17-08",
+    "ip": "42.9.51.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Section five task drug world itself anything. Enough place him throw interview push. Remain yourself right plan. Such special mind power media.",
+        "bio": "Bank can small. Look doctor idea. Wait decision mouth security."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
