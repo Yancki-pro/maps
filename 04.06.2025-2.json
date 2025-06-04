@@ -1,0 +1,25 @@
+{
+    "name": "Sara Lloyd",
+    "age": 70,
+    "address": {
+        "street": "Pearson Port",
+        "city": "Jonesstad",
+        "state": "Kentucky",
+        "zip": "10573"
+    },
+    "contact": {
+        "phone": "+1-996-775-0645x66654",
+        "servicePhone": "800333674"
+    },
+    "birthday": "1955-17-07",
+    "ip": "57.65.223.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Wife serve ago than three catch. Significant will though himself.",
+        "bio": "Office account by positive research very break whose. Gas last trip choice any important these. Animal arrive top give scientist deep I."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
