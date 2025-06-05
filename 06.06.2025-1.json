@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Duran",
+    "age": 106,
+    "address": {
+        "street": "Bruce Trace",
+        "city": "Arnoldport",
+        "state": "California",
+        "zip": "20654"
+    },
+    "contact": {
+        "phone": "784-281-3160x266",
+        "servicePhone": "800288769"
+    },
+    "birthday": "1919-06-06",
+    "ip": "48.22.104.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye range child study indicate. Strategy suggest behind enough. Amount close wish arrive eat.\nImpact return drug discuss. Those manage film sure house marriage.",
+        "bio": "Woman inside buy. Movie base whom room. Type case star action.\nProvide bad democratic traditional his where health. Economic interview do explain room visit various. Store act also entire."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
