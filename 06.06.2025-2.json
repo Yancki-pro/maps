@@ -1,0 +1,25 @@
+{
+    "name": "Charles Goodman",
+    "age": 55,
+    "address": {
+        "street": "Cox Court",
+        "city": "Joneschester",
+        "state": "Virginia",
+        "zip": "72498"
+    },
+    "contact": {
+        "phone": "(821)509-1026",
+        "servicePhone": "800050858"
+    },
+    "birthday": "1970-15-01",
+    "ip": "58.78.1.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Director turn involve positive market help. Former education seem unit seem visit move those. Wear simple enjoy sure born guy.\nKnowledge than start admit successful.",
+        "bio": "Wish focus short bit understand eight rest. Very exist step science candidate short. Conference billion Democrat."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
