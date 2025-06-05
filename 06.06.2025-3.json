@@ -1,0 +1,25 @@
+{
+    "name": "Debra Tanner",
+    "age": 98,
+    "address": {
+        "street": "Karen Forge",
+        "city": "Mullinsview",
+        "state": "North Carolina",
+        "zip": "10270"
+    },
+    "contact": {
+        "phone": "(901)207-2122x2420",
+        "servicePhone": "800269118"
+    },
+    "birthday": "1927-31-12",
+    "ip": "13.64.19.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Family hand get shake fire single. Tonight practice process stuff edge seek. Source garden challenge back somebody market here.",
+        "bio": "Mother according eight lot former. Well report develop ground surface. Talk house long newspaper."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
