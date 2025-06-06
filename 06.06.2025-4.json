@@ -1,0 +1,25 @@
+{
+    "name": "Angel Livingston",
+    "age": 49,
+    "address": {
+        "street": "Jennifer Village",
+        "city": "Danaburgh",
+        "state": "Indiana",
+        "zip": "43733"
+    },
+    "contact": {
+        "phone": "+1-229-877-7617",
+        "servicePhone": "800500160"
+    },
+    "birthday": "1976-12-06",
+    "ip": "171.249.112.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Home section voice administration. High business democratic century from. Measure yes full collection daughter always face.\nPoint important admit against. System stop new idea. Guess quickly across.",
+        "bio": "Hot as build back continue above. Eat war might create admit much.\nSell full finally fear bill they machine. Many cup admit. Bad song almost discover brother indeed."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
