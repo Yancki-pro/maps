@@ -1,0 +1,25 @@
+{
+    "name": "Bianca Thomas",
+    "age": 44,
+    "address": {
+        "street": "Colleen Forks",
+        "city": "New Bill",
+        "state": "Kentucky",
+        "zip": "00626"
+    },
+    "contact": {
+        "phone": "(639)223-2278",
+        "servicePhone": "800283937"
+    },
+    "birthday": "1981-05-07",
+    "ip": "65.210.175.125",
+    "foo": "bar",
+    "profile": {
+        "about": "It media call table else laugh knowledge me. Teacher body image up. Both fear vote watch network issue plant.",
+        "bio": "Party officer media. Choose wish south hair serious international edge. Customer reflect image risk produce.\nClear style song plant sister. Pay near game relationship push mind."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
