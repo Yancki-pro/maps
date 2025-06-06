@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Gregory",
+    "age": 53,
+    "address": {
+        "street": "Whitney Lane",
+        "city": "Clarkburgh",
+        "state": "Massachusetts",
+        "zip": "93096"
+    },
+    "contact": {
+        "phone": "778.220.4319",
+        "servicePhone": "800180305"
+    },
+    "birthday": "1972-30-10",
+    "ip": "34.8.199.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead hair direction husband spring oil their. Over matter begin particular rather significant. Stage memory produce beautiful case eight itself which.",
+        "bio": "Area since just fire hear public. Day identify market pick finish himself store. Challenge defense two our bad develop that individual.\nField stage pretty thought if girl."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
