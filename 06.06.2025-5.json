@@ -1,0 +1,25 @@
+{
+    "name": "Madison Neal",
+    "age": 37,
+    "address": {
+        "street": "Antonio Junction",
+        "city": "New Joel",
+        "state": "Tennessee",
+        "zip": "43609"
+    },
+    "contact": {
+        "phone": "001-257-319-0346x164",
+        "servicePhone": "800069815"
+    },
+    "birthday": "1988-26-04",
+    "ip": "54.242.9.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular concern hope work compare travel then. Several party shoulder already while. People side billion account.",
+        "bio": "Recent safe main would in road yes. Back music she again wide region recent.\nFriend should inside size. Action executive kid although white center reduce. Upon huge agree bit part director."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
