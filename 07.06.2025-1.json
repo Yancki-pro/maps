@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Higgins",
+    "age": 28,
+    "address": {
+        "street": "Parker Land",
+        "city": "Port Stephanieville",
+        "state": "Indiana",
+        "zip": "68019"
+    },
+    "contact": {
+        "phone": "(301)230-3676",
+        "servicePhone": "800349120"
+    },
+    "birthday": "1997-10-11",
+    "ip": "60.234.20.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Development position glass hit. Necessary range certain offer it away.\nNone firm early likely. Although page car child listen moment.",
+        "bio": "Rule coach woman drive move few want actually. Over those already four recently develop.\nNever then same lot stuff soldier several. Pick clear political animal else western morning."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
