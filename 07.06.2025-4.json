@@ -1,0 +1,25 @@
+{
+    "name": "Juan Perez",
+    "age": 36,
+    "address": {
+        "street": "Carrie Ford",
+        "city": "New Marissa",
+        "state": "Hawaii",
+        "zip": "53681"
+    },
+    "contact": {
+        "phone": "865.815.1655x1826",
+        "servicePhone": "800511514"
+    },
+    "birthday": "1989-31-03",
+    "ip": "108.191.208.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Go cover contain strong brother test politics. Food Republican change answer beautiful safe everyone. Pm according grow.\nOk character this degree Republican fine yes sign. Manage hospital range star.",
+        "bio": "Discussion attention dog politics no. Miss organization a girl. Floor score care at.\nGo nearly cost son. Rate outside gas opportunity agree never music hit. Pull public own film throughout religious."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
