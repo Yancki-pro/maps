@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Ruiz",
+    "age": 77,
+    "address": {
+        "street": "Samuel Vista",
+        "city": "Port Leslie",
+        "state": "Florida",
+        "zip": "13460"
+    },
+    "contact": {
+        "phone": "(706)857-3983",
+        "servicePhone": "800603985"
+    },
+    "birthday": "1948-01-08",
+    "ip": "71.67.15.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Push lawyer Republican yet itself training he. Fire cell as. Mr poor pull onto time finish get.\nLittle conference never night investment back evidence group. Imagine production involve certain.",
+        "bio": "Understand with behavior source election. Turn indicate lead often rather free. Rule probably difference week."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
