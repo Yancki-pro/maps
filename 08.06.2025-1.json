@@ -1,0 +1,25 @@
+{
+    "name": "James Conley",
+    "age": 59,
+    "address": {
+        "street": "Kramer Lake",
+        "city": "Williston",
+        "state": "New Hampshire",
+        "zip": "52396"
+    },
+    "contact": {
+        "phone": "(950)599-5941",
+        "servicePhone": "800398071"
+    },
+    "birthday": "1966-21-03",
+    "ip": "144.3.14.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Become drug positive discussion space those cost. Call that dark game. Spend rule man alone now.",
+        "bio": "Some only international deep. Fill theory lose. Exactly list participant base wind bad various.\nStyle see especially safe. Indeed glass go likely father season travel."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
