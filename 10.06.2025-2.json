@@ -1,0 +1,25 @@
+{
+    "name": "Tricia Delgado",
+    "age": 10,
+    "address": {
+        "street": "Moore Ramp",
+        "city": "Garciachester",
+        "state": "Indiana",
+        "zip": "96807"
+    },
+    "contact": {
+        "phone": "001-283-361-7515x5773",
+        "servicePhone": "800570089"
+    },
+    "birthday": "2015-29-01",
+    "ip": "54.134.41.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern low him yet focus. Toward pretty single dinner gas reason.",
+        "bio": "Impact new claim though happy. Different public determine green difficult various stay. First current field store field fear."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
