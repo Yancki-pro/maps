@@ -1,0 +1,25 @@
+{
+    "name": "Richard Jenkins",
+    "age": 34,
+    "address": {
+        "street": "Alexander Hollow",
+        "city": "Jamesburgh",
+        "state": "Wyoming",
+        "zip": "76458"
+    },
+    "contact": {
+        "phone": "(300)828-8889x10715",
+        "servicePhone": "800881190"
+    },
+    "birthday": "1991-21-05",
+    "ip": "53.168.231.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Try and though herself pattern tell green voice. Material carry son head choose audience. Work language form edge best simply class.",
+        "bio": "Respond reality imagine unit pay could join couple. Star herself purpose throughout care."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
