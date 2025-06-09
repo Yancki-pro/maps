@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Johnson",
+    "age": 100,
+    "address": {
+        "street": "Mary Square",
+        "city": "Jimenezside",
+        "state": "Utah",
+        "zip": "39077"
+    },
+    "contact": {
+        "phone": "406.489.9566x18110",
+        "servicePhone": "800917121"
+    },
+    "birthday": "1925-31-12",
+    "ip": "138.61.84.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Want economic bar student section fire.\nCreate attack act good. Nation five second indeed poor beyond help even. Despite policy note over whom.",
+        "bio": "Share report it have. There sound piece I down western hit.\nGeneration even stay consider. Court message state."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
