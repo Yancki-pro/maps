@@ -1,0 +1,25 @@
+{
+    "name": "Brendan Richard",
+    "age": 10,
+    "address": {
+        "street": "Reynolds Orchard",
+        "city": "Lake Russell",
+        "state": "Alaska",
+        "zip": "17435"
+    },
+    "contact": {
+        "phone": "314.972.0928",
+        "servicePhone": "800798944"
+    },
+    "birthday": "2015-13-02",
+    "ip": "27.61.142.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Result lose medical hand daughter person. Score usually provide this all.\nBeat occur relate sit particular. Require something human long tree.",
+        "bio": "Support office off clearly administration then. Offer operation himself art decade western.\nBall others dark four. Since play specific instead. College perform share."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
