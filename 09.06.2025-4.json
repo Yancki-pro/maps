@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Chung",
+    "age": 86,
+    "address": {
+        "street": "Gross Spurs",
+        "city": "Johnhaven",
+        "state": "Georgia",
+        "zip": "64700"
+    },
+    "contact": {
+        "phone": "498-502-4347x0316",
+        "servicePhone": "800277357"
+    },
+    "birthday": "1939-22-05",
+    "ip": "71.74.152.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Half sort security. Star baby executive include ball.\nNext economic miss. Various success name water I do grow.",
+        "bio": "Strong film week discover right next. Old east attack voice shake.\nAir great food behavior.\nAlso believe agent carry listen quality. Brother movement fight short myself."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
