@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Harper",
+    "age": 31,
+    "address": {
+        "street": "Tucker Radial",
+        "city": "Smithton",
+        "state": "Wyoming",
+        "zip": "11574"
+    },
+    "contact": {
+        "phone": "+1-528-212-6759x187",
+        "servicePhone": "800873878"
+    },
+    "birthday": "1994-13-07",
+    "ip": "10.148.128.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Water final maybe there light simply I. Identify them social join red Congress modern. Land week cost seat show keep stand.",
+        "bio": "Feel six factor dream peace thing. Cell on manage nice. Parent feeling center science.\nConference your whole pretty however."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
