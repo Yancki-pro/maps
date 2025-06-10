@@ -1,0 +1,25 @@
+{
+    "name": "Angela Dixon",
+    "age": 98,
+    "address": {
+        "street": "Shannon Locks",
+        "city": "Lake Teresa",
+        "state": "Michigan",
+        "zip": "65947"
+    },
+    "contact": {
+        "phone": "525.754.8084x186",
+        "servicePhone": "800067860"
+    },
+    "birthday": "1927-30-08",
+    "ip": "47.49.36.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Page win produce discuss cell. Reflect hold nation activity child. Entire loss even sea.\nPosition visit ready drug use throughout. Ball Congress eye later.",
+        "bio": "Finally forget rock inside set south. Key finally than about feel consider."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
