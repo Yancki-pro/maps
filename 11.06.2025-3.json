@@ -1,0 +1,25 @@
+{
+    "name": "Hayley Eaton",
+    "age": 91,
+    "address": {
+        "street": "Jaclyn Rest",
+        "city": "Gordonstad",
+        "state": "Missouri",
+        "zip": "92118"
+    },
+    "contact": {
+        "phone": "001-331-224-1301x472",
+        "servicePhone": "800734168"
+    },
+    "birthday": "1934-13-11",
+    "ip": "28.136.244.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech cultural recently billion. Themselves several leave plant huge enough purpose. Watch few provide.\nSpend who story attack security bank expert. Left include last few dog cause.",
+        "bio": "Rule Congress next century difficult enjoy. Gun us part similar.\nSo safe mention kitchen recognize sport. Officer hair true such care. Show vote perform bad memory show."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
