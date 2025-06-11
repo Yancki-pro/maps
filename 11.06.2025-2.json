@@ -1,0 +1,25 @@
+{
+    "name": "William Church",
+    "age": 4,
+    "address": {
+        "street": "Andrew Trail",
+        "city": "Wandaberg",
+        "state": "Washington",
+        "zip": "75608"
+    },
+    "contact": {
+        "phone": "238-994-8213x9252",
+        "servicePhone": "800732285"
+    },
+    "birthday": "2021-08-08",
+    "ip": "66.72.214.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Two charge any fast next eight improve. Among let level option garden practice market. Sit care federal themselves.",
+        "bio": "Present modern turn PM current high do. Me maintain cost apply three. Success kid save matter order.\nTend house expert into. Character central research allow within quickly pass."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
