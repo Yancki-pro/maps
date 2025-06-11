@@ -1,0 +1,25 @@
+{
+    "name": "David Avila",
+    "age": 12,
+    "address": {
+        "street": "Rodriguez Mountains",
+        "city": "West Andrewmouth",
+        "state": "Ohio",
+        "zip": "57563"
+    },
+    "contact": {
+        "phone": "695.664.1091x11371",
+        "servicePhone": "800258914"
+    },
+    "birthday": "2013-04-07",
+    "ip": "30.59.255.150",
+    "foo": "bar",
+    "profile": {
+        "about": "We interest radio line. Why base fear real set better.",
+        "bio": "Area huge create beyond cold dinner moment. Large old admit perhaps. Explain might where service that leave life.\nOutside old way act character."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
