@@ -1,0 +1,25 @@
+{
+    "name": "Philip Garza",
+    "age": 21,
+    "address": {
+        "street": "Evans Stream",
+        "city": "West Marcton",
+        "state": "North Dakota",
+        "zip": "75392"
+    },
+    "contact": {
+        "phone": "(375)858-0944x440",
+        "servicePhone": "800848383"
+    },
+    "birthday": "2004-02-12",
+    "ip": "23.39.206.112",
+    "foo": "bar",
+    "profile": {
+        "about": "President commercial ask unit. Clear fly moment. Say yes quite never create. Tough produce hour reduce hair how evening continue.\nProperty never over way.",
+        "bio": "Southern certain nothing control young company senior near. Set her finally weight red believe. Bed staff partner."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
