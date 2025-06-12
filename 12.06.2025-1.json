@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Howard",
+    "age": 53,
+    "address": {
+        "street": "Montes Streets",
+        "city": "North Adrianland",
+        "state": "New Jersey",
+        "zip": "76715"
+    },
+    "contact": {
+        "phone": "845-471-4051x86409",
+        "servicePhone": "800860632"
+    },
+    "birthday": "1972-21-05",
+    "ip": "101.92.46.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure so mouth must. Thought doctor add realize dog bank vote owner.\nMilitary guess safe. Old strategy standard head find.\nAgainst respond win sign recognize. Data traditional maybe.",
+        "bio": "Action into eye me yeah allow federal whole. Tv season artist off town few whose."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
