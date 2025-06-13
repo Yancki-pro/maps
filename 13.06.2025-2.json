@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Johnson",
+    "age": 45,
+    "address": {
+        "street": "Alvin Springs",
+        "city": "East Tammy",
+        "state": "Delaware",
+        "zip": "93031"
+    },
+    "contact": {
+        "phone": "443.928.3812x0583",
+        "servicePhone": "800585556"
+    },
+    "birthday": "1980-26-02",
+    "ip": "222.222.44.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion culture from no church sign. Nearly book learn weight star father matter. He receive key method.\nAgo question without begin role pattern. Political fine start hospital spend early give.",
+        "bio": "Help dinner author site health husband. Civil party democratic yet civil decade."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
