@@ -1,0 +1,25 @@
+{
+    "name": "Joseph West",
+    "age": 18,
+    "address": {
+        "street": "Guzman Inlet",
+        "city": "Benitezburgh",
+        "state": "Kentucky",
+        "zip": "43895"
+    },
+    "contact": {
+        "phone": "9858822579",
+        "servicePhone": "800599711"
+    },
+    "birthday": "2007-02-12",
+    "ip": "62.133.67.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Account edge answer feel organization everything score. Long perhaps employee budget.\nOther wear energy join save. Keep so side return agree television. Similar party record.",
+        "bio": "Identify because head human practice letter guy. Finally enjoy protect toward.\nExperience economic relate body old recognize. Debate author finally them bed."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
