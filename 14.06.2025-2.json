@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Coleman",
+    "age": 115,
+    "address": {
+        "street": "Adams Gardens",
+        "city": "Lake Jessicatown",
+        "state": "Pennsylvania",
+        "zip": "12882"
+    },
+    "contact": {
+        "phone": "+1-515-701-4506x637",
+        "servicePhone": "800929886"
+    },
+    "birthday": "1910-01-09",
+    "ip": "23.92.100.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack fact media development. Another minute peace recently laugh hear store. Performance but recent two someone.",
+        "bio": "Book quality ability design. Idea mouth believe production care father prepare. Song or want happen give. From hundred focus possible stay."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
