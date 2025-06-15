@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Dominguez",
+    "age": 25,
+    "address": {
+        "street": "Conrad Locks",
+        "city": "Robersontown",
+        "state": "Wisconsin",
+        "zip": "60843"
+    },
+    "contact": {
+        "phone": "674-555-8555",
+        "servicePhone": "800163852"
+    },
+    "birthday": "2000-14-05",
+    "ip": "41.61.188.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold we should alone dinner decide.",
+        "bio": "Authority few management most back staff top. A song need month once probably reflect. Enjoy where open do.\nBillion officer do whole notice. Until rate security prevent on."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
