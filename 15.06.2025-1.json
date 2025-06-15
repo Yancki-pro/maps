@@ -1,0 +1,25 @@
+{
+    "name": "Ricardo Anderson",
+    "age": 3,
+    "address": {
+        "street": "Reginald Mountain",
+        "city": "South Destinytown",
+        "state": "Maryland",
+        "zip": "52636"
+    },
+    "contact": {
+        "phone": "(252)816-1025x336",
+        "servicePhone": "800724030"
+    },
+    "birthday": "2022-04-01",
+    "ip": "219.255.92.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Together letter firm perform. Since boy culture visit sell yet trade.\nHold it Democrat help position. Range number own wear successful administration. Reflect brother director standard hospital.",
+        "bio": "Ok behavior age number. Into tend past outside public. Air then face important leg.\nSeason wish life these. Age ten maintain agent final. Teach media arrive."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
