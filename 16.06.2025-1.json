@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Hoover",
+    "age": 4,
+    "address": {
+        "street": "White Tunnel",
+        "city": "North Alexandriatown",
+        "state": "Georgia",
+        "zip": "99412"
+    },
+    "contact": {
+        "phone": "(219)278-9429x541",
+        "servicePhone": "800009874"
+    },
+    "birthday": "2021-02-10",
+    "ip": "216.114.103.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop your blue firm along manage.\nFire large around chance. Trip more media avoid could fast direction. West surface debate.",
+        "bio": "Cause often service call cut theory. Occur establish offer.\nLevel trial line add go certainly will. Particular century rise question candidate their music."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
