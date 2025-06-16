@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Smith",
+    "age": 62,
+    "address": {
+        "street": "Pineda Pine",
+        "city": "Luceroville",
+        "state": "Minnesota",
+        "zip": "62366"
+    },
+    "contact": {
+        "phone": "664-528-7284",
+        "servicePhone": "800239008"
+    },
+    "birthday": "1963-09-06",
+    "ip": "215.26.204.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Different understand little federal make happy everyone. Month it however agree claim ever green. Case camera behind somebody kind.\nAdult save meeting cell argue whom. Artist thus perhaps marriage.",
+        "bio": "Miss dinner my. Commercial gun land record decade seat. Behind sit defense unit machine family.\nLittle health research tell hundred position hope."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
