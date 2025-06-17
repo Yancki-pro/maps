@@ -1,0 +1,25 @@
+{
+    "name": "Frank Lee",
+    "age": 106,
+    "address": {
+        "street": "Green Trafficway",
+        "city": "New Rogerview",
+        "state": "Utah",
+        "zip": "93268"
+    },
+    "contact": {
+        "phone": "414.714.0405x832",
+        "servicePhone": "800877216"
+    },
+    "birthday": "1919-24-12",
+    "ip": "34.78.86.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior south newspaper show own firm. Today another already candidate choose end effect.",
+        "bio": "Available imagine trip hand interest. Be travel account sort. But final collection rise institution medical."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
