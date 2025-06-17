@@ -1,0 +1,25 @@
+{
+    "name": "Roberto Anderson",
+    "age": 61,
+    "address": {
+        "street": "Melinda Forest",
+        "city": "Campbellside",
+        "state": "Maryland",
+        "zip": "53230"
+    },
+    "contact": {
+        "phone": "+1-359-771-2359",
+        "servicePhone": "800281147"
+    },
+    "birthday": "1964-09-10",
+    "ip": "97.76.246.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization around born several federal put push year. Notice enter size wife east. Friend outside environment moment especially.",
+        "bio": "Those sense available fact. Treatment model leave four capital.\nTest half paper result writer. Resource speech national six. Already be site others early may north.\nCollege sense ago fact."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
