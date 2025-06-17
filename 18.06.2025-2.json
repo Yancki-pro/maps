@@ -1,0 +1,25 @@
+{
+    "name": "Robert Jensen DDS",
+    "age": 27,
+    "address": {
+        "street": "Williams Parkway",
+        "city": "Bergmouth",
+        "state": "Ohio",
+        "zip": "30689"
+    },
+    "contact": {
+        "phone": "001-412-401-3678x9429",
+        "servicePhone": "800687334"
+    },
+    "birthday": "1998-21-10",
+    "ip": "81.53.213.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport our however evening guess more. Fall sea allow.\nAlmost group word trip agent voice. Argue how east operation generation.\nFloor already cultural. Top use serious. State safe every region.",
+        "bio": "Anything believe different six money study analysis child. Music new experience. Whose change relationship white race loss."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
