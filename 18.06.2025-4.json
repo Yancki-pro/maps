@@ -1,0 +1,25 @@
+{
+    "name": "Mike Smith",
+    "age": 93,
+    "address": {
+        "street": "Lindsey Isle",
+        "city": "Port Rebecca",
+        "state": "Kansas",
+        "zip": "93746"
+    },
+    "contact": {
+        "phone": "899-270-5629x89105",
+        "servicePhone": "800484172"
+    },
+    "birthday": "1932-03-03",
+    "ip": "166.53.192.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage want morning message. Cultural second yard capital matter. Kind probably lot wrong toward cut while.\nLate themselves community already whose involve. Positive message represent behind.",
+        "bio": "Surface but care growth them. Now share business field group task reach.\nStep whole pay draw. Song unit nature. Radio plant door focus."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
