@@ -1,0 +1,25 @@
+{
+    "name": "Lori Garcia",
+    "age": 42,
+    "address": {
+        "street": "Lamb Fork",
+        "city": "Thomasborough",
+        "state": "Arizona",
+        "zip": "87348"
+    },
+    "contact": {
+        "phone": "(520)765-8942x172",
+        "servicePhone": "800202166"
+    },
+    "birthday": "1983-12-11",
+    "ip": "180.29.74.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply child player season. Institution concern attorney case center. Hear possible enough rock.\nOpen by whether himself business myself million worker.",
+        "bio": "During worry scene develop look discuss company. Kind force against.\nMagazine especially benefit play compare matter little. At itself gas find thought itself. Part here travel material."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
