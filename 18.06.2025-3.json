@@ -1,0 +1,25 @@
+{
+    "name": "James Thompson",
+    "age": 76,
+    "address": {
+        "street": "Paul Springs",
+        "city": "Murrayland",
+        "state": "Ohio",
+        "zip": "65391"
+    },
+    "contact": {
+        "phone": "823.719.9917x083",
+        "servicePhone": "800318680"
+    },
+    "birthday": "1949-01-09",
+    "ip": "35.59.106.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach stop house have. Hotel speech age take fund prepare him. Care job whether goal.\nRealize car debate nor. Apply by four not car use. Quality every smile land PM source including.",
+        "bio": "Company available major region. Understand individual how southern day. Debate face produce herself leg."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
