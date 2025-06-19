@@ -1,0 +1,25 @@
+{
+    "name": "Karla Ruiz",
+    "age": 66,
+    "address": {
+        "street": "Ronald Light",
+        "city": "Lake Dennis",
+        "state": "Tennessee",
+        "zip": "48151"
+    },
+    "contact": {
+        "phone": "+1-409-346-9686x835",
+        "servicePhone": "800125629"
+    },
+    "birthday": "1959-02-01",
+    "ip": "10.87.203.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation appear bag late. Ago only then hour south compare hard. Detail must start brother ground.\nGo total different word million behind. Western wrong happy dinner.",
+        "bio": "Project age dog star teach mind. Fact art site listen most. Help provide reduce American key."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
