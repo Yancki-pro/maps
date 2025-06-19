@@ -1,0 +1,25 @@
+{
+    "name": "Mark Padilla",
+    "age": 28,
+    "address": {
+        "street": "Schmidt Mission",
+        "city": "Johnsonhaven",
+        "state": "New Hampshire",
+        "zip": "63722"
+    },
+    "contact": {
+        "phone": "948.679.7765x935",
+        "servicePhone": "800501174"
+    },
+    "birthday": "1997-19-07",
+    "ip": "217.93.22.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth often shoulder work of forward. Today right right team. Look another physical upon beat respond truth.",
+        "bio": "Involve audience piece go begin lead company. Operation participant food sometimes music gun.\nMeeting article deal increase mean claim. Rather watch daughter determine development leader one."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
