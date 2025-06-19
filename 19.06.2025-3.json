@@ -1,0 +1,25 @@
+{
+    "name": "Susan Garcia",
+    "age": 83,
+    "address": {
+        "street": "Clark Harbors",
+        "city": "Millerhaven",
+        "state": "Kansas",
+        "zip": "10470"
+    },
+    "contact": {
+        "phone": "273-966-3357",
+        "servicePhone": "800698571"
+    },
+    "birthday": "1942-04-08",
+    "ip": "29.246.66.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep true defense apply result piece parent. Purpose condition paper. Congress course everyone same minute appear reason.",
+        "bio": "Room station on defense. Cup family eye three hold full over develop. Store worker military price consider business thing."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
