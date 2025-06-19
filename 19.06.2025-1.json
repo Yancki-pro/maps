@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Maldonado",
+    "age": 88,
+    "address": {
+        "street": "Anderson Falls",
+        "city": "Port Michelle",
+        "state": "Rhode Island",
+        "zip": "44505"
+    },
+    "contact": {
+        "phone": "942.577.8380",
+        "servicePhone": "800215257"
+    },
+    "birthday": "1937-11-08",
+    "ip": "95.11.253.193",
+    "foo": "bar",
+    "profile": {
+        "about": "While major keep look treat hot onto treatment. Probably order nation.\nHealth executive only much institution.",
+        "bio": "Open dream high knowledge at red. Poor size chair yes. Page network energy town.\nProduce record step others. Kind lawyer market act."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
