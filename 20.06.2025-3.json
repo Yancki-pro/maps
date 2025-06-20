@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Garcia",
+    "age": 26,
+    "address": {
+        "street": "Smith Skyway",
+        "city": "West John",
+        "state": "Minnesota",
+        "zip": "35944"
+    },
+    "contact": {
+        "phone": "884.299.4914x793",
+        "servicePhone": "800870951"
+    },
+    "birthday": "1999-01-07",
+    "ip": "37.147.0.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule community area blue page. Account so pick month moment weight machine. Section goal two on stop agreement.",
+        "bio": "Perform reach investment throughout seven boy position. Again animal look production still. State anything foreign great."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
