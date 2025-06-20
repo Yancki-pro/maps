@@ -1,0 +1,25 @@
+{
+    "name": "Denise Rodriguez",
+    "age": 49,
+    "address": {
+        "street": "Johnson Lakes",
+        "city": "South Nicoleburgh",
+        "state": "Colorado",
+        "zip": "91559"
+    },
+    "contact": {
+        "phone": "(870)959-0346x5539",
+        "servicePhone": "800204631"
+    },
+    "birthday": "1976-02-09",
+    "ip": "145.62.68.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience forward charge decade determine imagine rise.\nMedical mean stay sell price after. Technology response newspaper kitchen finally.",
+        "bio": "Instead tonight true. Guess dog own spring wide.\nBank age should imagine state will. Fly radio yourself my worker stuff. Leg PM help impact."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
