@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Davenport",
+    "age": 69,
+    "address": {
+        "street": "Young Terrace",
+        "city": "Lake Adam",
+        "state": "Maryland",
+        "zip": "55976"
+    },
+    "contact": {
+        "phone": "001-549-816-6182x16787",
+        "servicePhone": "800971876"
+    },
+    "birthday": "1956-29-07",
+    "ip": "28.110.176.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional visit career sense edge effect. Drug individual federal democratic act my financial. Parent this note mother same eight cup. Do tend course agreement since seek large.",
+        "bio": "Growth this month woman get successful. Ok difference party board conference science career become. Successful mouth example will shoulder."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
