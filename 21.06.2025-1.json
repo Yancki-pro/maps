@@ -1,0 +1,25 @@
+{
+    "name": "Robert Johnson",
+    "age": 51,
+    "address": {
+        "street": "George Walk",
+        "city": "Mullenbury",
+        "state": "Arkansas",
+        "zip": "58852"
+    },
+    "contact": {
+        "phone": "001-872-927-1662x84578",
+        "servicePhone": "800312341"
+    },
+    "birthday": "1974-08-03",
+    "ip": "107.154.116.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead should religious degree maintain draw. Small politics action.\nNeed technology affect wide authority. Cup without everybody whether too. Author very national rise keep. Find attack she majority.",
+        "bio": "Each benefit mind these police claim.\nGoal again risk international class best third. Quality item attention doctor. Stuff section none middle industry surface begin."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
