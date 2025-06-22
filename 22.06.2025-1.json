@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Allen",
+    "age": 104,
+    "address": {
+        "street": "Cheryl Forges",
+        "city": "New Marioberg",
+        "state": "North Dakota",
+        "zip": "94513"
+    },
+    "contact": {
+        "phone": "669.725.7700x5408",
+        "servicePhone": "800827206"
+    },
+    "birthday": "1921-10-11",
+    "ip": "110.213.183.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Person send wait party. Program state see involve really safe artist. Sea home dinner how past summer compare.\nAccording security big particularly letter. Owner exist door particular he.",
+        "bio": "Manager term speak low.\nEffort one next whom next affect for ago. Apply join inside stock compare. Without stage read quickly. Week history behavior foreign million."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
