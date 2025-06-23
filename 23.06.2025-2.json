@@ -1,0 +1,25 @@
+{
+    "name": "Dominique Hunter",
+    "age": 65,
+    "address": {
+        "street": "Sandoval Highway",
+        "city": "Nicholasside",
+        "state": "Wyoming",
+        "zip": "66490"
+    },
+    "contact": {
+        "phone": "422-660-4498",
+        "servicePhone": "800706378"
+    },
+    "birthday": "1960-22-09",
+    "ip": "125.152.108.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Only deep old coach hundred. Soldier agent own seven decade number become.\nInvestment thus certain age thank already. Teacher plan worker recently now share ability. Oil add address own.",
+        "bio": "Coach sing save part door. By with night as thank.\nVisit different life sea real language office. Tonight always first bank hard speak. Truth inside actually arm simple."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
