@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Edwards",
+    "age": 17,
+    "address": {
+        "street": "Emily Ways",
+        "city": "East Amystad",
+        "state": "West Virginia",
+        "zip": "90200"
+    },
+    "contact": {
+        "phone": "(946)356-9515x728",
+        "servicePhone": "800812072"
+    },
+    "birthday": "2008-08-07",
+    "ip": "59.227.126.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Value chair marriage red thousand ever. Democrat economic record I commercial decide call.",
+        "bio": "Fine simply so return reason product successful. Feel child case check. Rather yard director just join.\nOffice little law together use finish place to. Stock range right effect news specific."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
