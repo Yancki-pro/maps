@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Singh",
+    "age": 15,
+    "address": {
+        "street": "Phillips Walks",
+        "city": "East Heatherborough",
+        "state": "Texas",
+        "zip": "69199"
+    },
+    "contact": {
+        "phone": "310-847-5149x683",
+        "servicePhone": "800833116"
+    },
+    "birthday": "2010-07-05",
+    "ip": "44.255.204.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell agency which feel. Authority system available decade though last two. Rest parent design all.",
+        "bio": "Financial cost win. Rise respond loss participant professor fund perform. Leg service fund catch these deal without. Fight from sense southern actually dinner interest."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
