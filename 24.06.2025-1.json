@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Singh Jr.",
+    "age": 91,
+    "address": {
+        "street": "Paula Avenue",
+        "city": "Rebeccaburgh",
+        "state": "Montana",
+        "zip": "63598"
+    },
+    "contact": {
+        "phone": "760-949-6694",
+        "servicePhone": "800105128"
+    },
+    "birthday": "1934-20-02",
+    "ip": "91.104.60.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing late wall point hotel company education. Vote table prove surface.\nArrive east speech case natural. Congress seven far war cultural bit happen. Reach not step even note.",
+        "bio": "Treat ground too. View start pull without. Capital protect both no.\nWar each measure major particularly teacher produce world. Election forward imagine concern model."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
