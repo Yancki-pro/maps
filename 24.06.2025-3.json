@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Richards",
+    "age": 100,
+    "address": {
+        "street": "Martinez Corners",
+        "city": "Williamsside",
+        "state": "Missouri",
+        "zip": "48216"
+    },
+    "contact": {
+        "phone": "816-839-6412",
+        "servicePhone": "800924833"
+    },
+    "birthday": "1925-05-04",
+    "ip": "190.10.5.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait why seem type hear conference drop. Memory begin hard quality girl store yourself successful. Several option expert law at around degree. Produce heart law leader mission unit.",
+        "bio": "Real as remember cold wonder price. Own answer from likely discussion top voice.\nMention involve nice need possible beat. Recognize fine staff service."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
