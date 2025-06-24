@@ -1,0 +1,25 @@
+{
+    "name": "Luis Cordova",
+    "age": 76,
+    "address": {
+        "street": "Lopez Locks",
+        "city": "Robinsonport",
+        "state": "Vermont",
+        "zip": "80555"
+    },
+    "contact": {
+        "phone": "879-961-0774x875",
+        "servicePhone": "800163346"
+    },
+    "birthday": "1949-18-09",
+    "ip": "187.27.149.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend station manager writer than father. Prevent family room. Continue everyone fire up still his. Six worker alone.",
+        "bio": "High central south price design way. Mouth traditional else war boy seek. Very she itself board. Likely professor arrive before."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
