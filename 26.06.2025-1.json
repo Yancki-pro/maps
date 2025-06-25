@@ -1,0 +1,25 @@
+{
+    "name": "Nicolas Fuller",
+    "age": 29,
+    "address": {
+        "street": "Lindsay Stream",
+        "city": "North Nicolebury",
+        "state": "Florida",
+        "zip": "24638"
+    },
+    "contact": {
+        "phone": "577.859.1897",
+        "servicePhone": "800445543"
+    },
+    "birthday": "1996-18-04",
+    "ip": "81.129.96.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Question article interesting result. Here board throughout American have. Authority enter hold fear cover open.\nSurface difficult listen join bill ability bill.",
+        "bio": "Father need difficult report.\nUnder close physical ago. Whatever soldier significant laugh maintain forget. Major section as serve."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
