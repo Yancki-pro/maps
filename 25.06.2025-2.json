@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Cruz",
+    "age": 39,
+    "address": {
+        "street": "John Circle",
+        "city": "Williamsport",
+        "state": "New Hampshire",
+        "zip": "17945"
+    },
+    "contact": {
+        "phone": "494.325.0518x289",
+        "servicePhone": "800141990"
+    },
+    "birthday": "1986-25-11",
+    "ip": "46.49.145.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal growth assume vote else. Ten involve student time weight my during.\nThought able list institution. Model collection short past billion rather gas. Today daughter exist career human popular.",
+        "bio": "Treatment yeah explain gun there. Hit might space trip talk country he.\nParticularly against sense small staff guy well. Many organization piece evening analysis."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
