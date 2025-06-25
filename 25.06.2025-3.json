@@ -1,0 +1,25 @@
+{
+    "name": "Christine Wilson",
+    "age": 79,
+    "address": {
+        "street": "Kyle Groves",
+        "city": "New Amy",
+        "state": "New Mexico",
+        "zip": "13039"
+    },
+    "contact": {
+        "phone": "723-200-4613",
+        "servicePhone": "800118348"
+    },
+    "birthday": "1946-04-02",
+    "ip": "162.253.78.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Meet in everybody term. Born effort performance wind man positive.\nPresident race hard consider down subject team. Pay house member structure son. Account prepare employee fill.",
+        "bio": "Charge traditional purpose pull why fast office. Task leave art past.\nRead strategy value admit break action. Financial toward suddenly today term."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
