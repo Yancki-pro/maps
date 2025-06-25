@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gomez",
+    "age": 25,
+    "address": {
+        "street": "Hernandez Lights",
+        "city": "Rhondaport",
+        "state": "Wyoming",
+        "zip": "36563"
+    },
+    "contact": {
+        "phone": "+1-776-853-4739",
+        "servicePhone": "800968160"
+    },
+    "birthday": "2000-02-05",
+    "ip": "7.92.99.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Space physical line story. Sense result president discussion hospital herself high.\nWrite although law hair if scientist at. If reason top ever. Exist during until discussion level near old second.",
+        "bio": "Eye it person will standard offer. Work then than difficult. Day chair song hit.\nStand stop year several firm. Own market character under Mr."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
