@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Adams DDS",
+    "age": 31,
+    "address": {
+        "street": "Corey Garden",
+        "city": "South Danielle",
+        "state": "Utah",
+        "zip": "80427"
+    },
+    "contact": {
+        "phone": "(797)853-8466",
+        "servicePhone": "800119038"
+    },
+    "birthday": "1994-21-06",
+    "ip": "112.4.114.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick former sign risk school. Wall look draw national.\nImprove person generation. Learn learn energy from both detail smile. Can type lawyer.",
+        "bio": "Toward coach shoulder attack. Amount at south happy according with difficult she.\nTeach interest news cost pull become. Game international nice place.\nAlmost building surface."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
