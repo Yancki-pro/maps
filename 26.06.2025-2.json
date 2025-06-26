@@ -1,0 +1,25 @@
+{
+    "name": "Robert Savage",
+    "age": 30,
+    "address": {
+        "street": "Haas Estate",
+        "city": "Paulbury",
+        "state": "Wisconsin",
+        "zip": "63499"
+    },
+    "contact": {
+        "phone": "(742)289-9112x91957",
+        "servicePhone": "800919555"
+    },
+    "birthday": "1995-07-08",
+    "ip": "67.176.94.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Check operation seat amount. Dinner type positive system. Risk military free audience increase.\nLate address everything main. Final method four amount rich wonder author place.",
+        "bio": "Around parent safe cover method improve address. Wish generation him letter until consumer.\nCharge idea tonight. Sometimes step help popular and someone performance."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
