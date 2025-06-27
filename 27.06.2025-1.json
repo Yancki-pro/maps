@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Foster",
+    "age": 32,
+    "address": {
+        "street": "Carter Dam",
+        "city": "Josephside",
+        "state": "Idaho",
+        "zip": "29349"
+    },
+    "contact": {
+        "phone": "851-911-0928",
+        "servicePhone": "800591777"
+    },
+    "birthday": "1993-01-03",
+    "ip": "140.215.148.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Job control special rock third arm act. Owner measure space create about thing big.\nPresent success into small line.",
+        "bio": "Possible try involve movie blood tonight box. Heavy special either occur article. International century sign knowledge ask."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
