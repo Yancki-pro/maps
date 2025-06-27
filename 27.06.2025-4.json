@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Megan Long",
+    "age": 102,
+    "address": {
+        "street": "Riley Prairie",
+        "city": "Angelview",
+        "state": "Illinois",
+        "zip": "46453"
+    },
+    "contact": {
+        "phone": "334-699-8996x966",
+        "servicePhone": "800297074"
+    },
+    "birthday": "1923-28-04",
+    "ip": "111.40.71.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Happen outside lot manager onto. Interest sing determine word. Mission look give attorney contain staff positive.\nIn stop wait. Generation one together speech mission call compare either.",
+        "bio": "Answer activity capital sea season check. Authority evidence next. Decade see free explain ask street.\nForward deep question record institution finish image one. Inside create miss."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
