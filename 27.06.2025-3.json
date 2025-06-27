@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Ramirez",
+    "age": 3,
+    "address": {
+        "street": "Davidson Land",
+        "city": "Lake Ryan",
+        "state": "Indiana",
+        "zip": "95823"
+    },
+    "contact": {
+        "phone": "+1-625-216-8495",
+        "servicePhone": "800971077"
+    },
+    "birthday": "2022-07-12",
+    "ip": "191.113.33.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Something state building out thing audience whole. Certain throw so husband fight politics Mr star.\nClearly add adult stop. Reach out seek son. Show situation together door boy.",
+        "bio": "Prove want quality others across. Explain popular million floor election. Let specific feel evening art owner lead."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
