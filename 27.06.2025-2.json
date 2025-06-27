@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Small",
+    "age": 13,
+    "address": {
+        "street": "Sheppard Loop",
+        "city": "Shortland",
+        "state": "Mississippi",
+        "zip": "29702"
+    },
+    "contact": {
+        "phone": "001-879-956-7358x671",
+        "servicePhone": "800775461"
+    },
+    "birthday": "2012-28-01",
+    "ip": "78.98.27.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty type tend surface whom site onto nearly. Until cost edge enough any. Life strategy herself serious suddenly group.",
+        "bio": "Process sea need themselves part.\nSave fall who economic science near bank report. Institution machine draw face able officer east.\nUs ball raise pay. International forget once."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
