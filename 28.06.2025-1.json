@@ -1,0 +1,25 @@
+{
+    "name": "Michael Ramos",
+    "age": 14,
+    "address": {
+        "street": "Tiffany Wells",
+        "city": "Smithbury",
+        "state": "Montana",
+        "zip": "31175"
+    },
+    "contact": {
+        "phone": "(616)369-0634",
+        "servicePhone": "800609975"
+    },
+    "birthday": "2011-21-07",
+    "ip": "219.0.96.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick tend president Congress member gun form wide. Pass probably along plan dog free I.\nBuy each old smile. Threat economic report choose determine work.",
+        "bio": "Defense score word morning. Each develop put traditional as nice deep range. Professional leg use actually right of."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
