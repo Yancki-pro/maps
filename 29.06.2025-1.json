@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Acosta",
+    "age": 53,
+    "address": {
+        "street": "Herrera Extensions",
+        "city": "Carolmouth",
+        "state": "West Virginia",
+        "zip": "18317"
+    },
+    "contact": {
+        "phone": "+1-254-748-4841x223",
+        "servicePhone": "800768099"
+    },
+    "birthday": "1972-20-08",
+    "ip": "98.67.38.237",
+    "foo": "bar",
+    "profile": {
+        "about": "And simple action appear. Feeling sure director take past week student. Speak hit consumer suggest defense have number.",
+        "bio": "History yet including ahead. Find event day week national write. Hot at send hotel face.\nArea threat throughout until room program. Probably today specific their increase like couple."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
