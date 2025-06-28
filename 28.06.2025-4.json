@@ -1,0 +1,25 @@
+{
+    "name": "Robert Conner",
+    "age": 57,
+    "address": {
+        "street": "Lauren Forge",
+        "city": "Janeside",
+        "state": "Iowa",
+        "zip": "82787"
+    },
+    "contact": {
+        "phone": "573-380-0411x630",
+        "servicePhone": "800227877"
+    },
+    "birthday": "1968-29-04",
+    "ip": "116.235.60.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Open work building weight. Work maybe network might establish. Series election scene star.\nPurpose mention total avoid yourself. Radio Republican risk foot. Ago responsibility have town usually.",
+        "bio": "Heart not part traditional because alone. Language now score over mother. Medical artist such woman child particular."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
