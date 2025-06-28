@@ -1,0 +1,25 @@
+{
+    "name": "James Clark",
+    "age": 26,
+    "address": {
+        "street": "Wilson Grove",
+        "city": "Lake Travisfurt",
+        "state": "Texas",
+        "zip": "54009"
+    },
+    "contact": {
+        "phone": "+1-506-916-8753x8252",
+        "servicePhone": "800179193"
+    },
+    "birthday": "1999-14-09",
+    "ip": "178.161.94.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Share threat free describe pattern far here. Adult value leave. Evening strong energy example rock describe decade.",
+        "bio": "Lose here dog board. Crime interesting push record style beat leave. Company management stock nice run low without even."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
