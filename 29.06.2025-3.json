@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Stanton",
+    "age": 102,
+    "address": {
+        "street": "Hernandez Well",
+        "city": "Chambersside",
+        "state": "Massachusetts",
+        "zip": "57385"
+    },
+    "contact": {
+        "phone": "236-838-1007",
+        "servicePhone": "800307924"
+    },
+    "birthday": "1923-25-12",
+    "ip": "137.52.38.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Real fly alone Mr. Street those note watch everything. Cause significant deal modern start.\nIt before why simply item all when. Myself away customer person.",
+        "bio": "Action indicate pull try within trial. From read wife stage call nor."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
