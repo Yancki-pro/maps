@@ -1,0 +1,25 @@
+{
+    "name": "Richard Glover",
+    "age": 44,
+    "address": {
+        "street": "Derek Trace",
+        "city": "West Kylehaven",
+        "state": "New Jersey",
+        "zip": "75498"
+    },
+    "contact": {
+        "phone": "(844)244-7190",
+        "servicePhone": "800036384"
+    },
+    "birthday": "1981-08-07",
+    "ip": "1.33.51.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Red same every sell. Certainly truth manage heavy play color major. Maybe trip statement quite keep.",
+        "bio": "Cost claim building education simply weight office. Reflect their subject policy time leave better simple.\nNatural final country someone."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
