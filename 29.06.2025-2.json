@@ -1,0 +1,25 @@
+{
+    "name": "Amy Contreras",
+    "age": 55,
+    "address": {
+        "street": "Thomas Track",
+        "city": "Virginiaburgh",
+        "state": "Nevada",
+        "zip": "99760"
+    },
+    "contact": {
+        "phone": "693.539.8907x2707",
+        "servicePhone": "800861984"
+    },
+    "birthday": "1970-09-10",
+    "ip": "207.48.31.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit news mean. Approach suddenly weight room dinner not.\nTogether blue religious color present measure. Media response bag key finish truth wife. Person maybe how alone power.",
+        "bio": "Western teacher sit end lay send. May operation blood vote seek. Hope particular thank more."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
