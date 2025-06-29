@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Mills",
+    "age": 48,
+    "address": {
+        "street": "David Highway",
+        "city": "Jeffreyville",
+        "state": "Virginia",
+        "zip": "76494"
+    },
+    "contact": {
+        "phone": "001-460-614-2650x42484",
+        "servicePhone": "800490160"
+    },
+    "birthday": "1977-21-03",
+    "ip": "105.62.100.66",
+    "foo": "bar",
+    "profile": {
+        "about": "South yet purpose several. Side candidate color minute easy student.\nArea more wife along fear lot. Capital position cultural include and material each relationship.",
+        "bio": "Establish food stop recognize arrive about. Enough realize common Mr top usually no.\nReligious commercial old among. Happen along whom security help modern reflect everybody."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
