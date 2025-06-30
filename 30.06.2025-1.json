@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Briggs",
+    "age": 13,
+    "address": {
+        "street": "Hancock Island",
+        "city": "Mccoyborough",
+        "state": "Connecticut",
+        "zip": "38650"
+    },
+    "contact": {
+        "phone": "707-798-0295",
+        "servicePhone": "800936497"
+    },
+    "birthday": "2012-03-01",
+    "ip": "28.95.4.12",
+    "foo": "bar",
+    "profile": {
+        "about": "First soon behind him professional car without. Part mother truth ask crime far material. Also power structure economic character yes.",
+        "bio": "Score main lead million more yeah.\nWater back research base live Mr. Parent commercial meet partner professional draw record. Section race girl understand trip usually analysis soon."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
