@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Carpenter",
+    "age": 104,
+    "address": {
+        "street": "Peterson Rest",
+        "city": "Port Nicholeland",
+        "state": "South Dakota",
+        "zip": "22331"
+    },
+    "contact": {
+        "phone": "266-476-0762",
+        "servicePhone": "800761071"
+    },
+    "birthday": "1921-23-09",
+    "ip": "180.181.86.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Join drive own heavy if view practice. City machine mission seat. Point run card.",
+        "bio": "Late east sea. Teach sell which too source standard. Poor positive media everyone."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
