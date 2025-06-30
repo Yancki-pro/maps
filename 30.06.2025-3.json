@@ -1,0 +1,25 @@
+{
+    "name": "Meredith Jones",
+    "age": 34,
+    "address": {
+        "street": "Allen Crest",
+        "city": "Lake John",
+        "state": "South Dakota",
+        "zip": "10752"
+    },
+    "contact": {
+        "phone": "+1-769-516-9572",
+        "servicePhone": "800672767"
+    },
+    "birthday": "1991-14-04",
+    "ip": "158.242.184.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Color you energy pay western.\nDetermine ability plan then exist increase back. Wear family suggest.\nFree treat remain suddenly. Ground energy partner prevent matter. Job question peace floor rock.",
+        "bio": "Individual draw occur body plant. Draw through write he."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
