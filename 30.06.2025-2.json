@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Good",
+    "age": 103,
+    "address": {
+        "street": "Trevor Junctions",
+        "city": "Lake Rosetown",
+        "state": "Arkansas",
+        "zip": "50181"
+    },
+    "contact": {
+        "phone": "365.649.8468",
+        "servicePhone": "800417053"
+    },
+    "birthday": "1922-12-06",
+    "ip": "28.88.239.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Part do financial become. Floor situation rate court. Ago almost social middle avoid financial student.\nSince organization let sit fear fly staff. Crime keep its happen behavior course create.",
+        "bio": "Without later ability keep land police food tonight. However son think program theory car with. Plant international send agent practice ten."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
