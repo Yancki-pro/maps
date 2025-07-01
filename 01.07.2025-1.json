@@ -1,0 +1,25 @@
+{
+    "name": "Justin Patel",
+    "age": 44,
+    "address": {
+        "street": "Rose Land",
+        "city": "Bakerborough",
+        "state": "Colorado",
+        "zip": "04464"
+    },
+    "contact": {
+        "phone": "250-536-3912",
+        "servicePhone": "800378627"
+    },
+    "birthday": "1981-13-11",
+    "ip": "51.239.202.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious the four husband cover speech gun. Stay ask begin resource her before dark.\nVery think power Mrs across mouth. Local skin light cut cultural style care war.\nBank ball heavy its item simply.",
+        "bio": "Choice on necessary. We performance drug glass role down.\nWalk speech central night big offer task employee. Fact enter system the to. Low garden low task site."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
