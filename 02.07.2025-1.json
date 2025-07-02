@@ -1,0 +1,25 @@
+{
+    "name": "Henry Hogan",
+    "age": 90,
+    "address": {
+        "street": "Rebecca Fords",
+        "city": "East Phillip",
+        "state": "Alaska",
+        "zip": "09292"
+    },
+    "contact": {
+        "phone": "728-989-1296",
+        "servicePhone": "800063519"
+    },
+    "birthday": "1935-04-07",
+    "ip": "108.204.32.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour team middle in authority food. Morning air become energy. Sign maintain somebody case his among program different.\nWait air heart mission everything. Card line position sort key.",
+        "bio": "Trip and site side business drive me. If far seem its inside nation situation."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
