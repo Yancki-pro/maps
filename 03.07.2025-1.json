@@ -1,0 +1,25 @@
+{
+    "name": "Devon Bailey",
+    "age": 57,
+    "address": {
+        "street": "Sanchez Well",
+        "city": "West Kevin",
+        "state": "Florida",
+        "zip": "58165"
+    },
+    "contact": {
+        "phone": "597.642.8164x1878",
+        "servicePhone": "800982004"
+    },
+    "birthday": "1968-16-10",
+    "ip": "114.44.19.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge analysis benefit woman material real recognize. Not lose back without.",
+        "bio": "Store official now. Mission power since dark form who serve especially.\nRock treat watch tough bag material glass. Wall produce hope until feeling statement. Eye each quite red ever mouth."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
