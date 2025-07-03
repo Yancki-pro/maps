@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Park",
+    "age": 14,
+    "address": {
+        "street": "Chad Bridge",
+        "city": "Port Tommyberg",
+        "state": "Tennessee",
+        "zip": "50119"
+    },
+    "contact": {
+        "phone": "434.301.1248x31437",
+        "servicePhone": "800755642"
+    },
+    "birthday": "2011-28-05",
+    "ip": "163.6.127.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene data easy seven result ten gas. Democratic go role forget.",
+        "bio": "Medical traditional offer. Professor computer hold deep operation.\nRaise another the employee thank machine number. Newspaper create early speech house arm actually."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
