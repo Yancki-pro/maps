@@ -1,0 +1,25 @@
+{
+    "name": "Angela Perry",
+    "age": 0,
+    "address": {
+        "street": "Martin Crescent",
+        "city": "Port Craigport",
+        "state": "California",
+        "zip": "47004"
+    },
+    "contact": {
+        "phone": "938-282-0758",
+        "servicePhone": "800731508"
+    },
+    "birthday": "2025-01-05",
+    "ip": "35.139.178.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical degree trial resource story wind. Particular machine federal glass company physical.\nThemselves both candidate represent cost. Firm even form quite.",
+        "bio": "Yeah song pretty foot. You sing eye. Oil Republican read miss their dog.\nBrother true enough."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
