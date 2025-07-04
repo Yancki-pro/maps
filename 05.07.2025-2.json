@@ -1,0 +1,25 @@
+{
+    "name": "Jason Lee",
+    "age": 58,
+    "address": {
+        "street": "Kimberly Shore",
+        "city": "Lake Robin",
+        "state": "Colorado",
+        "zip": "52210"
+    },
+    "contact": {
+        "phone": "(699)422-6784x55354",
+        "servicePhone": "800734229"
+    },
+    "birthday": "1967-15-08",
+    "ip": "70.38.171.234",
+    "foo": "bar",
+    "profile": {
+        "about": "There meet daughter big. Only local draw walk million push. Mother mission operation attack use.\nNone thank poor nation evening machine. Return control ago fish range.",
+        "bio": "Agree allow form low specific. Capital high whom fill. Would modern mean guy little ago word.\nFront her prove receive popular grow. Prove just day leave."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
