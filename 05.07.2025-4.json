@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Lambert",
+    "age": 29,
+    "address": {
+        "street": "George Courts",
+        "city": "Lake Neilmouth",
+        "state": "New Jersey",
+        "zip": "47910"
+    },
+    "contact": {
+        "phone": "+1-882-256-1021x633",
+        "servicePhone": "800692059"
+    },
+    "birthday": "1996-27-03",
+    "ip": "206.177.143.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull audience bad degree hot record take. Only music provide show popular. Interesting audience ok other down century focus.\nPerform let fact mind page.",
+        "bio": "Fight like where. Value establish old very sell cost form teach. Adult we raise.\nWestern perhaps itself range. Democrat all detail month various learn baby."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
