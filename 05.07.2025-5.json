@@ -1,0 +1,25 @@
+{
+    "name": "Tara Taylor",
+    "age": 54,
+    "address": {
+        "street": "Cohen Ridge",
+        "city": "New Samanthahaven",
+        "state": "Florida",
+        "zip": "16352"
+    },
+    "contact": {
+        "phone": "001-900-374-0393x9931",
+        "servicePhone": "800561448"
+    },
+    "birthday": "1971-03-10",
+    "ip": "51.61.12.170",
+    "foo": "bar",
+    "profile": {
+        "about": "His hot simple name light break seem else.\nWindow activity chair very. Issue employee down so send share.",
+        "bio": "Same more whose tonight story sound base. Various turn book friend doctor. See doctor sing.\nFinally reflect popular fight professor member. Bag leave book sing clear. Image child care up."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
