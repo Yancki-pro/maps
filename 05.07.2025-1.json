@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Robbins",
+    "age": 29,
+    "address": {
+        "street": "Burnett Ville",
+        "city": "Millershire",
+        "state": "Montana",
+        "zip": "91692"
+    },
+    "contact": {
+        "phone": "001-646-345-8844x2088",
+        "servicePhone": "800405721"
+    },
+    "birthday": "1996-04-02",
+    "ip": "21.198.170.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital up run side gas. Available green ahead eye establish book each ago. Sometimes eye ten return time item.",
+        "bio": "More generation north mouth. Among toward listen authority teach.\nConcern call a physical name break but. Card four skin let language church."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
