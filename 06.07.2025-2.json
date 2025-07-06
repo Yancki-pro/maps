@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Bradley",
+    "age": 13,
+    "address": {
+        "street": "Russell Canyon",
+        "city": "Marcshire",
+        "state": "Utah",
+        "zip": "69560"
+    },
+    "contact": {
+        "phone": "(322)580-4302x807",
+        "servicePhone": "800570221"
+    },
+    "birthday": "2012-08-12",
+    "ip": "199.230.226.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Live machine character mother list.\nThroughout north include plan surface keep why. How city ahead enter child production bad.",
+        "bio": "She beat issue party owner. Collection on audience probably their whatever late reflect."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
