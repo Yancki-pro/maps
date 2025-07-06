@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Alvarez",
+    "age": 60,
+    "address": {
+        "street": "Garcia Light",
+        "city": "Nicholasfort",
+        "state": "Wyoming",
+        "zip": "97666"
+    },
+    "contact": {
+        "phone": "466.906.1368",
+        "servicePhone": "800014740"
+    },
+    "birthday": "1965-03-10",
+    "ip": "130.220.231.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Remember may nothing policy him early. Ahead trip hard standard some security green.\nCard partner product game window.",
+        "bio": "Operation behind officer. Positive after system life run policy behavior best. Around within black born establish list."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
