@@ -1,0 +1,25 @@
+{
+    "name": "Yolanda Martin",
+    "age": 55,
+    "address": {
+        "street": "Duran Alley",
+        "city": "Hernandezland",
+        "state": "Montana",
+        "zip": "23238"
+    },
+    "contact": {
+        "phone": "+1-665-316-7332x64037",
+        "servicePhone": "800823365"
+    },
+    "birthday": "1970-27-05",
+    "ip": "55.163.200.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Management fall fight difficult task east important particularly. Or over decision nothing. Lot scientist road add.\nMovement soon available rate. None heavy arm employee.",
+        "bio": "Administration describe certain. Practice speech draw effort PM.\nService at wrong Mrs. Group word address woman much. Central draw significant arm environment will fly. No as then main course."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
