@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Martin",
+    "age": 95,
+    "address": {
+        "street": "West Prairie",
+        "city": "New Amandafurt",
+        "state": "California",
+        "zip": "59597"
+    },
+    "contact": {
+        "phone": "(253)447-0241",
+        "servicePhone": "800154335"
+    },
+    "birthday": "1930-11-03",
+    "ip": "118.219.138.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Budget pull need society. Ever focus face determine your guess.\nHeart any clearly if dark political. Believe effect provide write nor instead life game. More sure day make break thank road.",
+        "bio": "Treat leader material fear quality say management. Responsibility dream sell person parent build. Off allow indeed say save."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
