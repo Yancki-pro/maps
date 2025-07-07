@@ -1,0 +1,25 @@
+{
+    "name": "Angela Price",
+    "age": 72,
+    "address": {
+        "street": "Jenkins Route",
+        "city": "Beckland",
+        "state": "Alabama",
+        "zip": "97564"
+    },
+    "contact": {
+        "phone": "001-296-497-0216x35958",
+        "servicePhone": "800901906"
+    },
+    "birthday": "1953-06-09",
+    "ip": "77.165.222.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe agency fine without major talk deep. In radio after out probably church ball. Project sister likely left clearly pull.",
+        "bio": "Near type lose throw chance Mr market. Report from even red simple worry.\nEnough tell manage several. Help decision top hit. Time respond off support kid question offer prove."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
