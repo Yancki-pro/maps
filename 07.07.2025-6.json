@@ -1,0 +1,25 @@
+{
+    "name": "Jake Sanchez",
+    "age": 24,
+    "address": {
+        "street": "Glover Pines",
+        "city": "Lake Nicoleland",
+        "state": "Nebraska",
+        "zip": "94615"
+    },
+    "contact": {
+        "phone": "920-711-8559",
+        "servicePhone": "800477661"
+    },
+    "birthday": "2001-07-10",
+    "ip": "59.68.108.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Four check paper image write. True debate system middle federal.\nLand everybody want. Practice certain serious imagine change military measure benefit.",
+        "bio": "Section room by any ready. Building everybody serious media able human fear government.\nRest suggest off appear."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
