@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Owens",
+    "age": 21,
+    "address": {
+        "street": "Leslie Mill",
+        "city": "West Kyle",
+        "state": "New Hampshire",
+        "zip": "98038"
+    },
+    "contact": {
+        "phone": "+1-736-505-5032x24025",
+        "servicePhone": "800995150"
+    },
+    "birthday": "2004-24-10",
+    "ip": "91.183.89.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred even body improve them movement. Summer think pass city first accept. Finish police effect word cover. Note in mean oil current compare ball former.",
+        "bio": "Fast treatment to cultural author first small. Fear population assume language everyone. Direction receive myself wonder shoulder today."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
