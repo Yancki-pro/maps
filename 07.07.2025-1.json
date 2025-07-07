@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Lewis",
+    "age": 22,
+    "address": {
+        "street": "David Trafficway",
+        "city": "Lake Debra",
+        "state": "Minnesota",
+        "zip": "06125"
+    },
+    "contact": {
+        "phone": "451-520-2753x58808",
+        "servicePhone": "800332193"
+    },
+    "birthday": "2003-16-09",
+    "ip": "72.79.181.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat live building study stock. Stop will news color over agent pull only.",
+        "bio": "International address region data. Life four begin a step thousand. Anything night between system including expect see group."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
