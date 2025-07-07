@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Esparza",
+    "age": 77,
+    "address": {
+        "street": "Andrew Locks",
+        "city": "Port Andrew",
+        "state": "New Jersey",
+        "zip": "01049"
+    },
+    "contact": {
+        "phone": "(637)691-3490x409",
+        "servicePhone": "800690815"
+    },
+    "birthday": "1948-19-12",
+    "ip": "187.193.162.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Just significant sound stay thus weight local check. Risk yard fill.\nNecessary attention military defense important. Product carry expert travel. Evening significant western store sort.",
+        "bio": "Baby bad group short staff appear religious. Happy too democratic performance term occur. And western cultural discussion travel strong blood."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
