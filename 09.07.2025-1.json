@@ -1,0 +1,25 @@
+{
+    "name": "Michael Price",
+    "age": 30,
+    "address": {
+        "street": "Wang Views",
+        "city": "Sawyerland",
+        "state": "New Hampshire",
+        "zip": "43144"
+    },
+    "contact": {
+        "phone": "2256765474",
+        "servicePhone": "800426011"
+    },
+    "birthday": "1995-10-07",
+    "ip": "195.158.74.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Response week ground network. Worker these media current.\nSend north PM left field physical. Peace goal situation you history free. Get officer science second which difficult answer.",
+        "bio": "State direction from trouble. Need food where push quite above base. Artist both east tell before.\nUp effect social.\nRemain maintain major follow language rich note serious."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
