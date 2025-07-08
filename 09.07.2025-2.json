@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlin Rivera",
+    "age": 4,
+    "address": {
+        "street": "Erin Glen",
+        "city": "Chrishaven",
+        "state": "Wisconsin",
+        "zip": "07145"
+    },
+    "contact": {
+        "phone": "001-203-823-2393",
+        "servicePhone": "800877550"
+    },
+    "birthday": "2021-13-02",
+    "ip": "153.138.38.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Near page special whose away energy anything look. Image term hard performance force. Especially during whose.\nTalk great one talk natural cut provide people. Soldier miss able onto.",
+        "bio": "Serious age magazine here certainly pretty music three. Particular represent hour. Look woman star system marriage.\nKnow movement finally three key. Yes card watch bed leave make."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
