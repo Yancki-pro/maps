@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Hill",
+    "age": 56,
+    "address": {
+        "street": "Joshua Ramp",
+        "city": "Lake Craig",
+        "state": "Idaho",
+        "zip": "30669"
+    },
+    "contact": {
+        "phone": "(718)430-3707x3148",
+        "servicePhone": "800343089"
+    },
+    "birthday": "1969-06-10",
+    "ip": "33.99.49.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Local physical difference account ball. Benefit never and.\nSomebody product inside shoulder. Left end ability use whose score author. Study world song painting.",
+        "bio": "Sport attorney Mr able method. Take old medical air church trouble beat.\nBreak choose really establish. Experience set sit forward impact. Against remain so stage continue."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
