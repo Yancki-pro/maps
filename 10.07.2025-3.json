@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Lowery",
+    "age": 95,
+    "address": {
+        "street": "Stacy Villages",
+        "city": "Eatonfurt",
+        "state": "Arizona",
+        "zip": "57052"
+    },
+    "contact": {
+        "phone": "933-811-0864x123",
+        "servicePhone": "800152343"
+    },
+    "birthday": "1930-13-02",
+    "ip": "30.239.30.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove product at computer. Century quite letter free husband. Ability admit run beyond lot her. Inside important term whom shoulder meet play.",
+        "bio": "Student board participant something summer teacher. Media game arm follow.\nWant pick play fine wide. Environment sort set memory chair although such field. Hot main them crime."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
