@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Wade",
+    "age": 56,
+    "address": {
+        "street": "Cook Neck",
+        "city": "West Melody",
+        "state": "Iowa",
+        "zip": "66562"
+    },
+    "contact": {
+        "phone": "262.591.9295",
+        "servicePhone": "800995667"
+    },
+    "birthday": "1969-18-06",
+    "ip": "24.161.223.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Land sense kitchen top never international door. Attack boy everything by. Travel gas director expert for this attack.",
+        "bio": "Business loss vote who market. Hit hear scene stand population size fall. Pretty what everything hand office democratic need sign."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
