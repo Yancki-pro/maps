@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Phillips",
+    "age": 21,
+    "address": {
+        "street": "Blevins Motorway",
+        "city": "South Melissaburgh",
+        "state": "Mississippi",
+        "zip": "87607"
+    },
+    "contact": {
+        "phone": "(403)297-1062",
+        "servicePhone": "800477044"
+    },
+    "birthday": "2004-19-07",
+    "ip": "36.219.139.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration government deal season though range mission. Current choose beyond development along fact customer. All born kind study window.",
+        "bio": "List answer ok word phone. Pretty work experience perhaps position hope similar top."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
