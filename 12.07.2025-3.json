@@ -1,0 +1,25 @@
+{
+    "name": "Belinda Rodgers",
+    "age": 7,
+    "address": {
+        "street": "Kimberly Glens",
+        "city": "Morganton",
+        "state": "Minnesota",
+        "zip": "84057"
+    },
+    "contact": {
+        "phone": "(978)372-4642x9605",
+        "servicePhone": "800465823"
+    },
+    "birthday": "2018-03-12",
+    "ip": "162.65.187.184",
+    "foo": "bar",
+    "profile": {
+        "about": "None religious wait game threat stay wear. Western throughout hear level.",
+        "bio": "Experience rock morning simple account race popular.\nSuch half plan them address. Arrive lay hundred message top structure. Big front front third security."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
