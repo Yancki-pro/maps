@@ -1,0 +1,25 @@
+{
+    "name": "Peter Grant",
+    "age": 85,
+    "address": {
+        "street": "Golden Valley",
+        "city": "West Mariabury",
+        "state": "California",
+        "zip": "07543"
+    },
+    "contact": {
+        "phone": "(491)737-0093x265",
+        "servicePhone": "800289177"
+    },
+    "birthday": "1940-24-02",
+    "ip": "7.229.133.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer some financial ball organization other.\nSing health paper exactly. Upon risk site call. Term or drug process run maybe there.",
+        "bio": "Worker ability hold vote often professional million. Soon plan too field participant move. Effort difficult stuff have."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
