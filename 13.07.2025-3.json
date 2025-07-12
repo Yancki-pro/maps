@@ -1,0 +1,25 @@
+{
+    "name": "Tracey Davis",
+    "age": 98,
+    "address": {
+        "street": "Tyler Cape",
+        "city": "Harrisonville",
+        "state": "Arkansas",
+        "zip": "80130"
+    },
+    "contact": {
+        "phone": "(457)926-8936x0350",
+        "servicePhone": "800014209"
+    },
+    "birthday": "1927-16-05",
+    "ip": "200.117.183.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation follow happen executive history condition avoid. Smile finally take one. Total radio Mr almost physical.\nCup say modern half. Its name argue use I type.",
+        "bio": "Likely five these property. During quality finally hair wife son.\nChance explain book local set. Political always popular picture area when movie they. Bed key particular main."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
