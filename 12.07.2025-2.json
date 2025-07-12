@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Murphy",
+    "age": 14,
+    "address": {
+        "street": "Meyer Heights",
+        "city": "Harrisville",
+        "state": "North Carolina",
+        "zip": "11909"
+    },
+    "contact": {
+        "phone": "215-729-2249",
+        "servicePhone": "800476118"
+    },
+    "birthday": "2011-01-08",
+    "ip": "86.114.172.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Low town along various. Involve traditional from already.\nCould thing across at same. Mr economic budget management.\nPersonal role common charge low ago pay.",
+        "bio": "Single other people without base learn notice. Benefit sport although should on find film. Seem reason establish while."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
