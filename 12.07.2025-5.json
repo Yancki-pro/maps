@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Cole",
+    "age": 49,
+    "address": {
+        "street": "Brianna Mews",
+        "city": "South Michael",
+        "state": "West Virginia",
+        "zip": "06873"
+    },
+    "contact": {
+        "phone": "+1-563-309-3284x45007",
+        "servicePhone": "800838886"
+    },
+    "birthday": "1976-01-07",
+    "ip": "88.19.147.133",
+    "foo": "bar",
+    "profile": {
+        "about": "National beautiful if clear. East morning third around. West least west bag.\nCollection she recently. Realize kind remember fight black space employee four.",
+        "bio": "Goal statement high world health. Coach police turn try try prove experience. Type whom civil of.\nFall week include pay in early war. Either improve sign woman career."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
