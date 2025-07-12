@@ -1,0 +1,25 @@
+{
+    "name": "Richard Maddox",
+    "age": 59,
+    "address": {
+        "street": "Juarez Gardens",
+        "city": "Reginaldhaven",
+        "state": "South Carolina",
+        "zip": "96607"
+    },
+    "contact": {
+        "phone": "765.741.0867",
+        "servicePhone": "800827356"
+    },
+    "birthday": "1966-16-02",
+    "ip": "158.158.245.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan through campaign analysis hold. Event right many group before. Wide important this single assume note.\nManager sit recognize business rate task third. As TV every apply sure.",
+        "bio": "Foot western lose kid firm amount while. Leader for in perhaps wish what. Within animal machine you institution husband. Defense minute past remain special great.\nCollection impact money me."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
