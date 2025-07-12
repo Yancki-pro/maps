@@ -1,0 +1,25 @@
+{
+    "name": "Philip Johnson",
+    "age": 103,
+    "address": {
+        "street": "Troy River",
+        "city": "Jenniferchester",
+        "state": "Virginia",
+        "zip": "03286"
+    },
+    "contact": {
+        "phone": "001-231-404-1957x30787",
+        "servicePhone": "800784200"
+    },
+    "birthday": "1922-01-05",
+    "ip": "197.38.84.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Place meet of glass walk anything.\nPlace us executive everybody plant eye. Five military politics adult.",
+        "bio": "Rich early first often fire you. Tonight model language enjoy.\nWestern sit sort not worker smile hit. Chair necessary game with close. Child participant face ok mention effect."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
