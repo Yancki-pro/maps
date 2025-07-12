@@ -1,0 +1,25 @@
+{
+    "name": "Brian Huffman",
+    "age": 6,
+    "address": {
+        "street": "Chavez Forges",
+        "city": "Daniellefort",
+        "state": "Iowa",
+        "zip": "89664"
+    },
+    "contact": {
+        "phone": "001-254-996-6496x2126",
+        "servicePhone": "800882054"
+    },
+    "birthday": "2019-31-01",
+    "ip": "12.204.94.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Population animal evidence air. Cell view executive soldier.\nBox cause before land. Market this base figure.\nSkin five as tough unit administration. Toward effect hand its close reality.",
+        "bio": "Rate manager hand poor for beyond. Condition beyond deep unit make conference bar. Read show southern pick but.\nStep generation include reason score remain change. Message sea discussion analysis."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
