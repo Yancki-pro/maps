@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Clark",
+    "age": 11,
+    "address": {
+        "street": "Ruiz View",
+        "city": "Murrayborough",
+        "state": "Pennsylvania",
+        "zip": "20427"
+    },
+    "contact": {
+        "phone": "301-588-1162x4286",
+        "servicePhone": "800712613"
+    },
+    "birthday": "2014-24-06",
+    "ip": "153.94.55.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Either leader think director lose continue. Music every or performance.\nTrouble tonight that pattern push still. Huge without together some smile draw. Term stay professor left rate.",
+        "bio": "Service pretty fight according second crime outside. Free hair performance a have. Career star line customer trouble strategy.\nGarden animal million technology. Section agent heart occur good staff."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
