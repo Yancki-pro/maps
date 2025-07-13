@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Dunlap",
+    "age": 74,
+    "address": {
+        "street": "Johnston Ville",
+        "city": "Williamside",
+        "state": "Alaska",
+        "zip": "99915"
+    },
+    "contact": {
+        "phone": "001-266-424-0670x449",
+        "servicePhone": "800511001"
+    },
+    "birthday": "1951-06-11",
+    "ip": "176.70.53.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Main need information technology agency. Smile here somebody senior return member. Onto would professor success.",
+        "bio": "Shoulder blue attorney improve. View kind trade artist opportunity local artist. In happy he center. Admit enjoy one you recent."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
