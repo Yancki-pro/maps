@@ -1,0 +1,25 @@
+{
+    "name": "William Jackson",
+    "age": 66,
+    "address": {
+        "street": "Heather Manor",
+        "city": "Port John",
+        "state": "New Jersey",
+        "zip": "00903"
+    },
+    "contact": {
+        "phone": "001-675-525-5578x103",
+        "servicePhone": "800679793"
+    },
+    "birthday": "1959-25-03",
+    "ip": "15.68.246.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity cup miss write want scene positive military. Style population factor age where laugh. Raise improve statement foreign continue serve.",
+        "bio": "Drug matter within trial. Bring stay people yourself effect turn investment weight. Where treatment almost leader guy agree road ten."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
