@@ -1,0 +1,25 @@
+{
+    "name": "David Stokes",
+    "age": 106,
+    "address": {
+        "street": "Rivera Hollow",
+        "city": "Krystaltown",
+        "state": "Wisconsin",
+        "zip": "73921"
+    },
+    "contact": {
+        "phone": "(232)750-2887x1432",
+        "servicePhone": "800703202"
+    },
+    "birthday": "1919-14-07",
+    "ip": "54.58.252.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak scientist should career wonder. Begin indeed maintain way energy follow cold cover. Quickly foot my computer peace.",
+        "bio": "Rule oil if learn rise interesting. Language agree exist age billion Republican move. Image notice during itself improve.\nLawyer military top produce down. Police once recently bad east know nor."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
