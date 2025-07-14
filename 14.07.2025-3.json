@@ -1,0 +1,25 @@
+{
+    "name": "Peggy Barker",
+    "age": 56,
+    "address": {
+        "street": "Edwards Roads",
+        "city": "Herringbury",
+        "state": "Pennsylvania",
+        "zip": "18405"
+    },
+    "contact": {
+        "phone": "760-771-1551x42251",
+        "servicePhone": "800758196"
+    },
+    "birthday": "1969-02-08",
+    "ip": "152.189.189.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind probably guy lose because central very. Use off also into top field.\nPolicy for pressure ever turn wife side number. Accept strategy character sign first trial.",
+        "bio": "Letter arm study ago manager wife mind. Weight chair significant turn floor news. Owner board million ok on wife."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
