@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Padilla Jr.",
+    "age": 85,
+    "address": {
+        "street": "Andrew Stream",
+        "city": "Lake Jesseborough",
+        "state": "North Dakota",
+        "zip": "85240"
+    },
+    "contact": {
+        "phone": "3526741618",
+        "servicePhone": "800629559"
+    },
+    "birthday": "1940-07-08",
+    "ip": "115.40.44.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Population point around whom one. Later oil dog worry. New environment make old market admit.\nMiss seek southern sign serve specific. Future most design. Deal specific step eat even beyond.",
+        "bio": "Color hit still century life positive. Suffer back trouble dream ok. Vote Congress season get."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
