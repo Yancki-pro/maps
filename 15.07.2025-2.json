@@ -1,0 +1,25 @@
+{
+    "name": "Amy Price",
+    "age": 53,
+    "address": {
+        "street": "Brandy Island",
+        "city": "Robertview",
+        "state": "Colorado",
+        "zip": "29474"
+    },
+    "contact": {
+        "phone": "785.581.4630",
+        "servicePhone": "800732129"
+    },
+    "birthday": "1972-28-06",
+    "ip": "131.136.100.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Their close car grow who bring according. Drive arm yes rest these whether front field.\nRealize few service nature artist hold sound. Light entire however later.",
+        "bio": "Stay should even rest together. Point report nation week hundred plan. Affect point possible between mention common call."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
