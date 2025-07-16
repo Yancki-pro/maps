@@ -1,0 +1,25 @@
+{
+    "name": "Greg Smith",
+    "age": 0,
+    "address": {
+        "street": "Cynthia Vista",
+        "city": "Richardsonfort",
+        "state": "Texas",
+        "zip": "09949"
+    },
+    "contact": {
+        "phone": "8622929535",
+        "servicePhone": "800784529"
+    },
+    "birthday": "2025-31-07",
+    "ip": "220.192.248.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Early oil matter argue catch might. War race town.\nDo total green choose. Information staff do quite within.\nCapital writer lay account laugh.",
+        "bio": "Game control next body foot. Set low individual especially stand image."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
