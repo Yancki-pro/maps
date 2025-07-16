@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Rocha",
+    "age": 69,
+    "address": {
+        "street": "Henry Land",
+        "city": "Port Lisaburgh",
+        "state": "Rhode Island",
+        "zip": "93644"
+    },
+    "contact": {
+        "phone": "001-844-871-5429",
+        "servicePhone": "800374673"
+    },
+    "birthday": "1956-27-03",
+    "ip": "56.69.175.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Show strong style behind simply make. Theory have analysis financial today.\nMachine nature especially event. Left hard plant reason thousand road.",
+        "bio": "Inside her only relationship population away. Out few prevent dog back accept.\nWant strong store situation campaign investment share garden. Story question ground third opportunity member."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
