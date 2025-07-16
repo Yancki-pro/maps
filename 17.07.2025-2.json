@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Sullivan",
+    "age": 86,
+    "address": {
+        "street": "Downs Fort",
+        "city": "East Linda",
+        "state": "Nevada",
+        "zip": "18703"
+    },
+    "contact": {
+        "phone": "001-319-459-0488x50447",
+        "servicePhone": "800599748"
+    },
+    "birthday": "1939-17-01",
+    "ip": "41.170.118.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight situation on group study sell not. Degree toward music argue often wrong clearly.\nStrong question manage play drug amount. Yet probably guess experience technology knowledge.",
+        "bio": "Try usually response only long spend. Eight other mission responsibility story. Arrive hear for leg.\nInvestment less budget reflect specific probably whom."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
