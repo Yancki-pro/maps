@@ -1,0 +1,25 @@
+{
+    "name": "Evan Raymond",
+    "age": 112,
+    "address": {
+        "street": "Rodgers Crest",
+        "city": "Davidport",
+        "state": "Rhode Island",
+        "zip": "09885"
+    },
+    "contact": {
+        "phone": "374-647-8336",
+        "servicePhone": "800375071"
+    },
+    "birthday": "1913-04-10",
+    "ip": "20.136.249.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend fight science store. Seem without fish bill.\nAgency only church until. Effect tend country stand. Have answer line material.",
+        "bio": "Past explain soon individual enter unit media. Quality continue realize surface girl federal him."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
