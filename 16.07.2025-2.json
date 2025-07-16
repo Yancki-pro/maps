@@ -1,0 +1,25 @@
+{
+    "name": "Carol Melendez",
+    "age": 22,
+    "address": {
+        "street": "Michelle Court",
+        "city": "West Bryan",
+        "state": "Rhode Island",
+        "zip": "34562"
+    },
+    "contact": {
+        "phone": "(827)376-1507",
+        "servicePhone": "800535405"
+    },
+    "birthday": "2003-02-07",
+    "ip": "73.64.132.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior three account property do member strategy. Answer tax everyone become improve phone development. Factor production with quality. Manage like trade.",
+        "bio": "Stage never above wife. Computer ability threat poor computer per read. Series real language despite operation.\nAway the almost them church. Eat soon compare compare music."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
