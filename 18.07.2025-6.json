@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Hunt",
+    "age": 21,
+    "address": {
+        "street": "Michael Flat",
+        "city": "Burnsborough",
+        "state": "Alabama",
+        "zip": "94818"
+    },
+    "contact": {
+        "phone": "744-583-0208x6702",
+        "servicePhone": "800203306"
+    },
+    "birthday": "2004-28-03",
+    "ip": "188.60.203.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid no side miss and detail last. Change speech live indicate interesting. Bit again more modern serve lead water.",
+        "bio": "Worker election thank land table. Cut news part better.\nSure condition anything business avoid claim. Less really offer hope.\nDecide return rule several. Break enjoy form coach page."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
