@@ -1,0 +1,25 @@
+{
+    "name": "Mark Rogers",
+    "age": 88,
+    "address": {
+        "street": "Rose Port",
+        "city": "Sarahhaven",
+        "state": "New Hampshire",
+        "zip": "49262"
+    },
+    "contact": {
+        "phone": "257.745.8594x662",
+        "servicePhone": "800743242"
+    },
+    "birthday": "1937-24-03",
+    "ip": "140.203.177.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean college my.\nDo true wish state mouth. Feeling more within stage everyone. Professional always benefit else.\nTake federal nearly watch. Allow against first painting indicate second go.",
+        "bio": "Measure wear lose service. Commercial TV yes pressure security. Likely affect which professor apply.\nHusband vote focus fish involve a pass. Fall system sign technology."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
