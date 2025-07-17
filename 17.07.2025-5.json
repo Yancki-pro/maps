@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Smith",
+    "age": 5,
+    "address": {
+        "street": "Christopher Corners",
+        "city": "South Bradley",
+        "state": "Pennsylvania",
+        "zip": "71422"
+    },
+    "contact": {
+        "phone": "403.720.6023x21196",
+        "servicePhone": "800141252"
+    },
+    "birthday": "2020-06-06",
+    "ip": "97.141.42.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech claim often five old. Star while throughout space recent conference.\nCharacter action office claim it garden. Ok risk know morning center.",
+        "bio": "Model see property meeting. Trial scientist forward try somebody.\nLay good political discussion newspaper. Available heavy size either state at response. Production back true partner executive."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
