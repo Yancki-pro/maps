@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn May",
+    "age": 73,
+    "address": {
+        "street": "Cristian Prairie",
+        "city": "West Amandatown",
+        "state": "Utah",
+        "zip": "98807"
+    },
+    "contact": {
+        "phone": "7683407819",
+        "servicePhone": "800700542"
+    },
+    "birthday": "1952-17-03",
+    "ip": "66.79.209.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation hard anything process job. Vote medical exactly turn it product reduce just. Happy soldier wonder loss test institution.",
+        "bio": "Particular them Congress whom. Run there light despite rest. Even marriage deep would wind.\nCoach future alone future. Lead bill mouth piece hotel season expect."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
