@@ -1,0 +1,25 @@
+{
+    "name": "William Vargas",
+    "age": 80,
+    "address": {
+        "street": "Jessica Isle",
+        "city": "Maryview",
+        "state": "Oklahoma",
+        "zip": "54184"
+    },
+    "contact": {
+        "phone": "001-650-720-8085x931",
+        "servicePhone": "800826422"
+    },
+    "birthday": "1945-13-09",
+    "ip": "81.97.17.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority pattern dinner coach I. Cultural response cultural win news. American well live company fear.\nAdmit score message safe recent. Very strong letter rule.",
+        "bio": "Break note writer coach skill specific.\nExpect serious success learn beyond record. Look accept building pull already least stock. State place mother western."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
