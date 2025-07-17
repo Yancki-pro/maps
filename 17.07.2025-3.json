@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Wood",
+    "age": 90,
+    "address": {
+        "street": "Chavez Well",
+        "city": "North Eric",
+        "state": "Alaska",
+        "zip": "97229"
+    },
+    "contact": {
+        "phone": "830-575-6924",
+        "servicePhone": "800465347"
+    },
+    "birthday": "1935-22-08",
+    "ip": "141.22.11.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject claim ask campaign likely yes far. Where quite decide well.\nRange over mention check unit president three.\nConsumer hand history nature including general pass.\nPerhaps take modern ready.",
+        "bio": "Time movie week during thing. Edge reveal those. Message its agency.\nMrs push site total value. Quickly building participant end manager likely. Early buy general already speak security establish."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
