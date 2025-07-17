@@ -1,0 +1,25 @@
+{
+    "name": "Mason Wilson",
+    "age": 28,
+    "address": {
+        "street": "Ana Trace",
+        "city": "Patelmouth",
+        "state": "Arkansas",
+        "zip": "55786"
+    },
+    "contact": {
+        "phone": "213.254.1753x7725",
+        "servicePhone": "800790727"
+    },
+    "birthday": "1997-21-09",
+    "ip": "110.70.135.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Account prevent medical church century quite. Teach as our amount everything allow data. Want media direction between seek attack lawyer.",
+        "bio": "Political interview individual. Talk why continue nearly. Less former enough try measure. Several energy power image."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
