@@ -1,0 +1,25 @@
+{
+    "name": "Laurie Wright",
+    "age": 56,
+    "address": {
+        "street": "Amy Junctions",
+        "city": "South Victoriamouth",
+        "state": "Arkansas",
+        "zip": "66833"
+    },
+    "contact": {
+        "phone": "(899)724-2544",
+        "servicePhone": "800389638"
+    },
+    "birthday": "1969-27-03",
+    "ip": "94.90.158.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Least picture scene create civil. Talk forward hope. Become less ok increase reach.\nGround all what question cultural tend.\nLaw standard week red on experience visit.",
+        "bio": "Wife painting century movement during enough choose letter. Feel available bring goal rather. Available why daughter simple century car."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
