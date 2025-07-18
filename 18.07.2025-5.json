@@ -1,0 +1,25 @@
+{
+    "name": "Amy Griffin",
+    "age": 0,
+    "address": {
+        "street": "Wyatt Extensions",
+        "city": "Spencershire",
+        "state": "Maryland",
+        "zip": "82114"
+    },
+    "contact": {
+        "phone": "+1-404-968-4992x02028",
+        "servicePhone": "800803645"
+    },
+    "birthday": "2025-17-09",
+    "ip": "3.110.49.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent letter serve medical. Best happy various than. Animal break prove site speak.\nScene own heart result art close support loss. Sister seek beautiful economy maybe population might.",
+        "bio": "Wish ten almost. Treat interesting mean allow performance.\nRisk office organization decision. We try if arrive.\nFriend until sound town. All new act quite idea mean new determine."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
