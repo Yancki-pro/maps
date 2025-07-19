@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Scott",
+    "age": 85,
+    "address": {
+        "street": "Goodman Trail",
+        "city": "Michaelberg",
+        "state": "Idaho",
+        "zip": "92483"
+    },
+    "contact": {
+        "phone": "001-749-570-8424x82257",
+        "servicePhone": "800409502"
+    },
+    "birthday": "1940-11-01",
+    "ip": "44.28.171.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold study as citizen college. Indicate camera reveal often. Against out state threat.\nFast five whom. Many stand number have ten. Suffer pretty anyone try service who.",
+        "bio": "Scene billion must character. Thus each more gas admit soldier four. Local outside natural degree.\nBlack father send. Go they return keep federal.\nRisk find tree use. List culture name water."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
