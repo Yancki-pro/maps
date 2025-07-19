@@ -1,0 +1,25 @@
+{
+    "name": "Linda Simmons",
+    "age": 15,
+    "address": {
+        "street": "Sandy Extension",
+        "city": "Orrton",
+        "state": "Ohio",
+        "zip": "98845"
+    },
+    "contact": {
+        "phone": "401.738.3332",
+        "servicePhone": "800736082"
+    },
+    "birthday": "2010-15-08",
+    "ip": "11.164.165.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Design college important admit. Choice exactly military people be newspaper.\nThing growth themselves art through. Choice according east.",
+        "bio": "Crime they action majority student painting. Go crime glass enjoy surface visit. On source guy attention some television gas.\nLose speak candidate watch send will pull. Billion world happy."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
