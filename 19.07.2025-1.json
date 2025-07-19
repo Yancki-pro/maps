@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Fleming",
+    "age": 65,
+    "address": {
+        "street": "Guerra Plains",
+        "city": "Lake Lauren",
+        "state": "Florida",
+        "zip": "10156"
+    },
+    "contact": {
+        "phone": "+1-284-424-8916x32362",
+        "servicePhone": "800155041"
+    },
+    "birthday": "1960-04-04",
+    "ip": "164.73.133.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Score possible contain my. Age onto memory success agree spend law assume. Me agreement doctor subject course.",
+        "bio": "Form according such show place receive. Student life read government clear.\nTable idea beautiful sport serve. Seek away tree evening so appear nearly media. World rule and foot."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
