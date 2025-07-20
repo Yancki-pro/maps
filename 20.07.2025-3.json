@@ -1,0 +1,25 @@
+{
+    "name": "Scott Ho",
+    "age": 64,
+    "address": {
+        "street": "Bowen Junctions",
+        "city": "Quinnfort",
+        "state": "Alabama",
+        "zip": "39714"
+    },
+    "contact": {
+        "phone": "878.295.6679",
+        "servicePhone": "800519776"
+    },
+    "birthday": "1961-29-08",
+    "ip": "86.166.203.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Me attack north quality you off. Wide event gun any may. Rather allow rate task blood.\nThree win discover power successful within. No address light. Capital argue discussion prevent itself increase.",
+        "bio": "Result source everybody power last air manager lot. Our us floor arrive. Item reality before moment.\nBe involve bag practice. Reach notice shake trial page. Participant might their fire."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
