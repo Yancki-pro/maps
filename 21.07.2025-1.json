@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Davis",
+    "age": 73,
+    "address": {
+        "street": "Elliott Club",
+        "city": "East Amy",
+        "state": "Ohio",
+        "zip": "99090"
+    },
+    "contact": {
+        "phone": "(428)879-3272",
+        "servicePhone": "800332947"
+    },
+    "birthday": "1952-27-01",
+    "ip": "29.62.220.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Value whatever cell single all it. Case stay beautiful throw kid animal seat. Follow ground walk black.",
+        "bio": "Improve their knowledge. Every quality bank surface how. Huge professional reduce foot. Key measure skin nation."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
