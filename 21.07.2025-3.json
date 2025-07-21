@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Palmer",
+    "age": 113,
+    "address": {
+        "street": "Jonathan Greens",
+        "city": "North Michael",
+        "state": "Rhode Island",
+        "zip": "80442"
+    },
+    "contact": {
+        "phone": "509-626-9454",
+        "servicePhone": "800943576"
+    },
+    "birthday": "1912-02-12",
+    "ip": "27.181.23.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive manage important wait fight. Station central shoulder task particularly. Together since thank avoid.\nSource price article century spend why.",
+        "bio": "Trade rule cover save by focus. Such expect thus sell imagine leg.\nBook do student but successful. Various without type particularly."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
