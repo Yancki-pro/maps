@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Manning",
+    "age": 78,
+    "address": {
+        "street": "Hooper Prairie",
+        "city": "South Alexandra",
+        "state": "Delaware",
+        "zip": "83531"
+    },
+    "contact": {
+        "phone": "+1-435-774-5903",
+        "servicePhone": "800484545"
+    },
+    "birthday": "1947-11-09",
+    "ip": "198.209.21.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Group clear special same anyone quite herself.\nCompare movement fund you season window memory. Water best us finish new. Interest surface which whatever.",
+        "bio": "Machine American government follow type keep. Deal what end ask. Painting dark glass into church kitchen eye.\nListen hope at that up even report none. Stop side not late eight computer."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
