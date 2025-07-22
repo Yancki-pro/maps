@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Luna",
+    "age": 83,
+    "address": {
+        "street": "Robert Loop",
+        "city": "Foxshire",
+        "state": "Kentucky",
+        "zip": "39140"
+    },
+    "contact": {
+        "phone": "448-522-0784x61421",
+        "servicePhone": "800511336"
+    },
+    "birthday": "1942-17-03",
+    "ip": "190.10.157.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle attack month support father father.\nAdmit left politics light put right. Idea place east yeah speak.",
+        "bio": "Follow star material ready commercial item. Research south again that challenge account.\nUse religious fact read. Plan parent whose join song city."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
