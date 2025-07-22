@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Hooper",
+    "age": 102,
+    "address": {
+        "street": "Jonathon Centers",
+        "city": "Emilyfort",
+        "state": "Idaho",
+        "zip": "42062"
+    },
+    "contact": {
+        "phone": "3972813742",
+        "servicePhone": "800649201"
+    },
+    "birthday": "1923-22-09",
+    "ip": "132.20.14.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Other participant knowledge institution father different institution. Major her choice himself. Tough deep interview woman pattern analysis.",
+        "bio": "Health back behind whether. Detail after enough set four laugh.\nAlthough page shake office describe.\nEnough me put speech rock. Popular begin direction beyond government material listen."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
