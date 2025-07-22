@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Taylor",
+    "age": 75,
+    "address": {
+        "street": "Mary Forge",
+        "city": "Johnnytown",
+        "state": "Wisconsin",
+        "zip": "76225"
+    },
+    "contact": {
+        "phone": "774.564.5345",
+        "servicePhone": "800051729"
+    },
+    "birthday": "1950-05-04",
+    "ip": "47.2.159.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea main light people show whatever message often. Purpose ball quite of teach where occur.",
+        "bio": "Action amount have less. Option fight show several.\nYard game option writer. Want image executive whose outside information once. Local many make particularly laugh suggest field from."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
