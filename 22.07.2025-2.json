@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Lane",
+    "age": 87,
+    "address": {
+        "street": "Strickland Cape",
+        "city": "New Hannahland",
+        "state": "Alaska",
+        "zip": "77918"
+    },
+    "contact": {
+        "phone": "+1-693-683-6313x65380",
+        "servicePhone": "800632644"
+    },
+    "birthday": "1938-03-11",
+    "ip": "180.70.132.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Six space senior large ever get. Character television cut best. Suffer two I inside onto. Door available peace.",
+        "bio": "Look sense one challenge off general. Check little lot. Event case economy my sound song.\nCut political game lose us probably test relationship. Impact positive analysis through."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
