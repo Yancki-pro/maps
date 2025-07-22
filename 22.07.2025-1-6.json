@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Mccarthy",
+    "age": 55,
+    "address": {
+        "street": "Garcia Pike",
+        "city": "Mendozamouth",
+        "state": "Maryland",
+        "zip": "80166"
+    },
+    "contact": {
+        "phone": "001-737-986-7097x965",
+        "servicePhone": "800412338"
+    },
+    "birthday": "1970-30-11",
+    "ip": "212.204.252.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat society deep sound white room. Chance base player nice degree produce point. Later find like up do.",
+        "bio": "Share recognize establish little lawyer say quickly. Many approach lot. Former idea continue follow lot."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
