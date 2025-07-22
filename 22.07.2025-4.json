@@ -1,0 +1,25 @@
+{
+    "name": "Kristopher Pitts",
+    "age": 18,
+    "address": {
+        "street": "Harris Springs",
+        "city": "South Karenmouth",
+        "state": "New Jersey",
+        "zip": "78562"
+    },
+    "contact": {
+        "phone": "615.282.7103x916",
+        "servicePhone": "800003722"
+    },
+    "birthday": "2007-15-10",
+    "ip": "26.183.222.223",
+    "foo": "bar",
+    "profile": {
+        "about": "With laugh including song paper financial. Room model region summer professional court. Prepare fine indicate economic.",
+        "bio": "Home everyone serious bring. Administration offer day reality institution. Brother help once specific least.\nAvailable guess political cup. Consumer order consumer. Exist family allow be."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
