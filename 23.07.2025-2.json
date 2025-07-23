@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Robinson",
+    "age": 60,
+    "address": {
+        "street": "Wolfe Springs",
+        "city": "West Robertbury",
+        "state": "Hawaii",
+        "zip": "62686"
+    },
+    "contact": {
+        "phone": "001-761-729-3501x589",
+        "servicePhone": "800024400"
+    },
+    "birthday": "1965-17-11",
+    "ip": "66.32.118.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Foreign relate value dream hundred blue. Life cut price blue understand total form.\nTrue window customer allow north. Better study police at cost usually story.",
+        "bio": "Together pull ask party remember. Floor fast reflect standard product everybody. Although general day."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
