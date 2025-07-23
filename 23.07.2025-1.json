@@ -1,0 +1,25 @@
+{
+    "name": "Gary Welch",
+    "age": 45,
+    "address": {
+        "street": "Smith Junction",
+        "city": "West Kristenland",
+        "state": "Arizona",
+        "zip": "72278"
+    },
+    "contact": {
+        "phone": "001-348-500-1163x9501",
+        "servicePhone": "800530570"
+    },
+    "birthday": "1980-11-06",
+    "ip": "67.186.219.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge large training low. Skill situation baby to minute expert wait.",
+        "bio": "Dream sing I people goal.\nBig cultural relate.\nWith popular deep west join operation present. Threat answer able raise say law movement."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
