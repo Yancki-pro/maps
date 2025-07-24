@@ -1,0 +1,25 @@
+{
+    "name": "Eric Mathews",
+    "age": 53,
+    "address": {
+        "street": "Ellis Mountain",
+        "city": "Sandraville",
+        "state": "Tennessee",
+        "zip": "58981"
+    },
+    "contact": {
+        "phone": "673-857-4949",
+        "servicePhone": "800922687"
+    },
+    "birthday": "1972-10-07",
+    "ip": "108.73.153.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal wall charge month material. Personal hard boy. Stock summer practice local on meet.",
+        "bio": "Financial current ground power until word. Yard until kind return."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
