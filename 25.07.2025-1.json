@@ -1,0 +1,25 @@
+{
+    "name": "Emily Schmidt",
+    "age": 8,
+    "address": {
+        "street": "Wilson Freeway",
+        "city": "West Amyshire",
+        "state": "New Hampshire",
+        "zip": "57673"
+    },
+    "contact": {
+        "phone": "(283)301-3145x873",
+        "servicePhone": "800783323"
+    },
+    "birthday": "2017-14-06",
+    "ip": "2.184.87.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful this little carry. My above low talk thing little increase. And around however common sure.\nDirection build subject risk head return without. Its box way. Decide which rest win.",
+        "bio": "Buy eat class material girl. Pay action gas. Democratic almost what street particular live."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
