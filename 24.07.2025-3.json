@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Cervantes",
+    "age": 80,
+    "address": {
+        "street": "James Square",
+        "city": "Port Mckenzieville",
+        "state": "Nebraska",
+        "zip": "42474"
+    },
+    "contact": {
+        "phone": "823.313.6598x58049",
+        "servicePhone": "800605191"
+    },
+    "birthday": "1945-15-06",
+    "ip": "161.214.176.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil public as better well his receive everyone. Rich degree political owner. General office floor short spring doctor hospital.",
+        "bio": "Lose size modern value political.\nStory sign record father. Among police rich central measure environment."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
