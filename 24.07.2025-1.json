@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Santana",
+    "age": 46,
+    "address": {
+        "street": "Conner Common",
+        "city": "Rosefurt",
+        "state": "Rhode Island",
+        "zip": "69149"
+    },
+    "contact": {
+        "phone": "3039618936",
+        "servicePhone": "800788818"
+    },
+    "birthday": "1979-18-09",
+    "ip": "134.197.27.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect have life lose alone success street. Last lay hair safe guess office pull. Impact point house ability. Person modern discussion trip.",
+        "bio": "Human case major list little your. Wind hit discover mention.\nMatter campaign personal offer price. Sure public start interesting health. Law star cup program get."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
