@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Bond",
+    "age": 111,
+    "address": {
+        "street": "Kristy Rapids",
+        "city": "Brendafort",
+        "state": "Nevada",
+        "zip": "75025"
+    },
+    "contact": {
+        "phone": "857-523-6678x498",
+        "servicePhone": "800642333"
+    },
+    "birthday": "1914-08-07",
+    "ip": "27.10.102.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Girl appear poor value when however argue. Question either agree audience great. Traditional writer learn rest second.\nBelieve each far. Center box single perform.\nTraining class than green.",
+        "bio": "Huge nature near few attack thus. Three mind nearly.\nConsider rich pick door agent protect. Mind yourself material sea tax test lot."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
