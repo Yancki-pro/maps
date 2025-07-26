@@ -1,0 +1,25 @@
+{
+    "name": "Angel Conrad",
+    "age": 62,
+    "address": {
+        "street": "Andrew View",
+        "city": "Richardton",
+        "state": "Wisconsin",
+        "zip": "63163"
+    },
+    "contact": {
+        "phone": "508-372-0748x57796",
+        "servicePhone": "800592821"
+    },
+    "birthday": "1963-21-04",
+    "ip": "154.203.26.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Section evening activity fear subject parent. Blue late store camera.",
+        "bio": "Bill book movement because of. Instead garden challenge join ten rest also. After interview speech fill. Agreement way bag fight black environmental."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
