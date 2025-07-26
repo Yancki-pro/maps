@@ -1,0 +1,25 @@
+{
+    "name": "Michael Jones",
+    "age": 56,
+    "address": {
+        "street": "Johnathan Port",
+        "city": "Port Matthew",
+        "state": "Kentucky",
+        "zip": "72118"
+    },
+    "contact": {
+        "phone": "(884)900-3741x044",
+        "servicePhone": "800618860"
+    },
+    "birthday": "1969-30-07",
+    "ip": "150.232.39.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay your down discuss note stage. Clearly understand hope trouble.\nKnowledge send two begin drive far room. North standard gun have serve relate should participant. Year food wall great.",
+        "bio": "Play maintain man form exist. Change full yeah what international almost describe. Bill single authority say personal keep college phone. Walk others then value on."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
