@@ -1,0 +1,25 @@
+{
+    "name": "Peter Garcia",
+    "age": 76,
+    "address": {
+        "street": "Joann Burgs",
+        "city": "Edwinchester",
+        "state": "Colorado",
+        "zip": "73186"
+    },
+    "contact": {
+        "phone": "998.641.9713x5308",
+        "servicePhone": "800759296"
+    },
+    "birthday": "1949-08-07",
+    "ip": "91.1.1.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Man always nothing Democrat learn research. Technology exist family participant interest range five.\nHe catch of radio Mrs weight apply describe. Name either born everyone. Tree wonder again student.",
+        "bio": "Area international rest student air large protect. Score require animal play hotel west same pattern.\nAssume accept attorney hot couple a. Experience level risk law plan. Use these management choose."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
