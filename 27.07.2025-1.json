@@ -1,0 +1,25 @@
+{
+    "name": "William Harris",
+    "age": 52,
+    "address": {
+        "street": "Brian Rue",
+        "city": "Phillipsborough",
+        "state": "California",
+        "zip": "46554"
+    },
+    "contact": {
+        "phone": "7708567097",
+        "servicePhone": "800135827"
+    },
+    "birthday": "1973-31-10",
+    "ip": "126.46.251.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Media tonight set point defense development. Would technology discuss mention huge within.\nSmile debate toward laugh change watch. Method think wonder born. Page find trial training.",
+        "bio": "Wear last common may indeed choose understand religious. West rock where down mean they. Create operation catch.\nSame coach individual start. Prevent agency sure building all."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
