@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Rodriguez",
+    "age": 75,
+    "address": {
+        "street": "Vega Row",
+        "city": "South Cory",
+        "state": "Wyoming",
+        "zip": "19551"
+    },
+    "contact": {
+        "phone": "320-745-7071x10439",
+        "servicePhone": "800342274"
+    },
+    "birthday": "1950-19-06",
+    "ip": "202.100.105.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover camera while reveal report house as. Scientist such rock give.\nAdult medical current night. High assume face sing significant figure see. Happen those attention member green.",
+        "bio": "Within notice space employee short. Rock memory represent tonight store bring subject. Write cost available."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
