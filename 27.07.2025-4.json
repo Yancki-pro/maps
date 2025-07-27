@@ -1,0 +1,25 @@
+{
+    "name": "Eric Griffin",
+    "age": 56,
+    "address": {
+        "street": "David Gardens",
+        "city": "South Davidton",
+        "state": "Colorado",
+        "zip": "00952"
+    },
+    "contact": {
+        "phone": "(702)596-1399x62536",
+        "servicePhone": "800778950"
+    },
+    "birthday": "1969-29-03",
+    "ip": "16.18.19.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Son such sound task campaign research especially. Role able series hot Republican leader. Size understand reality great.",
+        "bio": "Power financial hospital that blood. Defense someone organization establish trade boy.\nTend discuss parent night give watch. Describe something bring likely choose."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
