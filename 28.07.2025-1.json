@@ -1,0 +1,25 @@
+{
+    "name": "Candice Norton",
+    "age": 18,
+    "address": {
+        "street": "Cook Flat",
+        "city": "South Emma",
+        "state": "Texas",
+        "zip": "95552"
+    },
+    "contact": {
+        "phone": "001-766-404-4198x764",
+        "servicePhone": "800767778"
+    },
+    "birthday": "2007-13-03",
+    "ip": "82.0.127.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Little no build day. Nothing walk matter authority father save together always. Nice daughter course dog.\nImportant his mention get your television like. Eye down often rather free forward.",
+        "bio": "Fly market now way.\nProbably office garden science reduce. Six affect many authority her head lot. Administration consider tough single herself most bank."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
