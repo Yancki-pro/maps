@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Duran",
+    "age": 114,
+    "address": {
+        "street": "Haynes Dale",
+        "city": "North April",
+        "state": "Iowa",
+        "zip": "84305"
+    },
+    "contact": {
+        "phone": "(514)273-3079x302",
+        "servicePhone": "800836782"
+    },
+    "birthday": "1911-26-02",
+    "ip": "28.68.178.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn out them even glass near guess. Blue your sister. Whom knowledge say detail beat him fact.",
+        "bio": "Be this between at face white. Whether key simple decision cup decision forward. Yeah simple throw wall find.\nDetermine yeah thank. Skill author start in his."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
