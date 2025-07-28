@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Brock",
+    "age": 17,
+    "address": {
+        "street": "Woodard Fords",
+        "city": "North Carolineville",
+        "state": "Hawaii",
+        "zip": "57028"
+    },
+    "contact": {
+        "phone": "+1-529-580-8976x483",
+        "servicePhone": "800929031"
+    },
+    "birthday": "2008-16-09",
+    "ip": "198.211.209.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Start person with cost issue. Move market system not movement.\nTrue factor room military. More player listen she.",
+        "bio": "Research point not resource local hour. Itself whom effect water.\nMillion education goal first worker drug yeah truth. Various show that truth visit road."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
