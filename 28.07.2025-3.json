@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Schaefer",
+    "age": 115,
+    "address": {
+        "street": "Graham Land",
+        "city": "Billymouth",
+        "state": "Pennsylvania",
+        "zip": "42429"
+    },
+    "contact": {
+        "phone": "(989)424-9000",
+        "servicePhone": "800409707"
+    },
+    "birthday": "1910-12-08",
+    "ip": "15.233.202.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive religious coach effort catch degree.\nPressure technology total his spend government.\nSocial join difficult society.",
+        "bio": "Friend student knowledge. Sea analysis another support friend. Student class use every pick recent thought.\nDoor during want my."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
