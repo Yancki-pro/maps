@@ -1,0 +1,25 @@
+{
+    "name": "Tami King",
+    "age": 39,
+    "address": {
+        "street": "Reynolds Pines",
+        "city": "New Danielberg",
+        "state": "Virginia",
+        "zip": "06735"
+    },
+    "contact": {
+        "phone": "227.328.3712x2544",
+        "servicePhone": "800028181"
+    },
+    "birthday": "1986-10-06",
+    "ip": "193.89.167.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother move impact billion. Lead million model leg believe heavy article. Space admit shake grow current leave price.",
+        "bio": "Last join learn significant perhaps occur. Position themselves wife.\nFocus senior more weight return seek measure. Build light when world size maintain."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
