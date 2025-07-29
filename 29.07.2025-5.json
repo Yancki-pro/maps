@@ -1,0 +1,25 @@
+{
+    "name": "Laura Nolan",
+    "age": 27,
+    "address": {
+        "street": "Duke Knolls",
+        "city": "Elizabethport",
+        "state": "North Dakota",
+        "zip": "90498"
+    },
+    "contact": {
+        "phone": "396.801.2086x29062",
+        "servicePhone": "800555716"
+    },
+    "birthday": "1998-23-08",
+    "ip": "81.167.106.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Management administration involve protect score west. Become knowledge behind fly involve.",
+        "bio": "Page wrong effort less agreement again suggest medical. Including daughter front third admit thought walk. Interest seem charge debate month among under institution."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
