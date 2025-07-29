@@ -1,0 +1,25 @@
+{
+    "name": "Donald Bailey",
+    "age": 100,
+    "address": {
+        "street": "Fox Coves",
+        "city": "Lake Rhondaton",
+        "state": "Virginia",
+        "zip": "40300"
+    },
+    "contact": {
+        "phone": "674-513-9514",
+        "servicePhone": "800877257"
+    },
+    "birthday": "1925-10-06",
+    "ip": "149.59.221.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Off thousand common personal southern pass travel task.\nCouple PM Congress girl.\nMusic lawyer foreign think song join. Type center man table. Pick thus scene between paper dinner.",
+        "bio": "Some gun artist ago they. See new dream story mean employee single. Do bag follow lead itself.\nTrip Mr born rock to knowledge. My it candidate something government."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
