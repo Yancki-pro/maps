@@ -1,0 +1,25 @@
+{
+    "name": "James Coleman",
+    "age": 67,
+    "address": {
+        "street": "Hill Ridges",
+        "city": "Lake Kristin",
+        "state": "Minnesota",
+        "zip": "37234"
+    },
+    "contact": {
+        "phone": "634-739-1154x288",
+        "servicePhone": "800143221"
+    },
+    "birthday": "1958-01-11",
+    "ip": "222.190.162.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation cover policy science. Produce land return must. Cover score campaign. Attack example wait address seven.",
+        "bio": "Several during serious than sing project represent. Certainly campaign smile everything. Yes plant rule man charge four woman."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
