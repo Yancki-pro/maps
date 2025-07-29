@@ -1,0 +1,25 @@
+{
+    "name": "Shane Morse",
+    "age": 16,
+    "address": {
+        "street": "Karen Walk",
+        "city": "Sandraburgh",
+        "state": "Alabama",
+        "zip": "70531"
+    },
+    "contact": {
+        "phone": "001-632-918-1338x769",
+        "servicePhone": "800451140"
+    },
+    "birthday": "2009-09-02",
+    "ip": "131.89.2.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Point sea drive during listen several.\nDifference week politics debate particular grow would. Mrs decide week choose believe. West hope win read central policy campaign.",
+        "bio": "Ready treatment call question. Many son seven smile contain clear history may. Determine provide involve condition.\nMeasure firm own government what."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
