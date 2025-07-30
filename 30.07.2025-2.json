@@ -1,0 +1,25 @@
+{
+    "name": "Sean Pena",
+    "age": 36,
+    "address": {
+        "street": "Anthony Turnpike",
+        "city": "New Haley",
+        "state": "Iowa",
+        "zip": "03559"
+    },
+    "contact": {
+        "phone": "(667)584-2343x207",
+        "servicePhone": "800111407"
+    },
+    "birthday": "1989-31-07",
+    "ip": "96.124.162.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Population music sea American ground. Employee far girl.\nLeg what position per manage pull check because. Main court accept project.",
+        "bio": "Memory book final item something arrive. Second yeah state I school treatment. Environmental according still fast particularly. Ready build against especially shoulder no."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
