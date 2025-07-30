@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Wood",
+    "age": 105,
+    "address": {
+        "street": "Phillips Brooks",
+        "city": "Amandafort",
+        "state": "New Hampshire",
+        "zip": "46787"
+    },
+    "contact": {
+        "phone": "727-564-0979",
+        "servicePhone": "800598475"
+    },
+    "birthday": "1920-28-06",
+    "ip": "142.54.84.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill however raise. Impact relationship officer since level response agree produce. Weight international sea player view.",
+        "bio": "Research statement store fight door road deal. Available research window.\nGet such thus worker it country wait. Subject enjoy be score find.\nDo themselves city letter."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
