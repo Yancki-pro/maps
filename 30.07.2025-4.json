@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Christian MD",
+    "age": 68,
+    "address": {
+        "street": "Adrian Street",
+        "city": "Andersonburgh",
+        "state": "Nebraska",
+        "zip": "18699"
+    },
+    "contact": {
+        "phone": "(803)363-2920",
+        "servicePhone": "800370616"
+    },
+    "birthday": "1957-12-06",
+    "ip": "14.227.10.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment style stay identify yourself store. Should hot sister they for learn though.",
+        "bio": "Evidence ready start strategy I it. Quickly black which effort war spend. Report direction strong believe without democratic college."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
