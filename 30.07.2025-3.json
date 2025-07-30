@@ -1,0 +1,25 @@
+{
+    "name": "Julia Rodriguez",
+    "age": 105,
+    "address": {
+        "street": "Michael Turnpike",
+        "city": "Port Walter",
+        "state": "New York",
+        "zip": "64765"
+    },
+    "contact": {
+        "phone": "+1-514-426-5855",
+        "servicePhone": "800151472"
+    },
+    "birthday": "1920-06-05",
+    "ip": "25.98.124.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle accept account. East mention whom stop. Protect consider require end.",
+        "bio": "Service single statement brother impact draw attack. Would magazine word reality force very."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
