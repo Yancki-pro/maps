@@ -1,0 +1,25 @@
+{
+    "name": "William Gamble",
+    "age": 72,
+    "address": {
+        "street": "Flores Court",
+        "city": "North Sydney",
+        "state": "New Jersey",
+        "zip": "49490"
+    },
+    "contact": {
+        "phone": "001-432-300-8478x3001",
+        "servicePhone": "800952298"
+    },
+    "birthday": "1953-24-01",
+    "ip": "64.132.15.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Water many age. Free argue plant agreement international us. Have enter student attorney again which.",
+        "bio": "Machine region firm six poor sing. Young table now card need travel including economic. Add final like choice."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
