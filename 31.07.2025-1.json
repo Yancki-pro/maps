@@ -1,0 +1,25 @@
+{
+    "name": "Maria Sparks",
+    "age": 34,
+    "address": {
+        "street": "Turner Overpass",
+        "city": "Lake Zacharymouth",
+        "state": "Florida",
+        "zip": "17838"
+    },
+    "contact": {
+        "phone": "+1-254-230-5850x00884",
+        "servicePhone": "800732376"
+    },
+    "birthday": "1991-04-03",
+    "ip": "113.110.152.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Call enter here go industry red product. Memory majority certain college teach meet.",
+        "bio": "Almost I film better camera.\nFinish whether no nothing power. Community need movie quality. Way fill them edge night everything."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
