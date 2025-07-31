@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Brown",
+    "age": 108,
+    "address": {
+        "street": "Mike Isle",
+        "city": "Pottershire",
+        "state": "Kentucky",
+        "zip": "02088"
+    },
+    "contact": {
+        "phone": "522.415.7494x3815",
+        "servicePhone": "800821116"
+    },
+    "birthday": "1917-26-09",
+    "ip": "12.113.14.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing policy good watch charge they. Year admit front. Continue forward doctor ask state age.\nMove lawyer money adult number. Degree believe perhaps expert.",
+        "bio": "What record consumer name.\nDuring land final time without respond cause. West rather animal billion particularly direction note. Answer likely everybody clearly yeah have."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
