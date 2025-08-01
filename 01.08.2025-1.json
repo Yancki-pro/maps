@@ -1,0 +1,25 @@
+{
+    "name": "Marvin Flores",
+    "age": 112,
+    "address": {
+        "street": "Teresa Valleys",
+        "city": "West Jennifer",
+        "state": "New Hampshire",
+        "zip": "88445"
+    },
+    "contact": {
+        "phone": "635.369.0982x664",
+        "servicePhone": "800703167"
+    },
+    "birthday": "1913-31-05",
+    "ip": "48.8.72.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital kind leg six leader opportunity. Church other player clearly keep.\nPossible sing power they. Southern meet once style become perform.",
+        "bio": "Smile total through attention wrong goal later. Hundred mind table choice design become free travel. Born this life book other add drug."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
