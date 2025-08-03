@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Harvey",
+    "age": 113,
+    "address": {
+        "street": "Benjamin Underpass",
+        "city": "Wolfeland",
+        "state": "Delaware",
+        "zip": "98357"
+    },
+    "contact": {
+        "phone": "001-880-903-7762",
+        "servicePhone": "800700671"
+    },
+    "birthday": "1912-10-12",
+    "ip": "55.236.116.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience parent indeed natural or. Accept trouble contain anything crime item second. Four dark try beat provide. Write employee radio indeed practice including personal.\nGas group politics short.",
+        "bio": "Offer policy serve town term. Nor central study foreign happy town.\nRoad such money feeling. Model professor there thought moment interview player."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
