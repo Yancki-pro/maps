@@ -1,0 +1,25 @@
+{
+    "name": "Robert Watts",
+    "age": 52,
+    "address": {
+        "street": "Hopkins Streets",
+        "city": "Jasonhaven",
+        "state": "Ohio",
+        "zip": "81185"
+    },
+    "contact": {
+        "phone": "+1-306-872-9170x25583",
+        "servicePhone": "800632553"
+    },
+    "birthday": "1973-25-06",
+    "ip": "96.212.113.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera quite successful home or term. Effort though administration adult decide reason.\nOffice should friend nature different without tonight. Particularly full eight president coach like I.",
+        "bio": "Effect here or how place year deal. Real series benefit carry experience also. Region item few drive draw cover time.\nWhite campaign person guy grow sister buy appear."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
