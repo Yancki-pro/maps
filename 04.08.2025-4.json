@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Lyons",
+    "age": 70,
+    "address": {
+        "street": "James Camp",
+        "city": "Myersbury",
+        "state": "Washington",
+        "zip": "76902"
+    },
+    "contact": {
+        "phone": "9968052626",
+        "servicePhone": "800220391"
+    },
+    "birthday": "1955-16-10",
+    "ip": "115.247.82.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough this idea magazine white. Feel still laugh case child whether. Scene better order organization address everything inside. Next walk agreement money.",
+        "bio": "I sort black enter example sport production. Enjoy around trial example old. Within similar seat enjoy.\nCover recently protect fine. Career public mean something law could little color."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
