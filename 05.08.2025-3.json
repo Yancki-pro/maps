@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Fisher",
+    "age": 79,
+    "address": {
+        "street": "Alexandra Keys",
+        "city": "Travismouth",
+        "state": "Colorado",
+        "zip": "65697"
+    },
+    "contact": {
+        "phone": "3174032347",
+        "servicePhone": "800302672"
+    },
+    "birthday": "1946-03-12",
+    "ip": "145.24.9.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer assume deal half measure American. Instead back believe sit lawyer big.",
+        "bio": "South food seat truth magazine. Know each bag senior off benefit test."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
