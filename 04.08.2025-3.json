@@ -1,0 +1,25 @@
+{
+    "name": "Norman Duffy",
+    "age": 32,
+    "address": {
+        "street": "Danielle Greens",
+        "city": "North Gregory",
+        "state": "Nevada",
+        "zip": "30327"
+    },
+    "contact": {
+        "phone": "001-703-948-5230x8314",
+        "servicePhone": "800014796"
+    },
+    "birthday": "1993-21-02",
+    "ip": "90.113.183.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond crime his agency property stand. American single politics ready just. Research technology new law sing right. Foot why great task list.",
+        "bio": "Power assume medical million.\nGrow imagine answer. Her white Democrat off knowledge where central everything. Head you away least would service treat."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
