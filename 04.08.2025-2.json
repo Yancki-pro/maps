@@ -1,0 +1,25 @@
+{
+    "name": "Evan Norton Jr.",
+    "age": 67,
+    "address": {
+        "street": "Michael Burg",
+        "city": "Port Lisa",
+        "state": "Texas",
+        "zip": "46683"
+    },
+    "contact": {
+        "phone": "960.842.5097x2717",
+        "servicePhone": "800547104"
+    },
+    "birthday": "1958-02-10",
+    "ip": "57.251.40.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit music exist report. Cold government forget week heart. Employee teacher piece after.\nLetter field table whom. Write them language because project. Claim great after turn seven expert game.",
+        "bio": "Bar prevent manager much lead TV write. Capital movie expect role. Only exactly campaign raise defense.\nFloor dinner lot just. Director project of may test why clear across. Leader report should cup."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
