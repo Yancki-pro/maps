@@ -1,0 +1,25 @@
+{
+    "name": "Karen Moon",
+    "age": 84,
+    "address": {
+        "street": "Carr Turnpike",
+        "city": "Adkinsstad",
+        "state": "Virginia",
+        "zip": "39308"
+    },
+    "contact": {
+        "phone": "634.278.7638x70490",
+        "servicePhone": "800687573"
+    },
+    "birthday": "1941-31-10",
+    "ip": "102.229.177.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Else black issue resource structure. Yourself four senior ten. Remember speak administration social different fast more.\nNote dream why itself. First imagine when compare.",
+        "bio": "Various capital I near. Usually evening newspaper dog while.\nCampaign success poor hard.\nDrop left close size that hold."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
