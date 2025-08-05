@@ -1,0 +1,25 @@
+{
+    "name": "Kent Hughes",
+    "age": 73,
+    "address": {
+        "street": "Timothy Underpass",
+        "city": "Jordanmouth",
+        "state": "Kentucky",
+        "zip": "37105"
+    },
+    "contact": {
+        "phone": "+1-540-806-1969x8260",
+        "servicePhone": "800052617"
+    },
+    "birthday": "1952-20-12",
+    "ip": "17.119.171.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Room rate way control old tough his. Middle fly film economic Republican board. Bar ok run mother help.\nAffect general concern affect physical.",
+        "bio": "Key responsibility three agreement. Effect serious water hour song at. Property second follow partner nature.\nBall describe foreign very. Top admit thus begin similar professor more public."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
