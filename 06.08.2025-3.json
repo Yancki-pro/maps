@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Cherry",
+    "age": 33,
+    "address": {
+        "street": "Meadows Rapid",
+        "city": "New Donaldmouth",
+        "state": "North Carolina",
+        "zip": "10378"
+    },
+    "contact": {
+        "phone": "(972)967-3901",
+        "servicePhone": "800506355"
+    },
+    "birthday": "1992-23-04",
+    "ip": "60.1.236.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Party main front situation day order participant. Something boy above yeah miss lay candidate. While increase manager realize report.",
+        "bio": "I region woman sound wonder. Nature too indicate back position. Citizen north worry animal."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
