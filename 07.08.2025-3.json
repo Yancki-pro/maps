@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Howell",
+    "age": 20,
+    "address": {
+        "street": "Deborah Ferry",
+        "city": "Thompsonville",
+        "state": "North Dakota",
+        "zip": "35936"
+    },
+    "contact": {
+        "phone": "790-660-2417",
+        "servicePhone": "800811079"
+    },
+    "birthday": "2005-15-01",
+    "ip": "44.35.253.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel building do its. Carry skill town heart three herself.\nInvestment particular section community size. Lay fast under hundred.",
+        "bio": "Clear decide near possible speak research however. Once race three dream.\nWant democratic study Mr. Claim statement I environmental simple where. Film act word."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
