@@ -1,0 +1,25 @@
+{
+    "name": "Linda Brown",
+    "age": 106,
+    "address": {
+        "street": "Lisa Brook",
+        "city": "Montesstad",
+        "state": "Delaware",
+        "zip": "40376"
+    },
+    "contact": {
+        "phone": "(244)464-8661",
+        "servicePhone": "800857736"
+    },
+    "birthday": "1919-21-08",
+    "ip": "12.144.63.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight right lawyer character. Offer dark that whom yard training detail play. Relationship too crime box.\nTerm plant take drive. Cost establish hit story various.",
+        "bio": "Sea probably eat everything show customer be.\nUnderstand light from attention option. Hot outside go candidate sure. While respond with shake program miss director."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
