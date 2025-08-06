@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Brown",
+    "age": 58,
+    "address": {
+        "street": "Ellen Fort",
+        "city": "New Leah",
+        "state": "Mississippi",
+        "zip": "53298"
+    },
+    "contact": {
+        "phone": "562.649.5928x490",
+        "servicePhone": "800454572"
+    },
+    "birthday": "1967-30-11",
+    "ip": "137.44.35.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather order top already.\nUnderstand few hand spend. Just fine live across.\nBegin cell particular bar doctor. Appear decide month black look conference whose.",
+        "bio": "Sometimes sound region difficult stop. Option bad find news.\nExactly include way book even poor find. Magazine leave way new tree second serve. College necessary listen our country it keep."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
