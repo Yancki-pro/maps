@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hill",
+    "age": 22,
+    "address": {
+        "street": "Robert Squares",
+        "city": "South Ginahaven",
+        "state": "Rhode Island",
+        "zip": "48762"
+    },
+    "contact": {
+        "phone": "863-872-1870",
+        "servicePhone": "800175968"
+    },
+    "birthday": "2003-28-02",
+    "ip": "30.201.178.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow eat TV nice natural represent war. Message against ahead visit goal information movie recent. Through college remain name kid.\nAgree know star traditional home meet. Usually your cover rise.",
+        "bio": "Meeting foreign under environment partner religious. Save dog factor. Cold direction future per get better. Draw trouble necessary financial occur away.\nTalk as safe then position."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
