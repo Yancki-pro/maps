@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Sanchez",
+    "age": 108,
+    "address": {
+        "street": "Sims Club",
+        "city": "Lake Michelle",
+        "state": "Tennessee",
+        "zip": "54497"
+    },
+    "contact": {
+        "phone": "001-657-553-8010x659",
+        "servicePhone": "800037663"
+    },
+    "birthday": "1917-27-08",
+    "ip": "168.10.202.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue station professor. Big street parent debate religious instead firm argue.\nFrom house property TV stand.",
+        "bio": "Pay rate end after charge front. Small glass eight. International drive goal.\nThing stage ahead difference professor. Choice meeting senior buy similar walk."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
