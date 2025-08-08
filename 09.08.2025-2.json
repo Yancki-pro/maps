@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Alvarez",
+    "age": 30,
+    "address": {
+        "street": "Montgomery Underpass",
+        "city": "Kennedyport",
+        "state": "California",
+        "zip": "75623"
+    },
+    "contact": {
+        "phone": "8757011394",
+        "servicePhone": "800971410"
+    },
+    "birthday": "1995-26-08",
+    "ip": "186.14.172.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Act environment adult democratic pull field. Alone network happen order defense season. Smile force consider hand quite water letter. Thank five team wind.",
+        "bio": "Energy every main head thought. Consider rich design week.\nIts foreign the meet along trouble want themselves. Mrs none represent so whole."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
