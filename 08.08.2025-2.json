@@ -1,0 +1,25 @@
+{
+    "name": "Michael Thomas",
+    "age": 75,
+    "address": {
+        "street": "Park Valley",
+        "city": "Jorgeburgh",
+        "state": "New Hampshire",
+        "zip": "79118"
+    },
+    "contact": {
+        "phone": "+1-428-635-7987",
+        "servicePhone": "800730486"
+    },
+    "birthday": "1950-06-07",
+    "ip": "135.71.117.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Order realize Mr boy. Family note bad history include surface night. It sing step I task class whatever.",
+        "bio": "Least bring reflect political daughter. Meeting either relate think operation national expert.\nPrice probably recent prove buy worry nice ever."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
