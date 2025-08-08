@@ -1,0 +1,25 @@
+{
+    "name": "Sierra Flores",
+    "age": 104,
+    "address": {
+        "street": "Roberts Crescent",
+        "city": "Port Teresaview",
+        "state": "West Virginia",
+        "zip": "77051"
+    },
+    "contact": {
+        "phone": "409.937.4657",
+        "servicePhone": "800701656"
+    },
+    "birthday": "1921-28-08",
+    "ip": "107.64.210.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Top stand organization others country.\nAll game especially section your week small. Individual popular good seven.",
+        "bio": "Moment news chair important common memory commercial. Impact perform thousand relationship in rate vote someone.\nPurpose stay large standard head social. Middle face truth and."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
