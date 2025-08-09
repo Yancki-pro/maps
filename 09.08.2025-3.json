@@ -1,0 +1,25 @@
+{
+    "name": "Makayla Williams",
+    "age": 5,
+    "address": {
+        "street": "Timothy Key",
+        "city": "New Mary",
+        "state": "Ohio",
+        "zip": "81463"
+    },
+    "contact": {
+        "phone": "001-560-892-0656x81223",
+        "servicePhone": "800240019"
+    },
+    "birthday": "2020-23-11",
+    "ip": "104.216.187.211",
+    "foo": "bar",
+    "profile": {
+        "about": "For democratic bit. Pattern six practice garden until what and.\nMother plant to middle indicate price. Never begin rock risk off peace dream article.",
+        "bio": "Leave out idea yes about.\nBy make there. Exactly must green begin.\nJob type culture parent kid unit company new. Degree people of collection other. Wife some fall sort."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
