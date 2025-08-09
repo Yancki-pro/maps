@@ -1,0 +1,25 @@
+{
+    "name": "April Brooks",
+    "age": 24,
+    "address": {
+        "street": "Patrick Stream",
+        "city": "North Emilyview",
+        "state": "Vermont",
+        "zip": "80424"
+    },
+    "contact": {
+        "phone": "(708)430-3261x1490",
+        "servicePhone": "800755205"
+    },
+    "birthday": "2001-16-04",
+    "ip": "64.225.60.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever remain key that. Could board check artist radio sit.\nImagine a carry where raise federal if. Thousand mother rule discuss point party.",
+        "bio": "Service spring natural team prove. Rich near world pay throughout.\nAlways trade gas energy call."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
