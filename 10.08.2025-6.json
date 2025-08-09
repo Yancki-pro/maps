@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Powell",
+    "age": 27,
+    "address": {
+        "street": "Sharp Village",
+        "city": "South Michaelmouth",
+        "state": "Minnesota",
+        "zip": "01565"
+    },
+    "contact": {
+        "phone": "681-999-3144",
+        "servicePhone": "800255447"
+    },
+    "birthday": "1998-22-01",
+    "ip": "187.250.88.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Green detail society contain action. Perhaps space food keep ground section. More friend point.",
+        "bio": "System particular finally. Hospital child camera information. Question someone edge agreement stop action.\nNeed job attack recent whatever exactly. Man stuff report significant side decade address."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
