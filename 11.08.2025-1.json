@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Johnson",
+    "age": 83,
+    "address": {
+        "street": "Ryan Curve",
+        "city": "Penastad",
+        "state": "Alabama",
+        "zip": "95213"
+    },
+    "contact": {
+        "phone": "453-530-5998x1874",
+        "servicePhone": "800469545"
+    },
+    "birthday": "1942-13-03",
+    "ip": "52.151.241.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth order knowledge. Follow rise central kind structure quickly pretty.\nBecause outside around station defense gas increase. Player leg party popular film impact. Which home house.",
+        "bio": "Require figure group away difficult sound. Wife her everything note benefit. Near accept another issue industry bring each.\nImpact kitchen through. Matter allow which."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
