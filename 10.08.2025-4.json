@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Mckee",
+    "age": 6,
+    "address": {
+        "street": "Kline Rapid",
+        "city": "Joycebury",
+        "state": "Connecticut",
+        "zip": "95323"
+    },
+    "contact": {
+        "phone": "317-821-8159x433",
+        "servicePhone": "800513321"
+    },
+    "birthday": "2019-12-02",
+    "ip": "159.37.175.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Hope cultural set something. Action stay theory matter tree future. Act wife item seven their first.",
+        "bio": "Food change baby see. Eye serious lay blue late protect themselves. Investment case possible.\nScene trip which speak instead then. Entire candidate possible reality.\nTalk note seek garden surface."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
