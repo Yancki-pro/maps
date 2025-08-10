@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Santiago",
+    "age": 17,
+    "address": {
+        "street": "Huff Mill",
+        "city": "Port Erin",
+        "state": "North Dakota",
+        "zip": "01692"
+    },
+    "contact": {
+        "phone": "+1-944-257-6639x1594",
+        "servicePhone": "800444796"
+    },
+    "birthday": "2008-13-01",
+    "ip": "101.224.101.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside simple avoid green discussion. Discuss themselves decade toward.\nTown ground trip society decision. Bar prepare during various our.",
+        "bio": "Couple close couple.\nColor then top cut executive be. Before science sign through quality.\nWatch single notice manage. Protect image test voice ability reach. Tend yard three leave."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
