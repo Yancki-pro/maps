@@ -1,0 +1,25 @@
+{
+    "name": "Eric Manning",
+    "age": 72,
+    "address": {
+        "street": "Williams Drive",
+        "city": "Vegachester",
+        "state": "Florida",
+        "zip": "54012"
+    },
+    "contact": {
+        "phone": "+1-647-907-1512x4386",
+        "servicePhone": "800446395"
+    },
+    "birthday": "1953-24-09",
+    "ip": "109.75.158.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair or way with interview tree. Page final tree young. Message interesting travel against character marriage.",
+        "bio": "Usually view get. Would by operation artist coach red.\nFact wonder military yet. Which own thus second training bring."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
