@@ -1,0 +1,25 @@
+{
+    "name": "Mr. David Chung",
+    "age": 8,
+    "address": {
+        "street": "Alyssa Village",
+        "city": "Bryanborough",
+        "state": "West Virginia",
+        "zip": "64200"
+    },
+    "contact": {
+        "phone": "314-608-9563",
+        "servicePhone": "800861363"
+    },
+    "birthday": "2017-27-08",
+    "ip": "78.25.217.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure deep amount value opportunity book. Manager western surface focus nearly. Action marriage act or allow certainly year.",
+        "bio": "Customer prepare billion road mouth goal. Use home coach federal.\nOff move even structure under. Support enter hand itself affect hope edge. Tell drug success cause increase."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
