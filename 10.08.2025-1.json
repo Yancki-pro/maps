@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Gonzalez",
+    "age": 77,
+    "address": {
+        "street": "Barnes Circles",
+        "city": "Greeneland",
+        "state": "New Hampshire",
+        "zip": "22809"
+    },
+    "contact": {
+        "phone": "217.224.7584x98931",
+        "servicePhone": "800603070"
+    },
+    "birthday": "1948-17-02",
+    "ip": "27.242.67.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Agreement friend pay group second southern. Staff fish dinner management billion weight ok rest.\nWhom number keep subject move pattern court. Let yes local. Son still mention bag protect.",
+        "bio": "Herself charge return college paper red. Its since baby into well issue book. As finish former."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
