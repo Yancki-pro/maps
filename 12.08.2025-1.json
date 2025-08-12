@@ -1,0 +1,25 @@
+{
+    "name": "Haley Lee",
+    "age": 61,
+    "address": {
+        "street": "Cook Loaf",
+        "city": "New Veronica",
+        "state": "Kentucky",
+        "zip": "71692"
+    },
+    "contact": {
+        "phone": "917-463-6026x4288",
+        "servicePhone": "800998629"
+    },
+    "birthday": "1964-15-03",
+    "ip": "220.16.227.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Read stock article really. Material easy pick lead ready establish. Condition concern ground approach.",
+        "bio": "Affect wind leg if many management central risk. Argue it job despite father structure than office. Movement decision series fact respond message."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
