@@ -1,0 +1,25 @@
+{
+    "name": "Megan Johnson",
+    "age": 84,
+    "address": {
+        "street": "Carlos Highway",
+        "city": "North Stephanieland",
+        "state": "Connecticut",
+        "zip": "47659"
+    },
+    "contact": {
+        "phone": "(638)466-0631",
+        "servicePhone": "800502451"
+    },
+    "birthday": "1941-17-02",
+    "ip": "89.135.114.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar south TV whom. Beyond cup various someone cold outside participant. Show even main year. Race bill quality season age particularly.\nFeeling than machine agent feeling picture we enough.",
+        "bio": "And what develop next. Window economic air political law treatment. Point list month trouble American."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
