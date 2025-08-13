@@ -1,0 +1,25 @@
+{
+    "name": "Michael Buckley",
+    "age": 79,
+    "address": {
+        "street": "Franklin Prairie",
+        "city": "Kathleenbury",
+        "state": "Alaska",
+        "zip": "07248"
+    },
+    "contact": {
+        "phone": "427-555-3965",
+        "servicePhone": "800888640"
+    },
+    "birthday": "1946-10-09",
+    "ip": "193.131.134.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Same billion very fire into network whom management. Seek education commercial support book.",
+        "bio": "Away expert hot significant. Almost security owner weight bad in town. Discover attention town chance.\nDown test without third serve western year. Lot look expect law ever lot."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
