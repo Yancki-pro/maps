@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Simmons",
+    "age": 32,
+    "address": {
+        "street": "Robert View",
+        "city": "Kendraville",
+        "state": "Texas",
+        "zip": "89352"
+    },
+    "contact": {
+        "phone": "001-701-643-4353x48127",
+        "servicePhone": "800043526"
+    },
+    "birthday": "1993-18-09",
+    "ip": "33.37.164.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell rule say campaign effort lot. While require center become. Card ahead follow. Husband weight today lay everything.",
+        "bio": "As note few his relate free. Last wear set understand ever. Lawyer able exist little."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
