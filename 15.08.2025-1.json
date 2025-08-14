@@ -1,0 +1,25 @@
+{
+    "name": "David Hernandez",
+    "age": 22,
+    "address": {
+        "street": "Nancy Knolls",
+        "city": "Taylorberg",
+        "state": "North Dakota",
+        "zip": "95852"
+    },
+    "contact": {
+        "phone": "(793)963-8600x65583",
+        "servicePhone": "800994073"
+    },
+    "birthday": "2003-05-12",
+    "ip": "3.158.233.4",
+    "foo": "bar",
+    "profile": {
+        "about": "None his contain name action.\nResource general different sport evening. Long enough cold bank page professional production. Response director personal claim light.",
+        "bio": "Condition serve trip which detail firm strategy. Agreement effect alone test she available trouble.\nBoard serious side politics. Until occur son you various. Set long sure place."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
