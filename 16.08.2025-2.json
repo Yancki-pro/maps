@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Estes",
+    "age": 18,
+    "address": {
+        "street": "Hurst Key",
+        "city": "North Michaelhaven",
+        "state": "North Carolina",
+        "zip": "25583"
+    },
+    "contact": {
+        "phone": "(808)329-3011",
+        "servicePhone": "800154078"
+    },
+    "birthday": "2007-26-02",
+    "ip": "223.94.140.88",
+    "foo": "bar",
+    "profile": {
+        "about": "American edge effort between daughter. Investment east science skill according anything.",
+        "bio": "Center story describe Mr civil college him. News leader fear yard low."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
