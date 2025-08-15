@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Sparks",
+    "age": 40,
+    "address": {
+        "street": "Hannah Union",
+        "city": "West Robert",
+        "state": "South Dakota",
+        "zip": "50617"
+    },
+    "contact": {
+        "phone": "986.346.3805x270",
+        "servicePhone": "800541941"
+    },
+    "birthday": "1985-09-04",
+    "ip": "87.43.235.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime five take section natural. Car magazine morning agency. Best recent push edge hour. Move simple board for.\nPush college ball husband product glass. Price movement model order performance.",
+        "bio": "Candidate front threat wonder grow. Sea strong medical. Blue to activity as story describe activity."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
