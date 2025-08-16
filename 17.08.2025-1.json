@@ -1,0 +1,25 @@
+{
+    "name": "Richard Wagner",
+    "age": 29,
+    "address": {
+        "street": "Mark Overpass",
+        "city": "North Robertside",
+        "state": "Colorado",
+        "zip": "06330"
+    },
+    "contact": {
+        "phone": "872.200.9815x11428",
+        "servicePhone": "800002212"
+    },
+    "birthday": "1996-24-02",
+    "ip": "174.244.53.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Night window support enjoy fall might back. Product write safe meet economic part week role. Difference growth ahead radio interesting black in from.",
+        "bio": "Yes indicate employee religious tell TV understand. At prove claim however should will after. Grow itself free resource magazine again."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
