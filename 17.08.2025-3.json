@@ -1,0 +1,25 @@
+{
+    "name": "James Allen",
+    "age": 94,
+    "address": {
+        "street": "Carroll Neck",
+        "city": "Samanthaside",
+        "state": "Oklahoma",
+        "zip": "63974"
+    },
+    "contact": {
+        "phone": "950.569.2535x565",
+        "servicePhone": "800642677"
+    },
+    "birthday": "1931-30-04",
+    "ip": "94.148.195.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional whom mention usually pay. Mouth son blue health.\nRepresent place enough life. Nothing appear class such laugh mouth. Main piece base what brother page.",
+        "bio": "They available civil push early strategy. Stage through law tend investment."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
