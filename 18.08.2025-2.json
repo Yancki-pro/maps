@@ -1,0 +1,25 @@
+{
+    "name": "Monica Ayala",
+    "age": 22,
+    "address": {
+        "street": "Sandoval Mall",
+        "city": "Josephland",
+        "state": "Colorado",
+        "zip": "90809"
+    },
+    "contact": {
+        "phone": "001-745-515-3700",
+        "servicePhone": "800720411"
+    },
+    "birthday": "2003-05-02",
+    "ip": "102.59.220.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause yeah life somebody. Person professional magazine into word only.\nOpportunity girl sell sign decade ok only leave. Boy local role necessary half.",
+        "bio": "Customer shoulder suggest whether view contain action. Our nothing hold will kind. Like range daughter throughout.\nInside art near near quickly official necessary research. Action me certainly."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
