@@ -1,0 +1,25 @@
+{
+    "name": "Michael Miller",
+    "age": 105,
+    "address": {
+        "street": "Johnson Wells",
+        "city": "Mooretown",
+        "state": "Georgia",
+        "zip": "61017"
+    },
+    "contact": {
+        "phone": "+1-485-366-1513x8050",
+        "servicePhone": "800959274"
+    },
+    "birthday": "1920-28-01",
+    "ip": "160.172.70.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer difference need at name. Individual game interview smile.\nFinish design fly family quite difference identify. Organization budget house too audience.",
+        "bio": "Staff resource build unit. Student pretty give.\nTwo response oil mean event charge nature. The edge care contain meet. These should event others hundred."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
