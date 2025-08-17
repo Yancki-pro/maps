@@ -1,0 +1,25 @@
+{
+    "name": "Michael Harvey",
+    "age": 73,
+    "address": {
+        "street": "Porter Lights",
+        "city": "Lake Carrieton",
+        "state": "Washington",
+        "zip": "02193"
+    },
+    "contact": {
+        "phone": "4704354779",
+        "servicePhone": "800090546"
+    },
+    "birthday": "1952-14-06",
+    "ip": "111.222.172.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Against past yard performance often section. Radio read adult.\nOffice former appear reduce.",
+        "bio": "Near page enter personal air usually large. As those lead myself voice property.\nLight economy take. International save power western baby."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
