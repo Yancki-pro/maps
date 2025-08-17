@@ -1,0 +1,25 @@
+{
+    "name": "John Johnson",
+    "age": 85,
+    "address": {
+        "street": "Michael Springs",
+        "city": "Robertfurt",
+        "state": "North Carolina",
+        "zip": "66311"
+    },
+    "contact": {
+        "phone": "813.680.4530",
+        "servicePhone": "800311739"
+    },
+    "birthday": "1940-20-11",
+    "ip": "164.102.184.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby fish other once. Different concern executive community source remember. Side challenge work billion. Indeed cover house adult know no.",
+        "bio": "Control mean why assume. Ok skin turn serve fear cost. Trouble into never color wonder."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
