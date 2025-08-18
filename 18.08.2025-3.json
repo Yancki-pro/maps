@@ -1,0 +1,25 @@
+{
+    "name": "Roger Wang",
+    "age": 56,
+    "address": {
+        "street": "Davis Rest",
+        "city": "Jamesfort",
+        "state": "Rhode Island",
+        "zip": "21357"
+    },
+    "contact": {
+        "phone": "+1-475-862-3305x523",
+        "servicePhone": "800550022"
+    },
+    "birthday": "1969-10-04",
+    "ip": "19.169.125.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive PM all away likely.\nIf key sign condition be office. Whom politics who note.",
+        "bio": "Study not as activity state computer Mr measure. Range decade someone light. Make garden western far.\nSong either spend whom."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
