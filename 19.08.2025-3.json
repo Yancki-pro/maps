@@ -1,0 +1,25 @@
+{
+    "name": "Mark Williams",
+    "age": 0,
+    "address": {
+        "street": "Robinson Causeway",
+        "city": "Wilsonside",
+        "state": "Montana",
+        "zip": "74135"
+    },
+    "contact": {
+        "phone": "(321)887-7964x23395",
+        "servicePhone": "800211371"
+    },
+    "birthday": "2025-20-07",
+    "ip": "213.201.146.1",
+    "foo": "bar",
+    "profile": {
+        "about": "How interview defense man. Cell church approach base.\nCatch nature trial cut entire. Between consumer expert fact enter check else forget.",
+        "bio": "Crime president million arm recognize rise. Crime how wrong add service including question other. Analysis practice building probably. One training church letter after sort."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
