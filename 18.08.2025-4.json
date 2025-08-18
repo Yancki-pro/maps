@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Clark",
+    "age": 70,
+    "address": {
+        "street": "Christopher Cliff",
+        "city": "East Carlosfort",
+        "state": "Texas",
+        "zip": "11167"
+    },
+    "contact": {
+        "phone": "341-597-1364x66236",
+        "servicePhone": "800685372"
+    },
+    "birthday": "1955-17-04",
+    "ip": "214.204.1.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice end consider itself you expert bank. Capital yeah within heart democratic popular ten challenge. Cup usually term section.",
+        "bio": "Probably including fine eat goal other. House show drug court.\nAlways other sit. Story along collection treat. Leader themselves social short his white."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
