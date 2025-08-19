@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Woodard",
+    "age": 110,
+    "address": {
+        "street": "Alexander Plaza",
+        "city": "Williamsshire",
+        "state": "Louisiana",
+        "zip": "54122"
+    },
+    "contact": {
+        "phone": "001-519-234-0149x7356",
+        "servicePhone": "800840899"
+    },
+    "birthday": "1915-16-04",
+    "ip": "221.45.252.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Can allow serious.\nBrother sport explain official lay might analysis. Another loss same particular.\nMonth film option step real his. Movie care professor thousand begin then develop.",
+        "bio": "I spring collection relationship. Miss particular to here company father. Great difficult player.\nTheory against notice human young remain. Oil factor car everyone bar."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
