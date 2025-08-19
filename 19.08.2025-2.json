@@ -1,0 +1,25 @@
+{
+    "name": "Eric Garza",
+    "age": 112,
+    "address": {
+        "street": "Kurt Mountains",
+        "city": "Gonzalezport",
+        "state": "Georgia",
+        "zip": "86051"
+    },
+    "contact": {
+        "phone": "503-649-2335",
+        "servicePhone": "800284002"
+    },
+    "birthday": "1913-29-11",
+    "ip": "169.203.187.110",
+    "foo": "bar",
+    "profile": {
+        "about": "You us second rich market Republican. Country explain decision glass commercial loss coach management. Life policy into police shoulder alone face.",
+        "bio": "So past save. That under our whatever apply full benefit. Believe crime store picture onto.\nAnswer wall start relate. Budget care wide walk successful game. Rather vote end glass of process."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
