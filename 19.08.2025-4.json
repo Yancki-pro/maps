@@ -1,0 +1,25 @@
+{
+    "name": "Tricia Tran",
+    "age": 59,
+    "address": {
+        "street": "Hale Plains",
+        "city": "Harrismouth",
+        "state": "Nebraska",
+        "zip": "73784"
+    },
+    "contact": {
+        "phone": "(434)230-6873",
+        "servicePhone": "800665950"
+    },
+    "birthday": "1966-10-05",
+    "ip": "53.140.215.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour require career smile quality all. Phone get military black modern. Perhaps common attorney shake.",
+        "bio": "Section couple mother until. Mrs growth room yard. Institution force prepare young a nothing.\nResult small herself. Particularly present claim low. Worry serve name remain key to wind common."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
