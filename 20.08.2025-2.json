@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Bell DVM",
+    "age": 105,
+    "address": {
+        "street": "Archer Burgs",
+        "city": "Johnstonton",
+        "state": "Michigan",
+        "zip": "47937"
+    },
+    "contact": {
+        "phone": "(445)618-9832x24007",
+        "servicePhone": "800917405"
+    },
+    "birthday": "1920-28-08",
+    "ip": "167.127.21.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Tv including action parent language. Always try father possible.\nBetter accept art always four true. Fish candidate born approach pass beyond knowledge.",
+        "bio": "Hundred carry rest popular stage. Ten guess could. Against might specific war stuff boy all. Through gas huge dream thank."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
