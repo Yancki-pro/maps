@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Lewis",
+    "age": 50,
+    "address": {
+        "street": "Lane Passage",
+        "city": "Bonniestad",
+        "state": "Missouri",
+        "zip": "02528"
+    },
+    "contact": {
+        "phone": "001-419-931-5035x939",
+        "servicePhone": "800340235"
+    },
+    "birthday": "1975-04-02",
+    "ip": "205.208.22.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach never sing. Military make show worker often.\nTruth then account fact trouble car. My long together film federal part our.\nEat statement information nation series. Blood loss million.",
+        "bio": "Business Mrs hear drug than. Perhaps so gun me hit.\nNotice in pressure these exist. Wish ten value region day. Power floor through would. Fast much summer policy professor bring party."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
