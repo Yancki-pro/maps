@@ -1,0 +1,25 @@
+{
+    "name": "Mary Hansen",
+    "age": 83,
+    "address": {
+        "street": "Kline Corner",
+        "city": "Lake Drew",
+        "state": "South Carolina",
+        "zip": "92367"
+    },
+    "contact": {
+        "phone": "202-354-0712",
+        "servicePhone": "800462281"
+    },
+    "birthday": "1942-20-12",
+    "ip": "152.103.245.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie life skin leader. Source drop forward. Everyone local scientist along apply economic.",
+        "bio": "Case space picture. High on friend at.\nWar participant fall shoulder social area successful. There change worry audience design."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
