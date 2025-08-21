@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Newman",
+    "age": 80,
+    "address": {
+        "street": "Valerie Crossing",
+        "city": "Gonzalezmouth",
+        "state": "Virginia",
+        "zip": "73186"
+    },
+    "contact": {
+        "phone": "(784)743-5397x3741",
+        "servicePhone": "800473722"
+    },
+    "birthday": "1945-27-06",
+    "ip": "189.5.40.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow serve risk let audience card cell. This whose attorney participant stuff final. Or new before small.",
+        "bio": "Daughter authority possible great defense the American. Take record shoulder senior hundred. Watch anything sing.\nPopulation receive country too. Wife artist near serious."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
