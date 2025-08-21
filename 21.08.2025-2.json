@@ -1,0 +1,25 @@
+{
+    "name": "April Murray",
+    "age": 85,
+    "address": {
+        "street": "George Mission",
+        "city": "New Kimberlyshire",
+        "state": "Idaho",
+        "zip": "25402"
+    },
+    "contact": {
+        "phone": "490-733-6296",
+        "servicePhone": "800975917"
+    },
+    "birthday": "1940-07-01",
+    "ip": "99.31.16.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Six product six real.\nAmong environmental financial light eight. Suddenly beautiful west sort. Issue risk push sound entire book yeah firm.",
+        "bio": "Concern simple traditional hair employee show today practice. Team create feeling offer way place. Condition board still agree offer."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
