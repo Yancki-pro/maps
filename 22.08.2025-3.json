@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Wagner",
+    "age": 115,
+    "address": {
+        "street": "Tammy Falls",
+        "city": "South Jennifer",
+        "state": "Nevada",
+        "zip": "96545"
+    },
+    "contact": {
+        "phone": "(443)650-5468",
+        "servicePhone": "800102757"
+    },
+    "birthday": "1910-27-07",
+    "ip": "48.251.245.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Job authority well may provide ever student.\nPlan marriage industry whose prove year case. Hundred indicate it space.",
+        "bio": "Step issue song whether."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
