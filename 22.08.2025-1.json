@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Sullivan",
+    "age": 30,
+    "address": {
+        "street": "Jamie Club",
+        "city": "West Jacobberg",
+        "state": "North Dakota",
+        "zip": "55422"
+    },
+    "contact": {
+        "phone": "480-670-1686x83525",
+        "servicePhone": "800646553"
+    },
+    "birthday": "1995-04-02",
+    "ip": "128.100.213.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank about list card of voice. Sense can management. Environmental Mr join keep theory stay student.\nProduct maybe energy there. Little campaign get medical born beyond doctor.",
+        "bio": "Before fast leg. Many just might market fire.\nStop threat kitchen kind heavy. Use student cultural sense beautiful physical issue."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
