@@ -1,0 +1,25 @@
+{
+    "name": "Jeremiah Johnson",
+    "age": 86,
+    "address": {
+        "street": "Weber Mill",
+        "city": "Halltown",
+        "state": "Vermont",
+        "zip": "34056"
+    },
+    "contact": {
+        "phone": "001-493-884-5981x67849",
+        "servicePhone": "800371023"
+    },
+    "birthday": "1939-14-11",
+    "ip": "170.243.94.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Make indeed usually want serious never live. Hospital nearly I page across low use.\nMusic form contain explain why effect everything hospital. Half face growth bill fall fear.",
+        "bio": "Everybody create until too different. Picture fall usually event price skill outside. Yourself eat hot him."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
