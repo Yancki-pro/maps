@@ -1,0 +1,25 @@
+{
+    "name": "Connie Moreno",
+    "age": 31,
+    "address": {
+        "street": "Kenneth Isle",
+        "city": "Morgantown",
+        "state": "Louisiana",
+        "zip": "88633"
+    },
+    "contact": {
+        "phone": "8589371186",
+        "servicePhone": "800170727"
+    },
+    "birthday": "1994-31-05",
+    "ip": "112.235.216.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Response simply soldier skin news. Keep program agree section administration girl would. Political girl daughter structure indicate at television.",
+        "bio": "Local computer with red in subject. Election anything space add bring open.\nStaff draw project draw civil. Perform coach energy beautiful.\nDescribe network skill. Cover finally one truth agency ok."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
