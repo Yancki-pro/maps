@@ -1,0 +1,25 @@
+{
+    "name": "Fred Johnson",
+    "age": 48,
+    "address": {
+        "street": "Steven Meadows",
+        "city": "Jacquelineborough",
+        "state": "Massachusetts",
+        "zip": "01610"
+    },
+    "contact": {
+        "phone": "001-684-599-6032x1083",
+        "servicePhone": "800042387"
+    },
+    "birthday": "1977-04-02",
+    "ip": "195.50.187.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation along former leg participant such include expert. Fast instead world seat. Building international realize enough always enjoy.",
+        "bio": "City popular like friend reveal. War whom because focus. Plant race grow public."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
