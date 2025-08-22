@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Hicks",
+    "age": 82,
+    "address": {
+        "street": "Marie Parkways",
+        "city": "Madisonville",
+        "state": "Ohio",
+        "zip": "62743"
+    },
+    "contact": {
+        "phone": "(330)586-6200x2131",
+        "servicePhone": "800836952"
+    },
+    "birthday": "1943-23-02",
+    "ip": "18.137.149.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Next safe national meet middle arm. Treatment building protect she go friend. Hotel hospital level myself. Find dream science involve.",
+        "bio": "Audience evening kitchen local early strategy. Court Republican cold.\nRoom chair help pressure change. Perhaps moment manage low job however."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
