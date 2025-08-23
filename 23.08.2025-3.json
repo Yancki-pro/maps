@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Kim",
+    "age": 28,
+    "address": {
+        "street": "Todd Neck",
+        "city": "South Denise",
+        "state": "Maryland",
+        "zip": "05459"
+    },
+    "contact": {
+        "phone": "357-396-5756",
+        "servicePhone": "800491537"
+    },
+    "birthday": "1997-15-09",
+    "ip": "152.13.211.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Election rate anyone receive hundred. Must week suddenly tend rate across husband.\nWhite ball trial himself manager. Size trip guess within. Seat interesting sense position each structure cover.",
+        "bio": "Difference network whatever mean eye production part every. Attorney blue later attention.\nSociety strong cup money eat than though. Challenge about us station well even very nature."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
