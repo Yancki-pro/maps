@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Cruz",
+    "age": 78,
+    "address": {
+        "street": "Bonnie Stravenue",
+        "city": "South Steventown",
+        "state": "New Jersey",
+        "zip": "58356"
+    },
+    "contact": {
+        "phone": "531-298-9466x2363",
+        "servicePhone": "800408146"
+    },
+    "birthday": "1947-21-09",
+    "ip": "50.52.194.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask kitchen federal. Factor amount season draw join American.\nStrong shake along detail. Probably happy dream difficult here.",
+        "bio": "Book establish among. Congress home professor toward during statement phone. Door popular spring individual of director out.\nExactly fight other too. Physical board practice arrive tell."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
