@@ -1,0 +1,25 @@
+{
+    "name": "Toni Ewing",
+    "age": 61,
+    "address": {
+        "street": "Brad Square",
+        "city": "Port Briannachester",
+        "state": "Hawaii",
+        "zip": "80342"
+    },
+    "contact": {
+        "phone": "5542334696",
+        "servicePhone": "800092340"
+    },
+    "birthday": "1964-08-08",
+    "ip": "181.136.91.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Response edge Congress wind feeling song. These do speak stay begin apply cost. Soon too here perform change president recognize. Maintain task toward nearly subject wish cup.",
+        "bio": "Finally development above PM day. Environmental want although news.\nReady window require dog dark. Long increase break deal industry city. Believe which open we."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
