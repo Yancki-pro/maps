@@ -1,0 +1,25 @@
+{
+    "name": "John Hill",
+    "age": 55,
+    "address": {
+        "street": "Diane Underpass",
+        "city": "Andersonland",
+        "state": "New Mexico",
+        "zip": "10239"
+    },
+    "contact": {
+        "phone": "+1-649-488-2739",
+        "servicePhone": "800914188"
+    },
+    "birthday": "1970-23-09",
+    "ip": "68.246.131.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Could when relate center fund woman apply. Carry economic think couple result method glass.",
+        "bio": "Against radio ground line four beat. Work play sometimes concern turn carry catch. Myself left though successful child toward."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
