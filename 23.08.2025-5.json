@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Salazar",
+    "age": 79,
+    "address": {
+        "street": "Jackson Heights",
+        "city": "Lake Jackiefurt",
+        "state": "New Jersey",
+        "zip": "23535"
+    },
+    "contact": {
+        "phone": "700-371-3343",
+        "servicePhone": "800179586"
+    },
+    "birthday": "1946-27-02",
+    "ip": "11.165.193.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Again community might notice standard so. Church oil plan case. Meet half moment sea road.",
+        "bio": "Work case more concern choice.\nRight medical continue century. Attack manage instead clearly face that science now. Short learn tonight financial create region."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
