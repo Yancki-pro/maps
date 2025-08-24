@@ -1,0 +1,25 @@
+{
+    "name": "Mr. George Huber",
+    "age": 95,
+    "address": {
+        "street": "Christina Land",
+        "city": "Navarromouth",
+        "state": "Wyoming",
+        "zip": "79893"
+    },
+    "contact": {
+        "phone": "001-526-640-6821x9674",
+        "servicePhone": "800394759"
+    },
+    "birthday": "1930-19-10",
+    "ip": "95.85.66.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind first good evidence speak network specific. Ground create run nature yourself good above. Conference score image.",
+        "bio": "Continue campaign especially. Nothing thing sure thousand. Major either Congress appear.\nAgent happen suddenly hundred employee Democrat culture. Common finally himself technology."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
