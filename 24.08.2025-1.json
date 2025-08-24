@@ -1,0 +1,25 @@
+{
+    "name": "Amber Conley",
+    "age": 113,
+    "address": {
+        "street": "Sharp Center",
+        "city": "Victorland",
+        "state": "Delaware",
+        "zip": "37288"
+    },
+    "contact": {
+        "phone": "(421)252-3102",
+        "servicePhone": "800548734"
+    },
+    "birthday": "1912-14-10",
+    "ip": "13.244.118.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Push allow good stop. Interest boy thousand strategy town unit floor report. Fish through fear step. Fall camera sell else.\nBeat simple floor magazine real challenge piece.",
+        "bio": "Author nearly fine. The whole game person. Certainly north reduce unit they claim interest.\nRisk author represent learn stock actually better. Avoid participant yes red page."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
