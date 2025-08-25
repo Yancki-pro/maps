@@ -1,0 +1,25 @@
+{
+    "name": "Allison Lucas",
+    "age": 88,
+    "address": {
+        "street": "Fitzgerald Road",
+        "city": "Weberborough",
+        "state": "Colorado",
+        "zip": "79291"
+    },
+    "contact": {
+        "phone": "594.312.6862",
+        "servicePhone": "800815433"
+    },
+    "birthday": "1937-20-09",
+    "ip": "37.116.75.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood degree arrive today manage describe. Who building sell. Reason general when happy dinner really. Get live couple whom.\nWrite sport create really. Story good east page.",
+        "bio": "News art let too. Perform data arm view live particularly story program.\nStrong peace attention American. Nature those large build nice. You culture order story song well sing."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
