@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Hernandez",
+    "age": 22,
+    "address": {
+        "street": "Scott Brook",
+        "city": "Stevenland",
+        "state": "Florida",
+        "zip": "76424"
+    },
+    "contact": {
+        "phone": "(320)559-0913",
+        "servicePhone": "800857127"
+    },
+    "birthday": "2003-10-04",
+    "ip": "130.228.202.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Time effort apply force. Including down sure appear central near.\nOption season new tax especially.\nHappen wear gun. Agreement follow contain size.",
+        "bio": "Site brother level evening process. Turn offer end effort theory wind. Person heart on really."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
