@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Barnes",
+    "age": 109,
+    "address": {
+        "street": "Gonzalez Ports",
+        "city": "Micheleville",
+        "state": "Idaho",
+        "zip": "43367"
+    },
+    "contact": {
+        "phone": "455.749.9274x397",
+        "servicePhone": "800773171"
+    },
+    "birthday": "1916-30-11",
+    "ip": "148.248.27.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Like support officer enough believe among now.\nCentral you capital staff thank rise. Method trade raise store. Wear nor plant nothing.",
+        "bio": "Control recently close official. Control worry way both. Stay nor rate possible partner because chance.\nBeat serious realize second. Responsibility half including my."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
