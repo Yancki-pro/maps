@@ -1,0 +1,25 @@
+{
+    "name": "Jason Willis",
+    "age": 31,
+    "address": {
+        "street": "Chaney Island",
+        "city": "Michaelborough",
+        "state": "Arkansas",
+        "zip": "20561"
+    },
+    "contact": {
+        "phone": "630.422.7990x9763",
+        "servicePhone": "800261650"
+    },
+    "birthday": "1994-29-07",
+    "ip": "113.58.189.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Two candidate land set growth. World material understand. Remember professor guy TV kid nature move raise.\nDemocratic scientist sort hair over figure. Class full station bring despite.",
+        "bio": "Art instead bring think thing. Go describe test billion attorney.\nSometimes morning cost sell. Career people learn charge already so share. Cause decision deal leave us."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
