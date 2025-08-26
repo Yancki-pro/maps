@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Gibson",
+    "age": 10,
+    "address": {
+        "street": "Michael Garden",
+        "city": "Port Christopherberg",
+        "state": "Delaware",
+        "zip": "36440"
+    },
+    "contact": {
+        "phone": "+1-765-494-0541x18598",
+        "servicePhone": "800918224"
+    },
+    "birthday": "2015-06-05",
+    "ip": "123.40.129.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Age marriage wait hold spend actually. Lose pretty she page company go toward. Third son fund company. Interest thank anything newspaper someone during simply suddenly.",
+        "bio": "Toward continue there great range call what run.\nAbility discover develop anyone. Red friend age contain throughout player."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
