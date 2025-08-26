@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Johns",
+    "age": 15,
+    "address": {
+        "street": "Ashley Stream",
+        "city": "North James",
+        "state": "North Carolina",
+        "zip": "79194"
+    },
+    "contact": {
+        "phone": "+1-416-895-7251x0686",
+        "servicePhone": "800956649"
+    },
+    "birthday": "2010-01-05",
+    "ip": "103.22.191.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer authority power. Speech candidate fire community. Believe direction determine successful tree free three woman.\nProbably herself single many. Question forget weight hundred style raise.",
+        "bio": "Want own wear side use. Kitchen chance ability. Since collection several long. Quality art floor bank actually three television.\nBar north present coach. Chance his very role."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
