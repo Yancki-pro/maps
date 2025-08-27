@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Thompson",
+    "age": 64,
+    "address": {
+        "street": "Henry Turnpike",
+        "city": "South Ian",
+        "state": "Texas",
+        "zip": "16279"
+    },
+    "contact": {
+        "phone": "627-557-3665",
+        "servicePhone": "800054589"
+    },
+    "birthday": "1961-08-05",
+    "ip": "220.181.142.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Them grow produce be beat food. Sort including series back play piece. I yet two front. These test parent suggest speech.",
+        "bio": "Level control more along. Suddenly why family marriage discussion realize. Car almost artist plan.\nSuddenly community job. Training difficult indicate party power station.\nModern station black."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
