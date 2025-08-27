@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Price",
+    "age": 15,
+    "address": {
+        "street": "Pamela Rest",
+        "city": "New Ambertown",
+        "state": "North Carolina",
+        "zip": "49795"
+    },
+    "contact": {
+        "phone": "+1-891-229-0007",
+        "servicePhone": "800864020"
+    },
+    "birthday": "2010-13-12",
+    "ip": "186.60.251.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Player research wish. Set statement recent listen improve ago.\nPerhaps case scene especially PM range large. Prevent paper act thought. Allow take performance simple letter.",
+        "bio": "Call store with concern certain nearly happen condition. Note baby black international leader. Hour prevent age no onto perform."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
