@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Moore",
+    "age": 28,
+    "address": {
+        "street": "John Station",
+        "city": "Lake Travisville",
+        "state": "Maryland",
+        "zip": "18387"
+    },
+    "contact": {
+        "phone": "2069027094",
+        "servicePhone": "800894451"
+    },
+    "birthday": "1997-13-06",
+    "ip": "136.43.53.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Town number make institution financial one always. Affect travel thank same become program owner. Task glass suddenly TV reduce discuss about same.",
+        "bio": "Phone meet think ready player surface happen force. Fact yet item music.\nHuman oil these black say. Civil camera meet necessary something trip."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
