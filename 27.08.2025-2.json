@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Shepard",
+    "age": 105,
+    "address": {
+        "street": "Valenzuela Orchard",
+        "city": "Sheaview",
+        "state": "Indiana",
+        "zip": "10745"
+    },
+    "contact": {
+        "phone": "407.743.4246x28337",
+        "servicePhone": "800226954"
+    },
+    "birthday": "1920-06-05",
+    "ip": "176.175.158.53",
+    "foo": "bar",
+    "profile": {
+        "about": "He specific member similar them. Rather entire fund consider card itself gun.\nPiece art politics guess simple anything cause reach. Share one room start. Plan share type lay this agency.",
+        "bio": "Ability see attention entire.\nThough develop wind down miss argue garden hit. Top us movement space consider candidate factor."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
