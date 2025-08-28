@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Murray",
+    "age": 83,
+    "address": {
+        "street": "Patricia Curve",
+        "city": "Cynthiaside",
+        "state": "Pennsylvania",
+        "zip": "11273"
+    },
+    "contact": {
+        "phone": "(612)231-9113",
+        "servicePhone": "800567506"
+    },
+    "birthday": "1942-25-11",
+    "ip": "30.66.176.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Television issue fall myself major decision their. Catch new rate. Film put music green visit charge fine.",
+        "bio": "Star price we event between sister represent here. Television lose because our history sort responsibility. Wide yet protect produce animal smile western try."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
