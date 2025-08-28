@@ -1,0 +1,25 @@
+{
+    "name": "Brian Thomas",
+    "age": 98,
+    "address": {
+        "street": "Brandon Avenue",
+        "city": "Lake Barbara",
+        "state": "Wyoming",
+        "zip": "68320"
+    },
+    "contact": {
+        "phone": "001-780-804-9035",
+        "servicePhone": "800793775"
+    },
+    "birthday": "1927-05-07",
+    "ip": "31.209.30.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Science sing full entire apply hot while. Safe newspaper speech rest. Our until particular oil.",
+        "bio": "Star range imagine receive. Support different score move project audience color."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
