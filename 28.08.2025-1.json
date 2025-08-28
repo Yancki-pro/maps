@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Smith",
+    "age": 105,
+    "address": {
+        "street": "Charlotte Spring",
+        "city": "Woodsshire",
+        "state": "Georgia",
+        "zip": "49230"
+    },
+    "contact": {
+        "phone": "532.561.0803x7946",
+        "servicePhone": "800049208"
+    },
+    "birthday": "1920-02-09",
+    "ip": "128.128.228.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Population green throw entire write a. Fast west approach order cut fall. Lead pretty score allow almost than moment child.\nTop hit night main.",
+        "bio": "Ahead reach response. Enough him fine hold imagine walk. Key floor writer seek or talk difficult buy."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
