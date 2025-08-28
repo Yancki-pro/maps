@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Williams",
+    "age": 39,
+    "address": {
+        "street": "Schneider Ridges",
+        "city": "Lake Annachester",
+        "state": "Tennessee",
+        "zip": "83648"
+    },
+    "contact": {
+        "phone": "784.520.5096",
+        "servicePhone": "800190359"
+    },
+    "birthday": "1986-02-09",
+    "ip": "221.80.255.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Light she work set himself. Prove every system. Hot tell wrong when drop enough. Who read boy without however two already.\nMiss responsibility loss few. Down sea appear act.",
+        "bio": "Health cause table trip exactly magazine help hand. Have voice forward computer fast structure. Hotel notice budget factor prove."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
