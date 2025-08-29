@@ -1,0 +1,25 @@
+{
+    "name": "William Castillo",
+    "age": 50,
+    "address": {
+        "street": "William Square",
+        "city": "West Mary",
+        "state": "Delaware",
+        "zip": "20277"
+    },
+    "contact": {
+        "phone": "419-738-3093",
+        "servicePhone": "800756728"
+    },
+    "birthday": "1975-10-03",
+    "ip": "73.216.120.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough travel cup top indicate. Its company coach.\nFirst professional yes read. Plan industry model cup music worry he.\nEspecially success however its add work interesting. Cold every language go.",
+        "bio": "Pretty activity debate law reason hot. Change color pretty policy challenge mouth add. Fight human know it.\nReduce media enter trip. Few effort prevent often chance young."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
