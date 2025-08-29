@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Price",
+    "age": 114,
+    "address": {
+        "street": "Lindsay Mount",
+        "city": "Lake Jonathan",
+        "state": "West Virginia",
+        "zip": "93153"
+    },
+    "contact": {
+        "phone": "001-542-439-3618x4023",
+        "servicePhone": "800510109"
+    },
+    "birthday": "1911-08-09",
+    "ip": "141.144.131.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Station play factor community human ability mother. More whether performance beat. Person yeah popular yeah clear pay subject poor.",
+        "bio": "How social picture million which dog city carry. From before market performance need. Most quickly animal sometimes fast fire order."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
