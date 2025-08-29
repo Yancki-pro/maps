@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Allen",
+    "age": 80,
+    "address": {
+        "street": "Robinson Fields",
+        "city": "Matthewview",
+        "state": "Montana",
+        "zip": "99713"
+    },
+    "contact": {
+        "phone": "(461)648-7052",
+        "servicePhone": "800051652"
+    },
+    "birthday": "1945-29-06",
+    "ip": "222.173.246.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Father forward still oil cause. Husband threat agreement institution still. Produce feeling single son.",
+        "bio": "Film training there member fill. Resource lay another idea live. Maybe customer success."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
