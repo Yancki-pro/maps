@@ -1,0 +1,25 @@
+{
+    "name": "John West",
+    "age": 63,
+    "address": {
+        "street": "Kim Plaza",
+        "city": "West Bonnie",
+        "state": "Missouri",
+        "zip": "35009"
+    },
+    "contact": {
+        "phone": "416.916.2368x04660",
+        "servicePhone": "800522998"
+    },
+    "birthday": "1962-14-08",
+    "ip": "49.32.133.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil quickly job during name. Wish issue state they chair degree.\nBall learn see nor bag but account.",
+        "bio": "When same together early total arm. Rich police ground admit. Save movie until same."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
