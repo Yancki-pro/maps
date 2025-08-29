@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Saunders",
+    "age": 14,
+    "address": {
+        "street": "Dawson Land",
+        "city": "East Pam",
+        "state": "Idaho",
+        "zip": "41795"
+    },
+    "contact": {
+        "phone": "001-955-277-2810x225",
+        "servicePhone": "800299497"
+    },
+    "birthday": "2011-16-02",
+    "ip": "194.175.136.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Tonight car prepare year establish. Indeed provide receive ten show Democrat. Pattern allow stay skill can study feeling.",
+        "bio": "Central view science own operation live. Event begin choose.\nProbably age form. Rich responsibility machine risk direction half feeling something."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
