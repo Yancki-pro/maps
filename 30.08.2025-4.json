@@ -1,0 +1,25 @@
+{
+    "name": "Paul Morris",
+    "age": 108,
+    "address": {
+        "street": "Janice Inlet",
+        "city": "Tracyborough",
+        "state": "Wisconsin",
+        "zip": "67886"
+    },
+    "contact": {
+        "phone": "+1-944-883-9285x948",
+        "servicePhone": "800059375"
+    },
+    "birthday": "1917-09-11",
+    "ip": "184.112.66.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Road probably treat determine source six. People building maintain bad. Lose east stage appear idea across. Discover wrong later across.",
+        "bio": "Form to prevent necessary visit. Maintain hand financial.\nDinner occur when seem national wife generation. Medical six program."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
