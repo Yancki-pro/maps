@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Serrano",
+    "age": 32,
+    "address": {
+        "street": "Smith Center",
+        "city": "Keithmouth",
+        "state": "Michigan",
+        "zip": "47047"
+    },
+    "contact": {
+        "phone": "001-745-680-2722",
+        "servicePhone": "800568487"
+    },
+    "birthday": "1993-14-10",
+    "ip": "159.2.168.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Law throughout little attack deal. Everyone plant other American reach along political.\nEvent foreign individual item discuss government maintain. Tonight away side leg.",
+        "bio": "Exactly paper those agreement allow would. Indicate dog summer item.\nAlone experience everything. Economic sea enjoy green fall. Interview expert wind speech three kind."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
