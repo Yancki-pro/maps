@@ -1,0 +1,25 @@
+{
+    "name": "Sue Tucker",
+    "age": 2,
+    "address": {
+        "street": "Gonzalez Estate",
+        "city": "Lake Pamela",
+        "state": "Idaho",
+        "zip": "74609"
+    },
+    "contact": {
+        "phone": "+1-841-772-6224x293",
+        "servicePhone": "800265841"
+    },
+    "birthday": "2023-16-08",
+    "ip": "184.203.77.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble appear them forget decision. Left machine however range.\nCivil without buy picture. Mouth news wrong senior world.",
+        "bio": "Pass idea pressure his forward turn.\nHome push east ready. Quality model side foot center. Whose matter continue care interview."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
