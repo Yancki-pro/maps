@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Adams",
+    "age": 28,
+    "address": {
+        "street": "Kimberly Causeway",
+        "city": "Powellfurt",
+        "state": "Kentucky",
+        "zip": "99027"
+    },
+    "contact": {
+        "phone": "273.638.5356",
+        "servicePhone": "800163297"
+    },
+    "birthday": "1997-27-01",
+    "ip": "138.162.235.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Key happy include buy imagine. Pattern discuss full manager grow. Quite debate land like other find.",
+        "bio": "Right position set decision.\nWall condition recent than back machine. Community challenge participant point lay soldier effort. Sure cup onto future us message.\nFire with same whose."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
