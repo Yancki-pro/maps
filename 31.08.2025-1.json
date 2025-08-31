@@ -1,0 +1,25 @@
+{
+    "name": "Donald Perry",
+    "age": 45,
+    "address": {
+        "street": "Mackenzie Vista",
+        "city": "Jenniferhaven",
+        "state": "Minnesota",
+        "zip": "67191"
+    },
+    "contact": {
+        "phone": "001-368-566-7017",
+        "servicePhone": "800302116"
+    },
+    "birthday": "1980-10-10",
+    "ip": "41.219.79.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate girl action listen. Modern modern indeed garden guy occur.\nMr left less clearly. Ground usually live both. Field message likely free movie skill Congress.",
+        "bio": "Shoulder police who join benefit record. Difference stage knowledge middle. Real use cause base necessary. Sister to cover."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
