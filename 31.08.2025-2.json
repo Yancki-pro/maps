@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Obrien",
+    "age": 75,
+    "address": {
+        "street": "Mooney Courts",
+        "city": "North Cynthiafort",
+        "state": "New Jersey",
+        "zip": "55124"
+    },
+    "contact": {
+        "phone": "707-248-8295x186",
+        "servicePhone": "800048814"
+    },
+    "birthday": "1950-01-05",
+    "ip": "186.150.126.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly close minute fund between. See scientist watch three image treatment challenge. Attorney I manage since reflect million likely report.",
+        "bio": "Say benefit indeed kitchen. Late tax approach way. Seven heavy state real will sure.\nKind city nothing pick cost can. Push sure along tough."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
