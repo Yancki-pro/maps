@@ -1,0 +1,25 @@
+{
+    "name": "David Day",
+    "age": 63,
+    "address": {
+        "street": "Christensen Plaza",
+        "city": "New Lauratown",
+        "state": "Arkansas",
+        "zip": "95668"
+    },
+    "contact": {
+        "phone": "833-322-2999",
+        "servicePhone": "800665258"
+    },
+    "birthday": "1962-13-01",
+    "ip": "117.117.62.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute run indeed front. Return blue against tend even stop.",
+        "bio": "Yet say may admit in return clear. Manage last board address house improve early follow.\nBack us poor industry science. Subject what new PM."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
