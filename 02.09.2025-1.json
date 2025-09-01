@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Moore",
+    "age": 24,
+    "address": {
+        "street": "Mallory Brook",
+        "city": "Matthewside",
+        "state": "South Dakota",
+        "zip": "74706"
+    },
+    "contact": {
+        "phone": "3992341563",
+        "servicePhone": "800809626"
+    },
+    "birthday": "2001-02-07",
+    "ip": "38.63.142.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto personal source past dark foot. Employee successful business imagine single man turn. Travel talk hope serve.",
+        "bio": "Yes radio seat article charge. Whole feel quite benefit. Before low indeed continue those over. Statement way agreement a on war.\nInterest wear including game go. Risk never watch series."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
