@@ -1,0 +1,25 @@
+{
+    "name": "Amber Johnson",
+    "age": 47,
+    "address": {
+        "street": "Debra Valleys",
+        "city": "South Austinland",
+        "state": "Minnesota",
+        "zip": "48540"
+    },
+    "contact": {
+        "phone": "840-767-0552x5759",
+        "servicePhone": "800085401"
+    },
+    "birthday": "1978-27-08",
+    "ip": "131.63.136.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Service baby will listen. Among detail tax candidate natural east. News draw see community protect among institution.",
+        "bio": "Garden benefit fact national wide response political. Forward land nature behavior will.\nThird tough society crime tonight good. By development keep. Education sometimes yes position role."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
