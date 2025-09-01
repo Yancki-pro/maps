@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Compton",
+    "age": 1,
+    "address": {
+        "street": "Cesar Extensions",
+        "city": "South Jeremyton",
+        "state": "South Dakota",
+        "zip": "72978"
+    },
+    "contact": {
+        "phone": "9368050220",
+        "servicePhone": "800494369"
+    },
+    "birthday": "2024-21-06",
+    "ip": "27.134.207.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon strong night upon thought final only. Learn economy mother son often shake kid.\nPractice treatment despite six if hour. Choice word model forward inside.",
+        "bio": "Describe enjoy step three. Machine southern environmental hit. Believe prepare write collection happy happy social cut."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
