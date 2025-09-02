@@ -1,0 +1,25 @@
+{
+    "name": "Cory Young",
+    "age": 19,
+    "address": {
+        "street": "Dalton Stravenue",
+        "city": "East Laurenberg",
+        "state": "Utah",
+        "zip": "15285"
+    },
+    "contact": {
+        "phone": "(743)312-5918x062",
+        "servicePhone": "800054065"
+    },
+    "birthday": "2006-10-08",
+    "ip": "65.244.158.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact many wind together. Short season least near where tell should. Make choose million real.\nFuture career responsibility cell industry. Yes describe easy eat.",
+        "bio": "Camera relate compare. For book measure red culture. Civil we one bad. Structure friend over analysis his prove mind."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
