@@ -1,0 +1,25 @@
+{
+    "name": "David Cohen",
+    "age": 106,
+    "address": {
+        "street": "Jennifer Roads",
+        "city": "Georgeshire",
+        "state": "Louisiana",
+        "zip": "30391"
+    },
+    "contact": {
+        "phone": "(609)907-4099x53613",
+        "servicePhone": "800373210"
+    },
+    "birthday": "1919-15-09",
+    "ip": "118.80.90.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Information none pretty reason thought friend star. Enter spend summer much play age decision.\nMuch record condition head Democrat believe no leader. Course clear produce that loss democratic.",
+        "bio": "Vote team bad table above story. Morning source boy shoulder already test general. Somebody time thing picture. Together sing your accept.\nThroughout nearly radio loss."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
