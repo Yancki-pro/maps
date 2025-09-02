@@ -1,0 +1,25 @@
+{
+    "name": "Jon Costa",
+    "age": 55,
+    "address": {
+        "street": "Watkins Curve",
+        "city": "Brownbury",
+        "state": "Louisiana",
+        "zip": "08291"
+    },
+    "contact": {
+        "phone": "001-746-321-0333x851",
+        "servicePhone": "800128183"
+    },
+    "birthday": "1970-25-12",
+    "ip": "84.14.203.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Be along sound lose. System hold write Mrs tough.\nHerself key on international question. Group message important home their why. Create assume age piece.",
+        "bio": "We magazine idea include leader. Want on get many. Spring serious job across a.\nPresident manage character realize deep able. Allow check letter discuss. Their focus game one weight."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
