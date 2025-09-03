@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Morgan",
+    "age": 40,
+    "address": {
+        "street": "Ingram Alley",
+        "city": "Port Linda",
+        "state": "Arizona",
+        "zip": "65961"
+    },
+    "contact": {
+        "phone": "+1-489-461-9366",
+        "servicePhone": "800984507"
+    },
+    "birthday": "1985-31-12",
+    "ip": "35.227.214.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Night fear treat mouth least together these. Include anyone bag ability simple realize first understand. Recent community parent career.",
+        "bio": "View center participant.\nWestern site hundred behavior. Her tonight want daughter. Describe positive never program."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
