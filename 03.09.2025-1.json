@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Thornton",
+    "age": 95,
+    "address": {
+        "street": "Myers Dam",
+        "city": "Bellfurt",
+        "state": "West Virginia",
+        "zip": "82286"
+    },
+    "contact": {
+        "phone": "+1-904-365-5537",
+        "servicePhone": "800111026"
+    },
+    "birthday": "1930-16-08",
+    "ip": "22.114.126.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain health daughter call teacher step activity. Cold employee laugh fish information only probably. Analysis present quickly maybe should memory yeah blue.\nBoard should work cold arm.",
+        "bio": "Myself pick hand hold. Either hundred rest. Both like with according cover local trouble."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
