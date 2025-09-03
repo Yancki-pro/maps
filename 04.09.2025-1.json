@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Scott",
+    "age": 52,
+    "address": {
+        "street": "Jones Islands",
+        "city": "Lake Karentown",
+        "state": "Wisconsin",
+        "zip": "53048"
+    },
+    "contact": {
+        "phone": "650.922.0632",
+        "servicePhone": "800345361"
+    },
+    "birthday": "1973-22-07",
+    "ip": "211.144.137.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover daughter military different result western. Head maybe simply rather prove thought. Girl these company try write.\nDefense vote today class weight star approach.",
+        "bio": "Sea mean soon area. Most significant success rate magazine five.\nBetween beat writer college although evidence floor. Listen accept common inside. None maybe rate require keep."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
