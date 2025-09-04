@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Turner",
+    "age": 36,
+    "address": {
+        "street": "Marks Square",
+        "city": "Quinnfort",
+        "state": "Wisconsin",
+        "zip": "07674"
+    },
+    "contact": {
+        "phone": "205-972-9701",
+        "servicePhone": "800411470"
+    },
+    "birthday": "1989-16-08",
+    "ip": "78.244.70.72",
+    "foo": "bar",
+    "profile": {
+        "about": "System course near reflect pay mother. Heart sure help what. Deal remain book born station.\nDinner history about food trip. Green memory write level. Organization from provide difference.",
+        "bio": "Its produce pay former large structure. Community very at begin brother situation usually.\nSkin choice professional response choice. Give onto information policy."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
