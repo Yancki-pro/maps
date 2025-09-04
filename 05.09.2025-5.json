@@ -1,0 +1,25 @@
+{
+    "name": "Ann Olson",
+    "age": 27,
+    "address": {
+        "street": "Hahn Terrace",
+        "city": "Lake Jacqueline",
+        "state": "Colorado",
+        "zip": "58099"
+    },
+    "contact": {
+        "phone": "714-521-0138",
+        "servicePhone": "800170172"
+    },
+    "birthday": "1998-09-12",
+    "ip": "103.234.18.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Player security lot. For early attack institution.\nLeave modern deal career coach. Should miss participant month but.",
+        "bio": "Bit teach firm inside. Enough democratic manage energy machine fall difficult. Attorney thought building worry return then."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
