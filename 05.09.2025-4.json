@@ -1,0 +1,25 @@
+{
+    "name": "James Gutierrez",
+    "age": 24,
+    "address": {
+        "street": "Martin Mountain",
+        "city": "Alfredtown",
+        "state": "Virginia",
+        "zip": "40085"
+    },
+    "contact": {
+        "phone": "001-212-716-0621x177",
+        "servicePhone": "800042700"
+    },
+    "birthday": "2001-03-01",
+    "ip": "129.99.57.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional themselves answer seek real fill.\nAmount future region record something. Structure character least fear.",
+        "bio": "Public table administration shake few citizen own. Way recently network evening by wall daughter. Force exist anything end."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
