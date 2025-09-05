@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Kelley",
+    "age": 64,
+    "address": {
+        "street": "Glenn Land",
+        "city": "Susanshire",
+        "state": "Wyoming",
+        "zip": "91511"
+    },
+    "contact": {
+        "phone": "859.936.6393x5522",
+        "servicePhone": "800313618"
+    },
+    "birthday": "1961-03-03",
+    "ip": "22.46.216.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Four standard available help those doctor indeed. Early allow concern there.\nRather during matter. Upon chance key like structure return something.",
+        "bio": "This history piece assume check. Firm economic usually test.\nPerform choice too by seem. Result imagine star eight part we."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
