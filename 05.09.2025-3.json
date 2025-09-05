@@ -1,0 +1,25 @@
+{
+    "name": "Angela Valencia",
+    "age": 6,
+    "address": {
+        "street": "Salas Summit",
+        "city": "Ellenland",
+        "state": "Arizona",
+        "zip": "62317"
+    },
+    "contact": {
+        "phone": "2115730128",
+        "servicePhone": "800767087"
+    },
+    "birthday": "2019-25-12",
+    "ip": "175.249.38.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural standard also drug all. Indicate nothing hit issue product need test.",
+        "bio": "Week suffer resource technology attorney book. Indicate receive space if about.\nAfter allow drive contain tax them try stock. Share certain guess certainly product member. Amount seek whatever light."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
