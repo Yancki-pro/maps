@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Garcia",
+    "age": 112,
+    "address": {
+        "street": "Ibarra Underpass",
+        "city": "Rodriguezmouth",
+        "state": "Iowa",
+        "zip": "92134"
+    },
+    "contact": {
+        "phone": "9548696526",
+        "servicePhone": "800349265"
+    },
+    "birthday": "1913-16-04",
+    "ip": "88.185.86.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Part myself contain share as what. President summer believe green. Result beat stock produce explain rule check.",
+        "bio": "Example easy cause to site worry. Reveal audience better start morning imagine low.\nBack as total. Mean TV some appear apply all western. Tell six moment education catch strategy."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
