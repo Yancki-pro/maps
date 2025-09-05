@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Marsh",
+    "age": 15,
+    "address": {
+        "street": "Phelps Hills",
+        "city": "Olsonview",
+        "state": "Louisiana",
+        "zip": "58895"
+    },
+    "contact": {
+        "phone": "798-598-0358",
+        "servicePhone": "800007327"
+    },
+    "birthday": "2010-08-12",
+    "ip": "197.15.52.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort respond trouble scientist continue can safe. Administration part feel market. Ground there rate hold outside beautiful both.",
+        "bio": "Necessary usually worry far can campaign. Identify audience quite central beautiful economy.\nCollection ago cold image well. Trouble hotel glass message figure."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
