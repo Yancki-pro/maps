@@ -1,0 +1,25 @@
+{
+    "name": "Kara Miller",
+    "age": 42,
+    "address": {
+        "street": "Hines Burgs",
+        "city": "Ronaldchester",
+        "state": "Rhode Island",
+        "zip": "50966"
+    },
+    "contact": {
+        "phone": "495-744-8201x76464",
+        "servicePhone": "800123394"
+    },
+    "birthday": "1983-02-11",
+    "ip": "219.63.15.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Large teach traditional.\nOrganization onto hear talk according wonder turn here. Good reach fear.",
+        "bio": "Enter game end activity open race improve. Husband only little open student remember education. Bring moment friend war."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
