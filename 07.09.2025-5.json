@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Noble",
+    "age": 8,
+    "address": {
+        "street": "John Spring",
+        "city": "West Jenniferhaven",
+        "state": "Kentucky",
+        "zip": "28359"
+    },
+    "contact": {
+        "phone": "(284)292-9062x2878",
+        "servicePhone": "800022845"
+    },
+    "birthday": "2017-27-01",
+    "ip": "182.180.126.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay high wish general he. Entire city indicate. Teacher poor company with keep medical to.\nReport sure head almost miss floor. Clearly weight stuff something it whether hour.",
+        "bio": "Edge bring watch time Mrs. Here form clearly federal never popular number.\nClose third too food. Production range threat meeting."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
