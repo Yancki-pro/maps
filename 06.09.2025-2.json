@@ -1,0 +1,25 @@
+{
+    "name": "David Black",
+    "age": 16,
+    "address": {
+        "street": "Taylor Junctions",
+        "city": "South Davidmouth",
+        "state": "Texas",
+        "zip": "19411"
+    },
+    "contact": {
+        "phone": "+1-227-868-9006x362",
+        "servicePhone": "800456835"
+    },
+    "birthday": "2009-07-08",
+    "ip": "64.24.43.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Along early against animal focus teacher challenge. Specific almost fight former choice likely skill.\nMost figure just. Meet recently focus special ready institution around.",
+        "bio": "Career mother on forward guess investment realize. Seat tax hour child establish technology president. Structure book state instead.\nSister hope respond."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
