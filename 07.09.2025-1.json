@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Jackson",
+    "age": 86,
+    "address": {
+        "street": "Brown Way",
+        "city": "Jonesberg",
+        "state": "Delaware",
+        "zip": "75626"
+    },
+    "contact": {
+        "phone": "+1-496-588-3765x27750",
+        "servicePhone": "800384973"
+    },
+    "birthday": "1939-30-10",
+    "ip": "202.28.18.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Push free story successful country nature try. Then itself recently attorney weight.\nInto PM push pick boy its serve day. Interest must five firm send. Include physical operation condition.",
+        "bio": "Position eye form be memory game customer. Trial page professional see item."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
