@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Jackson",
+    "age": 31,
+    "address": {
+        "street": "Hall Pike",
+        "city": "Anthonyland",
+        "state": "North Dakota",
+        "zip": "97406"
+    },
+    "contact": {
+        "phone": "7328364703",
+        "servicePhone": "800749070"
+    },
+    "birthday": "1994-02-04",
+    "ip": "31.186.117.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Between light visit book than plant. Action house account east owner bag one.\nNews stuff guy professor. Free outside notice.\nDream sit great million past. Lawyer new society travel tend senior.",
+        "bio": "Military like live direction expect offer available tough. Worker fish wide father point Republican small south.\nDay reflect color. Assume girl focus."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
