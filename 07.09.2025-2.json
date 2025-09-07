@@ -1,0 +1,25 @@
+{
+    "name": "Hunter Zhang",
+    "age": 32,
+    "address": {
+        "street": "Hogan Port",
+        "city": "East Tarashire",
+        "state": "Arkansas",
+        "zip": "69241"
+    },
+    "contact": {
+        "phone": "892-444-2549x73464",
+        "servicePhone": "800798990"
+    },
+    "birthday": "1993-26-07",
+    "ip": "63.80.217.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover lose number newspaper main walk pattern beautiful. Generation politics film. Argue half treatment others chair.",
+        "bio": "Machine thing one top with other woman.\nDemocratic this college enough collection fly. Heavy daughter same later dog real throughout.\nAuthority writer between. Physical admit eight serious new."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
