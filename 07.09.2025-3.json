@@ -1,0 +1,25 @@
+{
+    "name": "Paul Chen",
+    "age": 80,
+    "address": {
+        "street": "Tracy Fall",
+        "city": "New Andrewside",
+        "state": "Kentucky",
+        "zip": "54105"
+    },
+    "contact": {
+        "phone": "547.970.4646x883",
+        "servicePhone": "800946999"
+    },
+    "birthday": "1945-11-05",
+    "ip": "189.66.142.15",
+    "foo": "bar",
+    "profile": {
+        "about": "During administration protect shoulder where. Suddenly record open available contain leg.\nDecision you skill cold money surface amount. Personal again word parent college life.",
+        "bio": "School collection commercial then detail young garden test. Simply employee dinner image deal relate. Fall always adult month simple race energy."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
