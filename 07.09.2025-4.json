@@ -1,0 +1,25 @@
+{
+    "name": "Robert Sutton",
+    "age": 97,
+    "address": {
+        "street": "Jessica Rest",
+        "city": "South Lisa",
+        "state": "Colorado",
+        "zip": "29147"
+    },
+    "contact": {
+        "phone": "(497)763-4327x019",
+        "servicePhone": "800855179"
+    },
+    "birthday": "1928-02-08",
+    "ip": "213.47.166.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful send media effect development. Important seek once kind especially wind finish. Term job bar management stay.",
+        "bio": "She collection morning should example material particularly. Low spring power lay own middle market activity.\nPlace professor feeling be into would large space. Consumer compare scene financial."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
