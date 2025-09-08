@@ -1,0 +1,25 @@
+{
+    "name": "Derek Jones",
+    "age": 17,
+    "address": {
+        "street": "Marcus Ferry",
+        "city": "Port Robertfort",
+        "state": "Louisiana",
+        "zip": "15352"
+    },
+    "contact": {
+        "phone": "519.667.1749x21082",
+        "servicePhone": "800740705"
+    },
+    "birthday": "2008-09-01",
+    "ip": "221.143.248.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge drive for then kid million one. Find standard education day area ever.",
+        "bio": "Seven student of party performance hair memory must. Manage nearly huge.\nEffect far family score. History fear about. Forget whose color."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
