@@ -1,0 +1,25 @@
+{
+    "name": "Zoe Holloway",
+    "age": 20,
+    "address": {
+        "street": "Joshua Points",
+        "city": "West Kaitlyn",
+        "state": "Colorado",
+        "zip": "64237"
+    },
+    "contact": {
+        "phone": "001-701-480-3209x1506",
+        "servicePhone": "800327046"
+    },
+    "birthday": "2005-18-06",
+    "ip": "173.111.99.126",
+    "foo": "bar",
+    "profile": {
+        "about": "So call policy dog parent. Student indeed give relationship.",
+        "bio": "Operation sit talk certain front bank people. Lose medical tend now western worry finish.\nShake democratic front visit site. Stay style dark between five score wall lead. Enjoy local bring."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
