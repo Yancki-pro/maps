@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Moon",
+    "age": 3,
+    "address": {
+        "street": "Nicholson Haven",
+        "city": "Mcdanielville",
+        "state": "Missouri",
+        "zip": "35844"
+    },
+    "contact": {
+        "phone": "834.855.6295x6893",
+        "servicePhone": "800774559"
+    },
+    "birthday": "2022-18-02",
+    "ip": "69.141.159.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom center thank field near finish recently up. View part high so. Provide another green.\nThem dream tough pass federal issue possible enough. Small by skin right.",
+        "bio": "Situation article real fire agree. About true Mr top throw teach nor head. Line sometimes floor realize adult among.\nManage sure house body edge pressure remain. Family child serve bad serve debate."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
