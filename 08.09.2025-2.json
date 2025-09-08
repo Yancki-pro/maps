@@ -1,0 +1,25 @@
+{
+    "name": "Tristan Johnson",
+    "age": 107,
+    "address": {
+        "street": "Melissa Glen",
+        "city": "South Timothy",
+        "state": "Virginia",
+        "zip": "44240"
+    },
+    "contact": {
+        "phone": "+1-841-998-2897x677",
+        "servicePhone": "800331880"
+    },
+    "birthday": "1918-21-09",
+    "ip": "26.97.135.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Century federal idea control. Radio point because song ok. Foreign how beyond treat or.\nLet right open fish floor upon. Either relate some necessary. Oil key improve class set.",
+        "bio": "Easy while commercial Mrs. Former or quite few behavior account. Base commercial remain close.\nBoard take hospital. Become community daughter hold."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
