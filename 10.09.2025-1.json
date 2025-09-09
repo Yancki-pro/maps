@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Hale",
+    "age": 0,
+    "address": {
+        "street": "Kim Mountain",
+        "city": "North John",
+        "state": "Delaware",
+        "zip": "85270"
+    },
+    "contact": {
+        "phone": "476-561-6652x64428",
+        "servicePhone": "800059143"
+    },
+    "birthday": "2025-19-09",
+    "ip": "137.250.219.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept cell beyond poor structure ground moment certainly. Carry college challenge behind. Director number appear always future everyone.",
+        "bio": "Long military range common. Beat approach thank mouth benefit produce Republican. Newspaper color perhaps industry.\nQuality media against stage."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
