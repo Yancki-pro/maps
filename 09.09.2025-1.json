@@ -1,0 +1,25 @@
+{
+    "name": "Marcia Gutierrez",
+    "age": 40,
+    "address": {
+        "street": "Rachel Cape",
+        "city": "Paulton",
+        "state": "Minnesota",
+        "zip": "38215"
+    },
+    "contact": {
+        "phone": "543-673-6383x012",
+        "servicePhone": "800645392"
+    },
+    "birthday": "1985-15-04",
+    "ip": "193.132.65.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Third campaign paper itself exist. Finally wish player management television include.\nWorld take mind ability magazine. Local life social appear. Various send impact draw green floor.",
+        "bio": "Ground material lot certain option she. Dinner me impact better family including local sell.\nArgue provide mission best. Life short watch answer. Follow town myself front building free."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
