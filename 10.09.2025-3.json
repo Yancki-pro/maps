@@ -1,0 +1,25 @@
+{
+    "name": "Emily Garcia",
+    "age": 90,
+    "address": {
+        "street": "Andrew Land",
+        "city": "Lake Gloria",
+        "state": "Iowa",
+        "zip": "71512"
+    },
+    "contact": {
+        "phone": "001-279-533-0650x198",
+        "servicePhone": "800717352"
+    },
+    "birthday": "1935-05-06",
+    "ip": "98.0.88.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain dark radio both quite talk present by. Out window case world today.\nBut air material site technology age. Hospital old situation system.",
+        "bio": "Explain girl message huge think. Congress free factor author I figure.\nMusic black region body field. Property it reality leg unit our. Again war team politics discuss."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
