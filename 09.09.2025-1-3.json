@@ -1,0 +1,25 @@
+{
+    "name": "Mary Navarro",
+    "age": 23,
+    "address": {
+        "street": "Jeffrey Islands",
+        "city": "East Charlesside",
+        "state": "Vermont",
+        "zip": "86551"
+    },
+    "contact": {
+        "phone": "001-583-247-8905",
+        "servicePhone": "800748479"
+    },
+    "birthday": "2002-20-06",
+    "ip": "40.136.220.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Along sea contain clear significant. In only these especially newspaper. Magazine if region. All artist with notice pull.\nOutside control toward bit. Choose analysis boy PM fine suggest build.",
+        "bio": "Fund find civil majority.\nTen lose enter down smile be. Accept behavior property shoulder such.\nOnto look worker."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
