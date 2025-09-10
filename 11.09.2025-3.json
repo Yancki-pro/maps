@@ -1,0 +1,25 @@
+{
+    "name": "James Manning",
+    "age": 55,
+    "address": {
+        "street": "Jones Valleys",
+        "city": "Pierceburgh",
+        "state": "Nevada",
+        "zip": "56975"
+    },
+    "contact": {
+        "phone": "290.211.1579",
+        "servicePhone": "800622992"
+    },
+    "birthday": "1970-26-11",
+    "ip": "59.229.139.185",
+    "foo": "bar",
+    "profile": {
+        "about": "House door special anyone.\nManager rest fear build specific. Recently political third artist difficult foreign. Plant trial possible one design source.",
+        "bio": "Low affect Mr her smile. Same difficult draw court little red drug.\nPerson question scene really soon. Beautiful heavy direction Mr bar while on country. Story consumer here late."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
