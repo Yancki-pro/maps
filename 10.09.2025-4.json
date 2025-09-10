@@ -1,0 +1,25 @@
+{
+    "name": "Joanna Barrett",
+    "age": 66,
+    "address": {
+        "street": "Cheryl Fall",
+        "city": "Mccormickville",
+        "state": "Rhode Island",
+        "zip": "22704"
+    },
+    "contact": {
+        "phone": "7204156380",
+        "servicePhone": "800730062"
+    },
+    "birthday": "1959-25-09",
+    "ip": "139.19.205.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Within challenge factor skill best remain stuff fact. Common light fund important worker themselves remember paper. So feel box open fly quality.",
+        "bio": "Appear customer recent agency chance. Their yes yard remain.\nCrime activity green support rock. Leader member garden culture hand individual. Dark least voice something."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
