@@ -1,0 +1,25 @@
+{
+    "name": "David Brown",
+    "age": 22,
+    "address": {
+        "street": "Lynn Way",
+        "city": "Davidbury",
+        "state": "Nebraska",
+        "zip": "28552"
+    },
+    "contact": {
+        "phone": "424-606-8608x7165",
+        "servicePhone": "800281083"
+    },
+    "birthday": "2003-26-10",
+    "ip": "191.35.131.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Send create pattern audience when win model. Where start one general chair from.\nManager move south maybe quality decision. Poor reality join research model mother. Culture become author door book.",
+        "bio": "Yourself compare design. Room art marriage student start.\nStock cell there network second. Something watch stuff marriage bit scene Democrat."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
