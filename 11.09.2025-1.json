@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Mckay",
+    "age": 48,
+    "address": {
+        "street": "Jesse Shore",
+        "city": "Obrienberg",
+        "state": "Nebraska",
+        "zip": "50621"
+    },
+    "contact": {
+        "phone": "001-487-588-2273x920",
+        "servicePhone": "800554665"
+    },
+    "birthday": "1977-22-03",
+    "ip": "99.246.191.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Body chance another build only garden. Wall thank they relationship conference animal hospital.\nMilitary likely world effect over mother middle mind. Long analysis write could of contain husband.",
+        "bio": "Environmental voice information energy get site mention. Brother up team system. Hot above thousand myself assume.\nCareer every poor write painting."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
