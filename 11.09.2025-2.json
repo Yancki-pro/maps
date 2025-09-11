@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Craig",
+    "age": 11,
+    "address": {
+        "street": "Roberson Hills",
+        "city": "North David",
+        "state": "Illinois",
+        "zip": "07303"
+    },
+    "contact": {
+        "phone": "956-517-8871x00687",
+        "servicePhone": "800139707"
+    },
+    "birthday": "2014-09-03",
+    "ip": "149.97.77.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Term check recently have occur market stop.\nWould doctor ago another. Hotel water decide future program kitchen. Down magazine sort pass low particular.",
+        "bio": "Would one line yeah.\nDown instead most citizen fish price. Lot however TV begin property five lead."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
