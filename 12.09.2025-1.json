@@ -1,0 +1,25 @@
+{
+    "name": "Carol Jones",
+    "age": 19,
+    "address": {
+        "street": "Ward Street",
+        "city": "West Lisa",
+        "state": "Kansas",
+        "zip": "43623"
+    },
+    "contact": {
+        "phone": "800.921.3743x83515",
+        "servicePhone": "800468455"
+    },
+    "birthday": "2006-10-03",
+    "ip": "144.247.130.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring mission for main step. Oil could suffer it base easy high.\nRemember past task public always picture.",
+        "bio": "Reveal after course travel decade player agree. Himself police follow who."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
