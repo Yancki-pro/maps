@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Roberts",
+    "age": 61,
+    "address": {
+        "street": "Sandra Shores",
+        "city": "Marshberg",
+        "state": "New Hampshire",
+        "zip": "31872"
+    },
+    "contact": {
+        "phone": "(888)355-3810x798",
+        "servicePhone": "800874908"
+    },
+    "birthday": "1964-23-04",
+    "ip": "180.39.95.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost after side citizen development quickly shake score. Item could include spring speech defense.\nDetail population them least a add hour. Later item machine.",
+        "bio": "Best staff whatever speech. Kind response seven hair present.\nBeautiful lawyer everything air. Dog drive face himself either base travel.\nInteresting position concern state front happen body."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
