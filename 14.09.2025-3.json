@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Molina",
+    "age": 102,
+    "address": {
+        "street": "Middleton Key",
+        "city": "Porterfort",
+        "state": "Montana",
+        "zip": "96145"
+    },
+    "contact": {
+        "phone": "(344)496-5233x710",
+        "servicePhone": "800666810"
+    },
+    "birthday": "1923-29-01",
+    "ip": "130.49.245.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Box organization front home difficult. Property continue attention table service show safe. Others program near collection inside dinner.",
+        "bio": "Power indeed contain entire. Toward around face wait.\nFine discover recent media south up top. Become agent election central coach start if."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
