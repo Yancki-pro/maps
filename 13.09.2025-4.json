@@ -1,0 +1,25 @@
+{
+    "name": "Riley Sullivan",
+    "age": 41,
+    "address": {
+        "street": "Michael Mall",
+        "city": "North Jessica",
+        "state": "Maine",
+        "zip": "43761"
+    },
+    "contact": {
+        "phone": "385-378-9645",
+        "servicePhone": "800265298"
+    },
+    "birthday": "1984-09-10",
+    "ip": "54.30.7.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile build discover agency. Language military interview information face.\nCan magazine then attention enough final. Tend loss report tough fast.\nSource anything cover degree. Push material article.",
+        "bio": "However book current understand. Particular nearly yard different she at forget. Blood let local enjoy out design guy."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
