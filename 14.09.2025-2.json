@@ -1,0 +1,25 @@
+{
+    "name": "Martin Trujillo",
+    "age": 88,
+    "address": {
+        "street": "Obrien Roads",
+        "city": "North Kristi",
+        "state": "Washington",
+        "zip": "44261"
+    },
+    "contact": {
+        "phone": "(807)542-8189",
+        "servicePhone": "800272124"
+    },
+    "birthday": "1937-11-11",
+    "ip": "109.170.53.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Color and so difference. Marriage example moment marriage imagine today red.\nOne never thing may blood. Prove my public staff. Easy son member between region organization.",
+        "bio": "Concern economy describe stuff under reality. Bed enough for piece always. People similar a six college always.\nStill school process. Main above fact teach still."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
