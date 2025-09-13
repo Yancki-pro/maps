@@ -1,0 +1,25 @@
+{
+    "name": "Anne Conrad",
+    "age": 2,
+    "address": {
+        "street": "Melissa Crossing",
+        "city": "Lake Vanessahaven",
+        "state": "Illinois",
+        "zip": "55657"
+    },
+    "contact": {
+        "phone": "001-416-745-7332x3220",
+        "servicePhone": "800282109"
+    },
+    "birthday": "2023-12-12",
+    "ip": "215.123.34.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Life cut summer three long.\nThey player write. Less wish star hope could government. Explain right half become.\nRace all everyone. Speak relationship most answer painting.",
+        "bio": "Debate author after away. Seven fear like manage attorney travel us firm. Just sometimes rate author than particularly."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
