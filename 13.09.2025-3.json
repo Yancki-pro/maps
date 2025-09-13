@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Combs",
+    "age": 49,
+    "address": {
+        "street": "Brandon Pike",
+        "city": "West Dawn",
+        "state": "Louisiana",
+        "zip": "81744"
+    },
+    "contact": {
+        "phone": "+1-826-475-0232x63478",
+        "servicePhone": "800898250"
+    },
+    "birthday": "1976-17-04",
+    "ip": "157.216.220.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior billion suggest training dream. Authority why term each. Win president keep institution world week per.",
+        "bio": "Conference face general group system. Tax information light others any billion. Attack far especially expert because throw decision."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
