@@ -1,0 +1,25 @@
+{
+    "name": "Richard Stone",
+    "age": 58,
+    "address": {
+        "street": "Robinson Crossroad",
+        "city": "Lake Amandaberg",
+        "state": "Illinois",
+        "zip": "52367"
+    },
+    "contact": {
+        "phone": "711-715-0256x6256",
+        "servicePhone": "800727476"
+    },
+    "birthday": "1967-04-11",
+    "ip": "123.44.108.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Local institution blood whatever system dog suffer phone. Turn control teach feel. Big road billion early worker finish.\nMrs also claim push final. Effect season practice billion serve thank.",
+        "bio": "Occur program teacher relationship military discover fall. No or pattern central. Must task too culture site painting. Will color capital green option different fact."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
