@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Wade",
+    "age": 22,
+    "address": {
+        "street": "Amy Squares",
+        "city": "Karafurt",
+        "state": "Oregon",
+        "zip": "92875"
+    },
+    "contact": {
+        "phone": "5969492426",
+        "servicePhone": "800432927"
+    },
+    "birthday": "2003-28-08",
+    "ip": "153.42.141.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Else strategy answer cut. Least there couple even how sure administration. Page alone early recently reflect.\nIndicate recognize certain person left arm above. Movement box network our plan pick.",
+        "bio": "Perform up view carry hot loss structure task. Wonder general history position several enter either who. Production occur cause consumer civil.\nClear part national dream. Lead able talk."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
