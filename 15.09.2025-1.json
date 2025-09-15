@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Harris",
+    "age": 114,
+    "address": {
+        "street": "Howard Turnpike",
+        "city": "New Mirandachester",
+        "state": "New Mexico",
+        "zip": "85895"
+    },
+    "contact": {
+        "phone": "(663)869-1357",
+        "servicePhone": "800192307"
+    },
+    "birthday": "1911-28-04",
+    "ip": "47.25.38.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Option happy field organization. Husband political many night cup money.\nArtist past manage ten share. Have culture when eight he.",
+        "bio": "Event above pick positive cover learn. Up international him activity take miss usually. Me however thus heart collection next. Southern head least about prepare."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
