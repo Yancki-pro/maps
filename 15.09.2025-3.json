@@ -1,0 +1,25 @@
+{
+    "name": "Donald Martinez",
+    "age": 25,
+    "address": {
+        "street": "Haas Coves",
+        "city": "Lake Ashleychester",
+        "state": "Iowa",
+        "zip": "17373"
+    },
+    "contact": {
+        "phone": "401.479.9176",
+        "servicePhone": "800545010"
+    },
+    "birthday": "2000-28-12",
+    "ip": "203.96.131.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem upon positive. Term to away record clearly become practice anyone. Role save where keep spring reveal ground former.",
+        "bio": "Share cause reality. Response may back exactly.\nCompare reduce particularly street card space. Move south child office nation full score."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
