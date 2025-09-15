@@ -1,0 +1,25 @@
+{
+    "name": "Heather Trevino",
+    "age": 73,
+    "address": {
+        "street": "Desiree Inlet",
+        "city": "West Alvin",
+        "state": "Tennessee",
+        "zip": "74601"
+    },
+    "contact": {
+        "phone": "+1-216-717-6331x93049",
+        "servicePhone": "800649169"
+    },
+    "birthday": "1952-27-09",
+    "ip": "194.203.56.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong serious board people together manage information network. Chance realize blue enjoy none pressure. Both since bag pattern nothing than.\nTest establish yard song ago above myself.",
+        "bio": "Through line level account yet major. Eat couple leader father through improve certain.\nForm certain first girl. Event consumer on drive glass instead act list."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
