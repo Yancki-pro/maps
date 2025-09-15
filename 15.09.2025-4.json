@@ -1,0 +1,25 @@
+{
+    "name": "Emily Flores",
+    "age": 47,
+    "address": {
+        "street": "Charles Lodge",
+        "city": "Joshuashire",
+        "state": "Indiana",
+        "zip": "64405"
+    },
+    "contact": {
+        "phone": "(770)976-0674",
+        "servicePhone": "800730450"
+    },
+    "birthday": "1978-17-08",
+    "ip": "194.23.110.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit network back claim with probably. Ago know city same trade tend cold. Modern artist cold be away bar car.\nHome my also TV service what. Eye loss understand.",
+        "bio": "She activity million alone best animal play it. Fear view network financial value brother. Across attack to population vote land direction.\nOr poor career. Buy magazine director people apply box."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
