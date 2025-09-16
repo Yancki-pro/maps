@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Newton",
+    "age": 98,
+    "address": {
+        "street": "Christopher Points",
+        "city": "Collinsburgh",
+        "state": "North Dakota",
+        "zip": "98765"
+    },
+    "contact": {
+        "phone": "001-371-429-4578",
+        "servicePhone": "800515389"
+    },
+    "birthday": "1927-19-01",
+    "ip": "165.136.22.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor same inside hard single walk. Bank seat some science.\nWoman recognize strong he too person guess. Fast purpose majority.",
+        "bio": "Treat together until wall table. My reduce according improve city explain road. Huge fine paper cell ok learn personal."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
