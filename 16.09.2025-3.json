@@ -1,0 +1,25 @@
+{
+    "name": "Diana Miller",
+    "age": 95,
+    "address": {
+        "street": "Mark Cliffs",
+        "city": "Lindseyfurt",
+        "state": "Indiana",
+        "zip": "34517"
+    },
+    "contact": {
+        "phone": "831.763.3744x10369",
+        "servicePhone": "800379650"
+    },
+    "birthday": "1930-04-01",
+    "ip": "9.53.215.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference heavy care man item usually. Thousand international interview lay.\nReduce page but civil analysis. Ever ball half plan.",
+        "bio": "Bit look win song. Economic usually want provide. Under successful rise ball true evidence future ground.\nOwn benefit son check scientist. Commercial save wife might."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
