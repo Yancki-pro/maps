@@ -1,0 +1,25 @@
+{
+    "name": "John Lewis",
+    "age": 81,
+    "address": {
+        "street": "Darren Well",
+        "city": "Angelamouth",
+        "state": "Iowa",
+        "zip": "14261"
+    },
+    "contact": {
+        "phone": "371-714-2397",
+        "servicePhone": "800693461"
+    },
+    "birthday": "1944-18-04",
+    "ip": "163.234.33.54",
+    "foo": "bar",
+    "profile": {
+        "about": "If bed music imagine. Instead oil risk other sense recently money. Decision budget accept easy at certain when rock.",
+        "bio": "Skill ever across figure she moment put. Crime interesting house image system sing.\nFire bar cover enough member. Five quite thank agree music win."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
