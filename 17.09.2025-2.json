@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Stephens",
+    "age": 11,
+    "address": {
+        "street": "Joseph Center",
+        "city": "Stevensonchester",
+        "state": "Virginia",
+        "zip": "48022"
+    },
+    "contact": {
+        "phone": "2934869353",
+        "servicePhone": "800796913"
+    },
+    "birthday": "2014-21-06",
+    "ip": "220.31.12.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade pay require admit game blood. Continue leg challenge arrive pattern.",
+        "bio": "Fact game hold former often. Cultural shoulder body pretty prepare read social. Possible go live."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
