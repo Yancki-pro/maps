@@ -1,0 +1,25 @@
+{
+    "name": "Susan Shaw",
+    "age": 61,
+    "address": {
+        "street": "Stephen Fork",
+        "city": "Justintown",
+        "state": "Indiana",
+        "zip": "66886"
+    },
+    "contact": {
+        "phone": "794-881-0811x7560",
+        "servicePhone": "800459772"
+    },
+    "birthday": "1964-08-04",
+    "ip": "73.238.121.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Local night our girl white. Energy from large pull anyone. Still support leader along born police drive.\nNone my figure space occur. Animal choice watch close.",
+        "bio": "Officer whole war spring public.\nHit water loss environment rule oil certainly.\nRelate lot surface operation. Bring design front some finish film situation."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
