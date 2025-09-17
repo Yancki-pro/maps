@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Pham",
+    "age": 11,
+    "address": {
+        "street": "Taylor Wells",
+        "city": "New Mindyton",
+        "state": "Rhode Island",
+        "zip": "09385"
+    },
+    "contact": {
+        "phone": "393-242-1214",
+        "servicePhone": "800416102"
+    },
+    "birthday": "2014-19-11",
+    "ip": "146.16.59.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Car same leader big available. Approach accept fear support pattern particularly.\nOur lose people sort listen in move minute. City state pull manager. Door simply whose use.",
+        "bio": "Reveal voice difficult hand. Camera tree free animal interesting computer want.\nSouthern treat someone resource foot. While stock her as. Like yet side trade seat traditional doctor."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
