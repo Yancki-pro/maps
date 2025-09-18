@@ -1,0 +1,25 @@
+{
+    "name": "Donald Allen",
+    "age": 29,
+    "address": {
+        "street": "Smith Lights",
+        "city": "Hodgesstad",
+        "state": "Kansas",
+        "zip": "14510"
+    },
+    "contact": {
+        "phone": "+1-601-230-4066x809",
+        "servicePhone": "800289849"
+    },
+    "birthday": "1996-27-08",
+    "ip": "79.180.173.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain southern manager one piece. Although recently true animal.\nPerson almost less two gun eye. Capital final low among there memory media.",
+        "bio": "Value report stock I. Ask none tell bed body participant father. Board without military worker per reflect it save. Same agreement understand here next true manage worry."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
