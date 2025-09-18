@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Reed",
+    "age": 51,
+    "address": {
+        "street": "Lawrence Plaza",
+        "city": "Erikaside",
+        "state": "Florida",
+        "zip": "87686"
+    },
+    "contact": {
+        "phone": "(426)741-2673x92523",
+        "servicePhone": "800137492"
+    },
+    "birthday": "1974-25-03",
+    "ip": "160.107.31.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue resource card bill student indeed likely. Enjoy low then plant line. Top do value weight.\nTrial change teach make mother. Culture keep all book better guess. Arm generation everything house.",
+        "bio": "Thus enter pay themselves return security process know. Street small than policy kind support.\nTheir hit item between every ready. Particular certain lawyer again adult detail."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
