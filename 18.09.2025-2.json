@@ -1,0 +1,25 @@
+{
+    "name": "Jose Black",
+    "age": 63,
+    "address": {
+        "street": "Gonzalez Mountains",
+        "city": "Jamieburgh",
+        "state": "South Carolina",
+        "zip": "52981"
+    },
+    "contact": {
+        "phone": "+1-559-618-1062",
+        "servicePhone": "800710869"
+    },
+    "birthday": "1962-31-07",
+    "ip": "206.152.9.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough federal other either win remember. Foot off when example law to black.\nChurch grow really green save remain hot control. Difficult actually pattern here military ready guy.",
+        "bio": "Sign per help American teacher together. Goal true others power else carry. Follow give score century.\nManager party impact rate week tree hot. Leader push key difference little man."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
