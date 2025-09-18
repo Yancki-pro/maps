@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Williams",
+    "age": 113,
+    "address": {
+        "street": "Perez Locks",
+        "city": "West Mark",
+        "state": "Tennessee",
+        "zip": "80100"
+    },
+    "contact": {
+        "phone": "(513)419-9019x1053",
+        "servicePhone": "800664016"
+    },
+    "birthday": "1912-17-03",
+    "ip": "25.173.162.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Fall look game hope administration development. Whole teacher huge feel able prepare and. Coach training ready agent. Natural beautiful throw enter now especially.",
+        "bio": "Within size model meet be. Body allow structure beyond. Plan necessary local lay yet alone.\nThem system source side specific. Such field buy it central how. Participant person manager send."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
