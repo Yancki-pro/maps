@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Hayes",
+    "age": 99,
+    "address": {
+        "street": "Maddox Mission",
+        "city": "Olsonchester",
+        "state": "Michigan",
+        "zip": "01978"
+    },
+    "contact": {
+        "phone": "574.635.6004",
+        "servicePhone": "800111308"
+    },
+    "birthday": "1926-27-08",
+    "ip": "185.125.13.45",
+    "foo": "bar",
+    "profile": {
+        "about": "According management practice style here. Suggest opportunity tonight improve none rest book. Believe and personal difficult road.\nThird media represent push.\nPolitical individual any.",
+        "bio": "Within class low miss expect send than responsibility. Skill kitchen professional know again cause drive.\nProgram someone not usually. East market decade less."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
