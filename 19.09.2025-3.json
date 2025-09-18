@@ -1,0 +1,25 @@
+{
+    "name": "Dana Williams",
+    "age": 28,
+    "address": {
+        "street": "Allen Manors",
+        "city": "South Ryan",
+        "state": "Maine",
+        "zip": "90290"
+    },
+    "contact": {
+        "phone": "598.978.3226x33588",
+        "servicePhone": "800493693"
+    },
+    "birthday": "1997-24-06",
+    "ip": "19.149.170.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor indicate heart reach not no general. Body compare personal team evidence rich manager. Forget eye region continue prove alone.",
+        "bio": "Position gun expert threat. Rather price loss large be.\nArticle value in. Civil population rather treatment old good four. Body Mr sign boy."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
