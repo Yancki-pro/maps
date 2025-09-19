@@ -1,0 +1,25 @@
+{
+    "name": "Leon Bright",
+    "age": 79,
+    "address": {
+        "street": "Kimberly Creek",
+        "city": "Edwardtown",
+        "state": "Kansas",
+        "zip": "34636"
+    },
+    "contact": {
+        "phone": "338-377-2648x4817",
+        "servicePhone": "800556725"
+    },
+    "birthday": "1946-11-03",
+    "ip": "46.159.26.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim treatment sit name. Sure three model project suggest decision be. Exist image form player identify include only.\nMention because give. Many woman spring apply than art.",
+        "bio": "Government ask leg. Could still decision show voice size entire couple. Edge detail concern build natural. Return just beautiful fall since speech film."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
