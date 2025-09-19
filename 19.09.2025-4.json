@@ -1,0 +1,25 @@
+{
+    "name": "Michael Garcia",
+    "age": 16,
+    "address": {
+        "street": "Melissa Lodge",
+        "city": "Justinstad",
+        "state": "New Jersey",
+        "zip": "06099"
+    },
+    "contact": {
+        "phone": "+1-860-691-7552x21499",
+        "servicePhone": "800058218"
+    },
+    "birthday": "2009-19-11",
+    "ip": "26.191.23.7",
+    "foo": "bar",
+    "profile": {
+        "about": "General child surface carry hospital. Capital site they full player. Similar level series sense. Establish prove among physical.\nRecently recently bag computer.",
+        "bio": "Dog father author kid miss forget. Avoid behind international. Long church black friend.\nQuickly four own power. Recently everyone wind yet society.\nUp money stage concern."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
