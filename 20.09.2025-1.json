@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Logan",
+    "age": 98,
+    "address": {
+        "street": "Kenneth Shore",
+        "city": "New Jennifer",
+        "state": "Pennsylvania",
+        "zip": "86661"
+    },
+    "contact": {
+        "phone": "5353815199",
+        "servicePhone": "800363120"
+    },
+    "birthday": "1927-29-12",
+    "ip": "24.196.80.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor quite line friend fight despite. Court community somebody sister recognize. Set behind as create marriage thank.",
+        "bio": "Drive seem that must small record well. Power special country husband morning Mrs. Ground perform coach.\nKnowledge yes bit same camera. Job thing truth treatment real face do."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
