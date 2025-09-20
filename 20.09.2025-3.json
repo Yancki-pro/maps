@@ -1,0 +1,25 @@
+{
+    "name": "Cory Thompson",
+    "age": 29,
+    "address": {
+        "street": "Katrina River",
+        "city": "North Melissa",
+        "state": "Alabama",
+        "zip": "87212"
+    },
+    "contact": {
+        "phone": "863.293.9077x6313",
+        "servicePhone": "800004880"
+    },
+    "birthday": "1996-24-04",
+    "ip": "4.156.192.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich from police idea imagine own. Today someone family officer director.\nAnimal experience relationship find.",
+        "bio": "Movement partner list language. Low open music direction. Art body small get city determine surface reach."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
