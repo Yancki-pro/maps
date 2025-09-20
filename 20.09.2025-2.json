@@ -1,0 +1,25 @@
+{
+    "name": "David Martin",
+    "age": 47,
+    "address": {
+        "street": "Thompson Well",
+        "city": "Port Kyle",
+        "state": "Indiana",
+        "zip": "88861"
+    },
+    "contact": {
+        "phone": "406.575.4557x986",
+        "servicePhone": "800745983"
+    },
+    "birthday": "1978-29-05",
+    "ip": "105.172.218.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Who continue fish build finally type all. Knowledge suffer reach. State PM effort.\nLeast year your will beautiful pay cut rest. Family real past walk. Listen audience meeting line look between.",
+        "bio": "Scientist arm allow key total him. Great reflect beat decade growth word staff. Successful certain notice politics difference yard detail deep."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
