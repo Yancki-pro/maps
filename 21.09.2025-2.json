@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Blankenship",
+    "age": 98,
+    "address": {
+        "street": "Heidi Center",
+        "city": "East Andrewburgh",
+        "state": "Virginia",
+        "zip": "24715"
+    },
+    "contact": {
+        "phone": "439-672-5922x792",
+        "servicePhone": "800793278"
+    },
+    "birthday": "1927-14-04",
+    "ip": "204.221.153.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Range suddenly southern suddenly learn level. Attorney ask brother build now interview. Local first remain throw dream.\nCertain peace professor kind. A evidence lawyer.\nBudget but each program.",
+        "bio": "Often continue model so. Hear south although price reason report. Even work return lose some ability threat."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
