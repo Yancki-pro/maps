@@ -1,0 +1,25 @@
+{
+    "name": "Jason Gilbert",
+    "age": 32,
+    "address": {
+        "street": "Gardner Summit",
+        "city": "Simpsontown",
+        "state": "Montana",
+        "zip": "96954"
+    },
+    "contact": {
+        "phone": "395.394.9737x2281",
+        "servicePhone": "800418981"
+    },
+    "birthday": "1993-03-06",
+    "ip": "75.51.22.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Black level she box. Position strong report police. Also shake major them continue amount produce building. Economy near last hair view large agree.",
+        "bio": "State bill rich learn site western worker.\nNeed while condition. Town several whether create. Phone lawyer read as."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
