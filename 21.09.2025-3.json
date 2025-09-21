@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Stevens",
+    "age": 0,
+    "address": {
+        "street": "Sharon Spur",
+        "city": "North Kurt",
+        "state": "Pennsylvania",
+        "zip": "82559"
+    },
+    "contact": {
+        "phone": "2877308466",
+        "servicePhone": "800141221"
+    },
+    "birthday": "2025-17-08",
+    "ip": "46.42.145.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Call until hope whether able spring. Keep few lead government. Pull throw probably reveal institution total brother.\nStock part as these. Structure government soon shoulder newspaper.",
+        "bio": "Story drug space environmental. Meet stuff turn born person. Remember find serious site community kind."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
