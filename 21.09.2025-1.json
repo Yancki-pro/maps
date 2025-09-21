@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Martinez",
+    "age": 87,
+    "address": {
+        "street": "Tyrone Oval",
+        "city": "Hamiltonton",
+        "state": "Virginia",
+        "zip": "14687"
+    },
+    "contact": {
+        "phone": "+1-848-399-9320x8471",
+        "servicePhone": "800641151"
+    },
+    "birthday": "1938-15-10",
+    "ip": "134.28.31.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer customer common food. Kitchen interview Mr body focus at. Expect hour exactly score order effect method.",
+        "bio": "Feeling allow police will. Politics end throw. Seek himself capital.\nRegion government no remember image then front body. Our hospital heavy author. Prove material movement involve research himself."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
