@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Thompson",
+    "age": 110,
+    "address": {
+        "street": "Kirk Mill",
+        "city": "Lake Brian",
+        "state": "Minnesota",
+        "zip": "86428"
+    },
+    "contact": {
+        "phone": "957-586-8154x51890",
+        "servicePhone": "800537072"
+    },
+    "birthday": "1915-18-12",
+    "ip": "165.103.58.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly computer politics vote military account. Beat up develop amount later truth party.\nArm above order claim medical strong.\nUp subject standard save. Project research meet.",
+        "bio": "Consider study social group song. Must program have. Strong finally place real would news.\nArt culture almost increase week reach. Collection according many where travel point whom."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
