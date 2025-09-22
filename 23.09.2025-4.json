@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Dean",
+    "age": 77,
+    "address": {
+        "street": "Rowe Rapid",
+        "city": "East Brianmouth",
+        "state": "Alabama",
+        "zip": "76213"
+    },
+    "contact": {
+        "phone": "628.863.2353",
+        "servicePhone": "800867894"
+    },
+    "birthday": "1948-13-05",
+    "ip": "156.225.255.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Price since could end serious pull. End hold face would system.\nOffer political color. Bar eight society past.",
+        "bio": "Collection window here heavy nation bit. Something church voice wish agree several record own. Protect career three red very."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
