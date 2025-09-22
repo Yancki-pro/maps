@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Hodge",
+    "age": 111,
+    "address": {
+        "street": "Knight Track",
+        "city": "Taraview",
+        "state": "Texas",
+        "zip": "45093"
+    },
+    "contact": {
+        "phone": "001-520-628-0435x91082",
+        "servicePhone": "800354028"
+    },
+    "birthday": "1914-30-05",
+    "ip": "22.192.67.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Without life rate force. Baby sure person just baby concern. Area imagine daughter power.\nPhone grow challenge. Surface would turn smile model. Range body number candidate strategy pretty reality.",
+        "bio": "Human seven also machine yourself top old. Situation reduce use nature left argue teach ahead. Cup be cause but agree eight country."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
