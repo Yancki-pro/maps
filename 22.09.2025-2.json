@@ -1,0 +1,25 @@
+{
+    "name": "Robert White",
+    "age": 60,
+    "address": {
+        "street": "Medina Lock",
+        "city": "Lake Lisa",
+        "state": "California",
+        "zip": "65569"
+    },
+    "contact": {
+        "phone": "486-624-9087",
+        "servicePhone": "800160173"
+    },
+    "birthday": "1965-17-05",
+    "ip": "58.158.197.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Great check question win. Ever support my firm. Executive wonder effect knowledge example medical high.\nAlways itself development father. Rise movie understand team.",
+        "bio": "Bar yeah example. True response successful sit begin many prepare edge. Role any partner relate participant."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
