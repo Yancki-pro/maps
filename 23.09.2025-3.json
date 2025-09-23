@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Henderson",
+    "age": 81,
+    "address": {
+        "street": "Scott Meadow",
+        "city": "Brownside",
+        "state": "Minnesota",
+        "zip": "03954"
+    },
+    "contact": {
+        "phone": "3579164883",
+        "servicePhone": "800661937"
+    },
+    "birthday": "1944-19-11",
+    "ip": "195.145.67.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Report have where black local give difficult. Race party concern fish billion. Key deal conference.",
+        "bio": "Vote rock suffer friend. Score radio model final. Window population worry expect federal poor point."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
