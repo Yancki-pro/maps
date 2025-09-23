@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gould",
+    "age": 91,
+    "address": {
+        "street": "Chelsea Creek",
+        "city": "West Jessicaside",
+        "state": "Louisiana",
+        "zip": "89187"
+    },
+    "contact": {
+        "phone": "+1-926-716-1093x47961",
+        "servicePhone": "800975479"
+    },
+    "birthday": "1934-22-04",
+    "ip": "113.106.231.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer develop executive. Laugh decade ago person. Recognize perform during service.\nCultural team president size.\nOwner decade science source summer. Source big onto year book company participant.",
+        "bio": "Special official stay hour style. Far matter bad shoulder different car play. Kid drive us recent card prove administration. Population would whom nice or heart."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
