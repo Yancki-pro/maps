@@ -1,0 +1,25 @@
+{
+    "name": "Edwin Hall",
+    "age": 103,
+    "address": {
+        "street": "Kelley Inlet",
+        "city": "Millerborough",
+        "state": "Wyoming",
+        "zip": "86731"
+    },
+    "contact": {
+        "phone": "(398)707-1628",
+        "servicePhone": "800146420"
+    },
+    "birthday": "1922-15-06",
+    "ip": "31.205.247.223",
+    "foo": "bar",
+    "profile": {
+        "about": "To onto tax language beautiful again. Manager different election have.\nLine senior money.\nSection cut professor news phone girl anything.",
+        "bio": "Rather sign type.\nAlways down daughter various. Focus born wide cover ready top. Doctor perform it meet especially material might."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
