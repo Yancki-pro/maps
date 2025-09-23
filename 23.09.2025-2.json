@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Johnson",
+    "age": 50,
+    "address": {
+        "street": "Laura Vista",
+        "city": "Port Justin",
+        "state": "Florida",
+        "zip": "69706"
+    },
+    "contact": {
+        "phone": "703-279-8914x214",
+        "servicePhone": "800223968"
+    },
+    "birthday": "1975-04-04",
+    "ip": "134.27.59.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Position rise high go.\nMouth project most. Chair appear whole must apply add company here. Station friend nor accept air.\nStop response man animal try floor.",
+        "bio": "Friend edge especially then. Specific about I color put somebody.\nSeven place life peace something help security. Last myself bill tonight money never."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
