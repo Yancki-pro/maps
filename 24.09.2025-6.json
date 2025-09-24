@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Mckinney",
+    "age": 101,
+    "address": {
+        "street": "Lee Station",
+        "city": "Deborahberg",
+        "state": "Wyoming",
+        "zip": "96055"
+    },
+    "contact": {
+        "phone": "337-410-8812x113",
+        "servicePhone": "800509060"
+    },
+    "birthday": "1924-13-06",
+    "ip": "8.211.169.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Network short here fact might stock center. Term produce want author company eat none state. Draw difference let box president time over.",
+        "bio": "Fish heavy color discover drive. By range social task social itself. Too understand authority some attention establish.\nNews would safe always. Thank budget there happy wish cold actually."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
