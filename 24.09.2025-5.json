@@ -1,0 +1,25 @@
+{
+    "name": "Michael Brown",
+    "age": 79,
+    "address": {
+        "street": "Simon Springs",
+        "city": "New Derek",
+        "state": "New Hampshire",
+        "zip": "22106"
+    },
+    "contact": {
+        "phone": "001-277-412-6918x5575",
+        "servicePhone": "800622349"
+    },
+    "birthday": "1946-22-03",
+    "ip": "142.120.51.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate hospital manager. Hand can risk ready drive several current.",
+        "bio": "Republican property today animal anything. Together western ten million actually. Sea west long.\nFriend international since message son have movie care. Member hit artist pretty share society."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
