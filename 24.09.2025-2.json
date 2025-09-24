@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Stokes",
+    "age": 11,
+    "address": {
+        "street": "Mary Trail",
+        "city": "East Rebecca",
+        "state": "Illinois",
+        "zip": "77457"
+    },
+    "contact": {
+        "phone": "(266)942-9021x537",
+        "servicePhone": "800987112"
+    },
+    "birthday": "2014-18-12",
+    "ip": "209.42.203.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Church behind road sit walk history none.\nEvent concern box begin happy. Material data section factor sit article late.",
+        "bio": "Close moment forget property bar not themselves. Miss military dinner.\nThis very everybody organization."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
