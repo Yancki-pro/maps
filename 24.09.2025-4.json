@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Olson",
+    "age": 91,
+    "address": {
+        "street": "Oconnor Squares",
+        "city": "Alexborough",
+        "state": "Iowa",
+        "zip": "17307"
+    },
+    "contact": {
+        "phone": "727-292-2348",
+        "servicePhone": "800092646"
+    },
+    "birthday": "1934-28-02",
+    "ip": "123.94.240.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Any successful race read drug into recognize. Western time special second exist sport future.\nGet major focus. Baby might create should kind decision. Pattern know today fall short focus.",
+        "bio": "Some strategy hundred several girl thus kind. Even true least customer course.\nMost manager effect institution gun. Senior inside challenge poor. Chance whether opportunity."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
