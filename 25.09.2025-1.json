@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Moore",
+    "age": 2,
+    "address": {
+        "street": "Wood Flats",
+        "city": "East Brandon",
+        "state": "Oklahoma",
+        "zip": "40129"
+    },
+    "contact": {
+        "phone": "201-716-3839",
+        "servicePhone": "800278005"
+    },
+    "birthday": "2023-19-06",
+    "ip": "74.127.22.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer talk moment leader reflect travel. School entire future list they west. Contain beautiful read.\nSpeech process hard eye wait. Vote middle short market at assume baby idea. Here start myself.",
+        "bio": "Nothing enjoy our side direction personal this. When less international special.\nGun purpose indeed focus cut program memory."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
