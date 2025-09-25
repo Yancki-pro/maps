@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Reed",
+    "age": 6,
+    "address": {
+        "street": "Brown Row",
+        "city": "West Laurenburgh",
+        "state": "Idaho",
+        "zip": "35004"
+    },
+    "contact": {
+        "phone": "952.828.9665x84503",
+        "servicePhone": "800097564"
+    },
+    "birthday": "2019-28-08",
+    "ip": "153.216.24.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence pull possible painting story plan base fact. Across pressure quite military. Month month level actually. Might daughter speech many.",
+        "bio": "Structure it long throughout service stuff fine character. Series seek perform cup time season. Meeting early sister build close job style save."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
