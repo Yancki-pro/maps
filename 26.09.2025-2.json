@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Butler",
+    "age": 18,
+    "address": {
+        "street": "Mary Walks",
+        "city": "Noblebury",
+        "state": "Arkansas",
+        "zip": "22316"
+    },
+    "contact": {
+        "phone": "733.715.0909",
+        "servicePhone": "800887731"
+    },
+    "birthday": "2007-04-07",
+    "ip": "141.62.169.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel laugh west lawyer agreement program building deal. Bank treatment poor area amount.\nDrive current job director range hot. Real face movie moment dog.",
+        "bio": "Look picture research idea north. Guess ability either back. Add return candidate entire. Raise three building.\nEat generation never security forward. Box bed child."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
