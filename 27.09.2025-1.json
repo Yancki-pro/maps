@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Edwards",
+    "age": 80,
+    "address": {
+        "street": "Alicia Lights",
+        "city": "Krauseport",
+        "state": "Alaska",
+        "zip": "02584"
+    },
+    "contact": {
+        "phone": "536.206.7480x39665",
+        "servicePhone": "800510995"
+    },
+    "birthday": "1945-12-01",
+    "ip": "34.18.209.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Case yeah wish fight. Suddenly career lose. Under study hour trade common.\nRecently represent so. At hand staff enough three. Call quickly sure include.",
+        "bio": "Though court form quickly sister doctor. Them including key fact inside agreement. All catch move serve teach."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
