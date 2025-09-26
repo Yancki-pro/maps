@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Schmitt",
+    "age": 100,
+    "address": {
+        "street": "Hamilton Underpass",
+        "city": "Lake Joseph",
+        "state": "Louisiana",
+        "zip": "23874"
+    },
+    "contact": {
+        "phone": "505.630.3809x8368",
+        "servicePhone": "800742485"
+    },
+    "birthday": "1925-26-09",
+    "ip": "51.10.204.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest we once school bill international. Sell late different trip.\nFor measure unit public institution do. Several pretty kid live sense. Amount know those security war.",
+        "bio": "Moment finish pretty well career brother be. Production tend brother decade everyone development. American deal risk.\nThan hospital center soldier. But animal court bag."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
