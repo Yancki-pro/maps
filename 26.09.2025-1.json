@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Martin",
+    "age": 114,
+    "address": {
+        "street": "David Island",
+        "city": "East Colechester",
+        "state": "South Carolina",
+        "zip": "94584"
+    },
+    "contact": {
+        "phone": "(655)568-3288x939",
+        "servicePhone": "800589400"
+    },
+    "birthday": "1911-10-06",
+    "ip": "49.134.55.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody conference measure six enjoy.\nFive summer suggest picture. Husband while off rise Democrat person western.",
+        "bio": "Executive air apply laugh. Miss before despite care.\nCold create newspaper word certain quality. Congress record dog present whole action least else. Instead opportunity than because American."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
