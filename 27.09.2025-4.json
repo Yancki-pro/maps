@@ -1,0 +1,25 @@
+{
+    "name": "William Middleton",
+    "age": 27,
+    "address": {
+        "street": "Mckay Springs",
+        "city": "New Luke",
+        "state": "Oregon",
+        "zip": "75974"
+    },
+    "contact": {
+        "phone": "731.523.5188",
+        "servicePhone": "800739980"
+    },
+    "birthday": "1998-04-07",
+    "ip": "178.165.25.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Role recent at. Color she past performance star some. Allow him degree class president over try.\nThat real pass remain drug. Professor position leg remain.\nWar let full explain. Sense per former.",
+        "bio": "Paper hundred drive. Consider return end toward know customer admit.\nPosition reflect follow network. Yeah fact baby."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
