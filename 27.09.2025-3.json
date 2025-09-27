@@ -1,0 +1,25 @@
+{
+    "name": "Ricardo Spencer",
+    "age": 102,
+    "address": {
+        "street": "Griffin Ferry",
+        "city": "Port Richardland",
+        "state": "Nebraska",
+        "zip": "40227"
+    },
+    "contact": {
+        "phone": "+1-798-702-7611x3110",
+        "servicePhone": "800382368"
+    },
+    "birthday": "1923-24-05",
+    "ip": "166.214.235.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning four member tell husband board away. East raise box blood media.\nStudent enter fast score under drug travel. Mean heart something TV current radio behavior.",
+        "bio": "Serve picture about billion traditional international. Simple often recent.\nSee lose person. Structure huge various. Ahead data often."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
