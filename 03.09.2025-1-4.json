@@ -1,0 +1,25 @@
+{
+    "name": "Blake Wood",
+    "age": 73,
+    "address": {
+        "street": "Kristen Tunnel",
+        "city": "Ericashire",
+        "state": "California",
+        "zip": "84392"
+    },
+    "contact": {
+        "phone": "3892083370",
+        "servicePhone": "800799230"
+    },
+    "birthday": "1952-06-03",
+    "ip": "22.165.173.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost talk cold nearly. Since hair radio take close star happy.\nFour health teach believe election. Control effect available if pick management ahead.",
+        "bio": "Medical rise wife green summer develop weight. Important name off glass decision mother trouble.\nNation season middle season. Radio each campaign call behavior determine. Especially occur us rate."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
