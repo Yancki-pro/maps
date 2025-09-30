@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Lambert",
+    "age": 76,
+    "address": {
+        "street": "Lopez Stream",
+        "city": "East Stephaniechester",
+        "state": "West Virginia",
+        "zip": "20383"
+    },
+    "contact": {
+        "phone": "563.977.4955x2153",
+        "servicePhone": "800096955"
+    },
+    "birthday": "1949-03-08",
+    "ip": "162.23.41.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Space friend fill window simply. He worry floor bill society hard room. Mean leg past power.\nKnowledge leg take. Name grow parent record.",
+        "bio": "Real need economy spring arm area. Some cold gun prove shoulder six seem. Attention service buy boy."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
