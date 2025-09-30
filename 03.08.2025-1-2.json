@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Burnett",
+    "age": 112,
+    "address": {
+        "street": "Medina Spring",
+        "city": "Ballville",
+        "state": "Nevada",
+        "zip": "74645"
+    },
+    "contact": {
+        "phone": "334.385.4069",
+        "servicePhone": "800702951"
+    },
+    "birthday": "1913-17-02",
+    "ip": "63.61.166.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Information sign cut design. Little him common simply high explain there. Church main rather treatment room fine.\nBudget one south PM visit build person third.",
+        "bio": "Tax them address there. They suddenly page.\nEasy enjoy while never. Congress effort finish which west do later.\nEnd either sound street his involve situation. Full level community sport."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
