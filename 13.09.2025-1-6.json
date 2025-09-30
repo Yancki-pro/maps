@@ -1,0 +1,25 @@
+{
+    "name": "Joy Stanley",
+    "age": 113,
+    "address": {
+        "street": "Holland Brook",
+        "city": "New Michael",
+        "state": "Tennessee",
+        "zip": "77971"
+    },
+    "contact": {
+        "phone": "9425988340",
+        "servicePhone": "800044849"
+    },
+    "birthday": "1912-07-05",
+    "ip": "40.100.205.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Per political need from. Boy increase open thought. On interest mission red rather American.\nWithout foot treatment something measure take series. Owner because number candidate leave protect.",
+        "bio": "Situation center morning player fine point matter. Born available country wind memory animal investment."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
