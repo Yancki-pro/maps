@@ -1,0 +1,25 @@
+{
+    "name": "Adam Le",
+    "age": 87,
+    "address": {
+        "street": "Anthony Cove",
+        "city": "Patrickville",
+        "state": "Washington",
+        "zip": "92743"
+    },
+    "contact": {
+        "phone": "(349)832-2948x370",
+        "servicePhone": "800724662"
+    },
+    "birthday": "1938-05-10",
+    "ip": "138.65.249.100",
+    "foo": "bar",
+    "profile": {
+        "about": "World dog whatever despite. Its close range.\nLeft reality too same knowledge deep.\nDefense example trip inside quality fund growth citizen. Figure worker marriage from.",
+        "bio": "Know product away form air another wish. Happen field majority.\nRepresent actually in scene past mission individual industry. Create show meeting look say page."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
