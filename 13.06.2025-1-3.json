@@ -1,0 +1,25 @@
+{
+    "name": "Alan Lambert",
+    "age": 17,
+    "address": {
+        "street": "Amy Ports",
+        "city": "Arnoldview",
+        "state": "Missouri",
+        "zip": "28789"
+    },
+    "contact": {
+        "phone": "603.533.6086",
+        "servicePhone": "800288398"
+    },
+    "birthday": "2008-28-01",
+    "ip": "116.97.72.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Area resource someone. Act ground political general politics. Rate house yeah guy real guy age.\nEnter budget push ahead issue bar.",
+        "bio": "Face money house fish everybody keep bill local. Building country hand give main ahead. Article necessary possible ahead address drop song."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

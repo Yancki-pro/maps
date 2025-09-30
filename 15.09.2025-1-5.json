@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Roman",
+    "age": 23,
+    "address": {
+        "street": "Ricardo Burgs",
+        "city": "North Brittany",
+        "state": "Ohio",
+        "zip": "75651"
+    },
+    "contact": {
+        "phone": "+1-318-896-6649",
+        "servicePhone": "800827076"
+    },
+    "birthday": "2002-12-02",
+    "ip": "78.132.127.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly heart movement performance reality newspaper. Share on several image. Staff leave evidence above decision clearly.\nStep west may first break budget choose support. Whatever I rich learn.",
+        "bio": "Security outside kid sing green.\nFormer with why program ten. Nation attorney anyone most. Reach teacher federal method involve time majority."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

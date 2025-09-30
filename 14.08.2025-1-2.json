@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Hamilton",
+    "age": 83,
+    "address": {
+        "street": "Jacqueline Ferry",
+        "city": "New Jennifer",
+        "state": "Connecticut",
+        "zip": "21116"
+    },
+    "contact": {
+        "phone": "001-241-272-1259",
+        "servicePhone": "800609048"
+    },
+    "birthday": "1942-28-10",
+    "ip": "63.52.233.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Maintain about fall finish anything food or. Event yet learn military. Drop three son give know college than kind. Level inside laugh not television effect.",
+        "bio": "Debate end want wait traditional say continue. Own history floor himself speech. Peace must test large foot stay.\nTake require there safe option under. Another pass stage medical."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

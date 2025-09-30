@@ -1,0 +1,25 @@
+{
+    "name": "Savannah Meza",
+    "age": 13,
+    "address": {
+        "street": "Kenneth Park",
+        "city": "South Patricia",
+        "state": "Nebraska",
+        "zip": "17590"
+    },
+    "contact": {
+        "phone": "(566)694-6773x039",
+        "servicePhone": "800415274"
+    },
+    "birthday": "2012-11-08",
+    "ip": "7.75.213.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Field behind class house. Film peace commercial number military practice wind. Theory really few miss often.",
+        "bio": "Never real break test drop democratic. Series past product view usually.\nArticle imagine break good little method. Lot try around people."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
