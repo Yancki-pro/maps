@@ -1,0 +1,25 @@
+{
+    "name": "Jackson Weber",
+    "age": 91,
+    "address": {
+        "street": "Reed Mountain",
+        "city": "Tammyborough",
+        "state": "Tennessee",
+        "zip": "53003"
+    },
+    "contact": {
+        "phone": "4242509177",
+        "servicePhone": "800843700"
+    },
+    "birthday": "1934-13-02",
+    "ip": "97.215.113.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility according form film. Man stand alone history range and. Fish leave chance resource son leg party put.\nOffice data always create. Painting who site me still hot.",
+        "bio": "Since can hear reveal identify. Explain treatment explain finally his.\nNor radio dream religious same pass hotel."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

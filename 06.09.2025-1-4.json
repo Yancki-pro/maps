@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Carlson",
+    "age": 59,
+    "address": {
+        "street": "David Rest",
+        "city": "Hendersonville",
+        "state": "Louisiana",
+        "zip": "95234"
+    },
+    "contact": {
+        "phone": "(534)672-1793x357",
+        "servicePhone": "800117981"
+    },
+    "birthday": "1966-04-08",
+    "ip": "209.73.155.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Later term bar those apply table meeting. Even benefit positive. Suddenly soon rich cause decision. Town decide property four medical one.",
+        "bio": "Enjoy by performance language. Trade his old behavior money appear.\nHuge foot voice behavior role many. Sing despite you middle democratic. Them show south them."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

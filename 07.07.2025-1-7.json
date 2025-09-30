@@ -1,0 +1,25 @@
+{
+    "name": "Diana Cline",
+    "age": 4,
+    "address": {
+        "street": "Scott Turnpike",
+        "city": "Lesliehaven",
+        "state": "Maine",
+        "zip": "33546"
+    },
+    "contact": {
+        "phone": "001-952-301-0493x2560",
+        "servicePhone": "800498759"
+    },
+    "birthday": "2021-09-08",
+    "ip": "95.206.126.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Time adult stock blood task. Among although scientist authority seven citizen.\nGrow current explain bring threat month point.",
+        "bio": "Most certainly store southern others interview usually toward. Kind today day quite. Number down account fill. Color type response different."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
